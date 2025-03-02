@@ -1,0 +1,158 @@
+{
+  "mainTopic": {
+    "title": "Placenta",
+    "team_name": "[Toast szeletek]",
+
+    "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+    "subTopics": [
+      {
+        "title": "General facts, Development of the human placenta, Implantation",
+        "quizzes": [
+          {
+            "question": "Describe the structural development and initial function of the human placenta during the first three weeks of gestation.",
+            "goodAnswer": "The human placenta begins development from zygotic tissues with the trophoblast being the first cell type to differentiate. By the end of the third week, it starts functioning, facilitating nutrient and waste exchange between the mother and the fetus.",
+            "wrongAnswer_1": "Development commences with the formation of the chorionic villi and is primarily functional by the second week, focusing initially on hormone production rather than fetal support.",
+            "wrongAnswer_2": "The placenta forms completely by the first week of pregnancy and immediately takes over the hormonal functions from the ovaries, with no significant structural changes thereafter.",
+            "wrongAnswer_3": "Placental development starts with differentiation of the endometrium and involves rapid cell division with little structural organization until the fourth week.",
+            "wrongAnswer_4": "It originates from maternal endometrial tissues and is fully functional at conception, providing immediate immunological protection to the embryo."
+          },
+          {
+            "question": "What is the role of the trophoblast in early placental development?",
+            "goodAnswer": "The trophoblast differentiates first from the zygotic tissues and functions to form the outer layer of the placenta, playing a crucial role in implantation and interface formation between the maternal and fetal environments.",
+            "wrongAnswer_1": "The trophoblast provides genetic material for the fetus and serves mainly to initiate the fetal portion of the blood supply.",
+            "wrongAnswer_2": "It acts primarily to produce pregnancy-associated hormones and does not contribute to the structural formation of the placenta.",
+            "wrongAnswer_3": "Trophoblast cells convert maternal nutrients directly into a form that can be absorbed by the fetus, bypassing the placental barrier.",
+            "wrongAnswer_4": "This cell type is primarily involved in the degradation of the maternal immune system to protect the fetus, rather than in the development of the placenta itself."
+          },
+          {
+            "question": "Explain how implantation of the embryo is achieved and its timing relative to ovulation.",
+            "goodAnswer": "Implantation occurs 7-8 days post-ovulation, involving the embryo attaching to the epithelium of the uterus and penetrating it, aiming for the decidua under hormone control and the activity of specialized structures like pinopods.",
+            "wrongAnswer_1": "The embryo implants immediately after ovulation, attaching superficially to the endometrium without deep penetration, facilitated by direct secretion of enzymes.",
+            "wrongAnswer_2": "Implantation happens within 3-4 days of ovulation with the embryo floating freely in the uterus until it randomly attaches to the uterine wall.",
+            "wrongAnswer_3": "The embryo embeds in the endometrium about two weeks after ovulation, following extensive growth and differentiation into the blastocyst stage.",
+            "wrongAnswer_4": "Implantation occurs at the moment of fertilization and is predominantly driven by maternal hormonal signals without significant involvement from the embryo."
+          },
+          {
+            "question": "What changes occur in the endometrium to facilitate embryo implantation?",
+            "goodAnswer": "Post-ovulation, the endometrium thickens, glands become tortuous, and spiral arteries form, alongside the appearance of pinopods and microvilli which help in increasing the apposition of embryo and endometrium, facilitating implantation.",
+            "wrongAnswer_1": "The endometrium thins to allow easier penetration by the embryo, and the decrease in vascular structure reduces the risk of maternal blood loss during implantation.",
+            "wrongAnswer_2": "Endometrial cells undergo apoptosis to create a more penetrable environment for the incoming embryo, which implants without further structural change.",
+            "wrongAnswer_3": "The endometrium becomes infiltrated with immune cells to prepare for potential infection upon embryo penetration, simultaneously hardening to support the embryo.",
+            "wrongAnswer_4": "Major hormonal fluctuations cause the endometrium to temporarily lose its structural integrity, allowing the embryo to implant without resistance."
+          }
+        ]
+      },
+      {
+        "title": "Immature Chorionic Villi, Trophectoderm differentiation, Early trophectoderm differentiation",
+        "quizzes": [
+          {
+            "question": "What are the primary functions and differentiation stages of the trophectoderm in placental development?",
+            "goodAnswer": "The trophectoderm initially differentiates into the outer cell layer of the blastocyst, crucial for initial implantation. Its cells mature into trophoblast giant cells, which are essential for invading the endometrium and establishing nutrient exchange pathways with the maternal blood supply.",
+            "wrongAnswer_1": "Trophectoderm cells differentiate solely into chorionic villi, functioning only to absorb nutrients passively from the maternal endometrium without active invasion or implantation.",
+            "wrongAnswer_2": "These cells remain undifferentiated throughout pregnancy, serving as a static barrier between the mother and fetus, without contributing to placental structure or function.",
+            "wrongAnswer_3": "The trophectoderm develops into the primary site for hormone production, differentiated from fetal cells by the end of the first trimester.",
+            "wrongAnswer_4": "Early trophectoderm cells differentiate into fibroblasts and endothelial cells, forming the structural basis of the placenta without participating in nutrient exchange."
+          },
+          {
+            "question": "Describe the role of Fgf4 and its receptor in the context of trophectoderm differentiation.",
+            "goodAnswer": "Fgf4 secreted by the inner cell mass (ICM) binds to Fgfr2 on the trophectoderm, a signaling crucial for its differentiation and subsequent development into trophoblast giant cells (TGCs), which are vital for placental development and embryo support.",
+            "wrongAnswer_1": "Fgf4 from the trophectoderm inhibits differentiation, keeping these cells in an undifferentiated state to maintain a stem cell reserve throughout pregnancy.",
+            "wrongAnswer_2": "The receptor Fgfr2 interacts with maternal signaling molecules rather than Fgf4, directing the migration of the trophectoderm away from the embryo.",
+            "wrongAnswer_3": "Fgf4 has a minor role, primarily involved in the early destruction of the trophectoderm to prevent ectopic pregnancies.",
+            "wrongAnswer_4": "Both Fgf4 and its receptor are only expressed after the first trimester, playing a role in the secondary expansion of the placenta rather than initial trophectoderm differentiation."
+          },
+          {
+            "question": "How do murine and human placental developments compare in terms of trophoblast and villous pattern formation?",
+            "goodAnswer": "In murines, the trophoblast differentiation and villous pattern formation occur simultaneously, while in humans, the villi are established first, and then the vascular structures develop to match the already formed villous patterns, influenced by factors such as Esx1 and various hypoxia-inducible factors.",
+            "wrongAnswer_1": "Human and murine placental developments are identical, with both species showing simultaneous trophectoderm differentiation and villous patterning right from the earliest stages of implantation.",
+            "wrongAnswer_2": "Murine placental development involves a delayed vascular pattern that only initiates after birth, whereas human development requires immediate vascularization for function.",
+            "wrongAnswer_3": "In humans, the trophoblast forms without any villous structures, relying entirely on direct cellular invasion for maternal-fetal nutrient exchange, opposite of murine development.",
+            "wrongAnswer_4": "Villous patterning is absent in murines, which exhibit a more primitive form of placental development compared to the highly structured human placental formation."
+          },
+          {
+            "question": "What physiological roles do the immature chorionic villi play in early gestation?",
+            "goodAnswer": "Immature chorionic villi, arising from trophoblast differentiation, facilitate the initial establishment of blood flow between the mother and the embryo. They evolve to form more complex structures that enhance nutrient and gas exchange as the placenta matures.",
+            "wrongAnswer_1": "These structures are primarily defensive, secreting barriers against potential pathogens during early pregnancy and playing no role in nutrition or respiration.",
+            "wrongAnswer_2": "Immature chorionic villi absorb shocks and physical stresses to the gestating embryo, without involving in metabolic exchanges.",
+            "wrongAnswer_3": "Their only function is to anchor the growing embryo to the uterine wall, preventing miscarriage by mechanical means rather than contributing to placental function.",
+            "wrongAnswer_4": "They produce pregnancy-associated hormones, with no direct involvement in the formation of the placental blood supply or nutrient transport."
+          }
+        ]
+      },
+      {
+        "title": "Branching, Vasculogenesis",
+        "quizzes": [
+          {
+            "question": "Explain the role of Gcm1 in placental branching and its impact on placental functionality.",
+            "goodAnswer": "Gcm1 is a transcription factor that initiates branching morphogenesis in the placenta, leading to increased surface area and thus enhanced nutrient and gas exchange capabilities. This is crucial for supporting the growing fetal demands throughout pregnancy.",
+            "wrongAnswer_1": "Gcm1 suppresses placental branching to maintain a compact placenta, reducing the risk of placental abruptions and ensuring easier nutrient management.",
+            "wrongAnswer_2": "This gene is involved in reducing the branching of blood vessels within the placenta, leading to a streamlined vascular system that is less prone to hemorrhages.",
+            "wrongAnswer_3": "Gcm1's primary function is to initiate vascular regression rather than promoting growth, ensuring that blood flow to the fetus is tightly regulated and limited.",
+            "wrongAnswer_4": "The factor acts only at the late stages of pregnancy, restructuring the placental architecture to prepare for labor rather than affecting early placental development."
+          },
+          {
+            "question": "Detail the sequential events of vasculogenesis in human placental development.",
+            "goodAnswer": "In human placental development, the formation of chorionic villi precedes the vascularization where blood vessels develop within these structures. This sequence is regulated by interactions between epithelial and mesenchymal cells, and influenced by factors like VEGF and Esx1.",
+            "wrongAnswer_1": "Vasculogenesis in humans occurs independently of villous development, with blood vessels forming in response to general fetal growth signals without specific localization cues.",
+            "wrongAnswer_2": "The blood vessels form first, creating a framework upon which the villi are later constructed, contrary to typical developmental patterns observed in other organ systems.",
+            "wrongAnswer_3": "Vasculogenesis does not play a significant role in human placental development, as the required blood supply is derived directly from maternal spiral arteries without forming fetal vessels.",
+            "wrongAnswer_4": "In humans, vasculogenesis begins postnatal, with placental blood vessels developing only after birth as a response to the newborn's respiratory needs."
+          },
+          {
+            "question": "How do the mechanisms of branching morphogenesis aid in the functional evolution of the placenta?",
+            "goodAnswer": "Branching morphogenesis in the placenta involves the formation of complex branching structures that increase the surface area available for maternal-fetal exchanges. This process is guided by molecular signals such as Fgf, and downstream components like Mek1, essential for accommodating the nutritional and respiratory needs of the growing fetus.",
+            "wrongAnswer_1": "Branching morphogenesis primarily functions to reduce the efficiency of nutrient transfer to ensure the fetus does not grow too rapidly, which could complicate childbirth.",
+            "wrongAnswer_2": "This mechanism leads to a denser, less permeable placenta that limits fetal exposure to maternal hormones and dietary toxins, rather than enhancing exchange surfaces.",
+            "wrongAnswer_3": "The process creates a smoother, less branched placental surface that enhances the speed of blood flow between mother and fetus, minimizing nutrient exchange in favor of improved waste removal.",
+            "wrongAnswer_4": "Branching morphogenesis is a pathological response to placental insufficiency, occurring only when the fetus is not receiving adequate nutrition and requiring medical intervention."
+          },
+          {
+            "question": "Describe the impact of the Wnt canonical pathway on placental development.",
+            "goodAnswer": "The Wnt canonical pathway, involving Tcf1 and Lef1, plays a critical role in placental development by regulating the proliferation and differentiation of trophoblast cells. This signaling pathway is essential for the formation of a functional placenta capable of supporting fetal development throughout pregnancy.",
+            "wrongAnswer_1": "This pathway inhibits placental growth, maintaining a minimalistic structure to prevent excessive nutrient consumption by the fetus.",
+            "wrongAnswer_2": "Wnt signaling is detrimental to placental development, typically resulting in the formation of tumors within the placenta that can obstruct fetal growth and development.",
+            "wrongAnswer_3": "It is indirectly involved, impacting placental development only through its effects on maternal kidney function, which in turn affects fluid balances in the placenta.",
+            "wrongAnswer_4": "The Wnt pathway is not active in placental tissues but is instead focused on preparing the fetus for post-natal life by enhancing lung and heart development."
+          }
+        ]
+      },
+      {
+        "title": "Immunobiology of pregnancy, Complement, Role of HLA-G, Adhesion molecules",
+        "quizzes": [
+          {
+            "question": "How does the mother's immune system adjust during pregnancy to protect both herself and the fetus?",
+            "goodAnswer": "During pregnancy, the mother's immune system is modulated to protect both her and the fetus. This includes heightened innate immune responses and adjusted adaptive responses to tolerate the semi-allogeneic fetus, involving mechanisms like controlled complement activation and the specific expression of nonclassical HLA molecules like HLA-G.",
+            "wrongAnswer_1": "The maternal immune system is completely suppressed during pregnancy to prevent any potential harm to the fetus, relying on passive barriers for protection against pathogens.",
+            "wrongAnswer_2": "Maternal immunity does not differentiate between self and fetal tissues, treating the fetus as a potential pathogen and continuously attempting to reject it throughout gestation.",
+            "wrongAnswer_3": "There is an increase in both innate and adaptive immune responses, leading to a heightened state of maternal immune activity that can occasionally recognize and attack fetal tissues.",
+            "wrongAnswer_4": "Immune adjustments involve the activation of dormant viruses within the mother, which provide natural immunizations against similar pathogens that might affect the fetus."
+          },
+          {
+            "question": "Explain the regulatory roles of complement regulatory proteins in pregnancy.",
+            "goodAnswer": "Complement regulatory proteins like DAF/CD55, MCP/CD46, and Crry prevent overactivation of the complement system during pregnancy, which could otherwise lead to tissue damage or fetal rejection. These proteins maintain a necessary balance to protect the fetus while still allowing the mother's immune system to function effectively against pathogens.",
+            "wrongAnswer_1": "These proteins amplify the complement response, increasing inflammation to prepare the body for potential infections related to labor and delivery.",
+            "wrongAnswer_2": "Regulatory proteins deactivate all maternal immune functions, creating a sterile internal environment to support fetal development uninterrupted by immune responses.",
+            "wrongAnswer_3": "Their role is primarily to enhance maternal immune memory, preparing the body for faster responses in subsequent pregnancies rather than protecting the current fetus.",
+            "wrongAnswer_4": "They diminish blood flow to the placenta, reducing immune cell trafficking to prevent the detection and attack on fetal cells, which could be mistaken for foreign invaders."
+          },
+          {
+            "question": "What functions do HLA-G molecules serve during pregnancy, and how are they related to fetal-maternal tolerance?",
+            "goodAnswer": "HLA-G molecules, expressed in the trophoblasts and other fetal tissues, play crucial roles in immuno-tolerance during pregnancy. They inhibit NK cell and specific CD8+ T cell mediated cytolysis, protecting fetal cells from maternal immune responses and reducing the likelihood of fetal rejection.",
+            "wrongAnswer_1": "These molecules trigger a general suppression of the immune system, reducing maternal defenses and increasing susceptibility to infections during pregnancy.",
+            "wrongAnswer_2": "HLA-G molecules enhance the detection capabilities of the maternal immune system, helping identify fetal cells as part of the mother's body, thus preventing their rejection.",
+            "wrongAnswer_3": "They are involved in enhancing maternal immune responses against the fetus, serving as markers that help direct immune attacks to eliminate non-viable fetuses early in pregnancy.",
+            "wrongAnswer_4": "HLA-G molecules are primarily decorative, signaling successful implantation and triggering celebratory immune responses that have little actual impact on pregnancy outcomes."
+          },
+          {
+            "question": "Describe the role of integrins in the implantation and development of the placenta.",
+            "goodAnswer": "Integrins are critical adhesion molecules that mediate the attachment of the embryo to the maternal endometrium during implantation. They facilitate cell-to-cell and cell-to-extracellular matrix interactions, essential for the stabilization and development of the placenta, and also transmit informational signals that may influence cellular behavior during placental development.",
+            "wrongAnswer_1": "Integrins prevent attachment of the embryo, maintaining a dynamic environment within the uterus that allows for free movement and growth of the embryo without restrictions imposed by early attachment.",
+            "wrongAnswer_2": "Their role is limited to late gestation, where they help detach the placenta from the uterus during delivery, rather than aiding in its development.",
+            "wrongAnswer_3": "Integrins are primarily involved in the manipulation of maternal DNA structures, ensuring compatibility between maternal and fetal genetic material to prevent immune conflicts.",
+            "wrongAnswer_4": "These molecules degrade shortly after conception, with no significant role in pregnancy beyond initiating the initial immune suppression needed to protect the embryo."
+          }
+        ]
+      }
+    ]
+  }
+}

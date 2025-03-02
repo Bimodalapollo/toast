@@ -1,0 +1,157 @@
+{
+  "mainTopic": {
+    "title": "Fibroids",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+    "subTopics": [
+      {
+        "title": "General characteristics",
+        "quizzes": [
+          {
+            "question": "What are fibroids commonly composed of, and how do they typically appear upon physical examination?",
+            "goodAnswer": "Fibroids are primarily composed of interdigitating bundles of smooth muscle and appear as glistening gray masses when shelled out during surgery.",
+            "wrongAnswer_1": "Fibroids are mainly composed of dense elastic fibers and usually present with a dark red appearance due to their high vascularity.",
+            "wrongAnswer_2": "Fibroids are predominantly fatty tissue masses and are often yellow, encapsulated, and soft on physical examination.",
+            "wrongAnswer_3": "Consisting mostly of calcified tissues, fibroids typically appear white and are very hard to the touch.",
+            "wrongAnswer_4": "Fibroids are largely connective tissue with a smooth texture, usually presenting as translucent on surgical inspection."
+          },
+          {
+            "question": "What demographic is most affected by fibroids according to epidemiological data?",
+            "goodAnswer": "Incidence in black women is three times greater than in white women, predominantly affecting women over the age of 35.",
+            "wrongAnswer_1": "Fibroids mostly occur in women under 30, with no significant racial variations noted in their distribution.",
+            "wrongAnswer_2": "Middle-aged Asian men are the most affected by fibroids, showing the highest prevalence rates globally.",
+            "wrongAnswer_3": "Hispanic women over the age of 50 represent the highest rate of fibroid cases per demographic.",
+            "wrongAnswer_4": "Predominantly found in European women in their twenties, making it a leading health concern in young adults."
+          },
+          {
+            "question": "Describe the hormonal relationships associated with fibroids.",
+            "goodAnswer": "Fibroids have a strong hormonal relationship, being stimulated to grow primarily by estrogen and progesterone.",
+            "wrongAnswer_1": "Fibroids growth is closely associated with increases in testosterone levels in both males and females.",
+            "wrongAnswer_2": "The growth of fibroids is inversely related to the levels of thyroid hormones in the body.",
+            "wrongAnswer_3": "Fibroids are unrelated to hormonal changes, growing independently of endocrine influences.",
+            "wrongAnswer_4": "Fibroid development is solely linked to the hormone cortisol, which increases their size during stress."
+          },
+          {
+            "question": "How are fibroids typically categorized based on their physical characteristics in medical practice?",
+            "goodAnswer": "Fibroids are generally described as smooth muscle tumors of the uterus, which are very common and circumscribed but not truly encapsulated.",
+            "wrongAnswer_1": "Typically, fibroids are classified as malignant tumors due to their rapid growth and potential to metastasize.",
+            "wrongAnswer_2": "Fibroids are usually categorized as either fully encapsulated lesions or as diffuse, widespread growths throughout the pelvic region.",
+            "wrongAnswer_3": "Medically, all fibroids are classified under cystic structures of the reproductive system, filled with fluid.",
+            "wrongAnswer_4": "Fibroids are often defined as irregular bone growths within the uterine lining, presenting calcified nodules."
+          }
+        ]
+      },
+      {
+        "title": "Location, Incidence & etiology, development of fibroids",
+        "quizzes": [
+          {
+            "question": "Where are fibroids most commonly located within the female reproductive system?",
+            "goodAnswer": "Fibroids may occur in the uterus, specifically in intramural, subserosal, and submucosal locations, and can also appear in the cervix and broad ligaments.",
+            "wrongAnswer_1": "Fibroids are generally found within the ovaries and are often connected to the fallopian tubes.",
+            "wrongAnswer_2": "Commonly, fibroids develop exclusively within the lower abdominal cavity, not attaching to any particular reproductive organ.",
+            "wrongAnswer_3": "They are most often located in the external areas around the pelvic girdle, rarely touching internal organs.",
+            "wrongAnswer_4": "Fibroids are typically found in the breast tissue and surrounding muscular areas rather than in the reproductive system."
+          },
+          {
+            "question": "Describe the primary cause of the increased growth of fibroids.",
+            "goodAnswer": "The growth of fibroids is primarily caused and stimulated by hormones such as estrogen and progesterone, and is influenced by factors like growth factors and somatic mutations of specific genes.",
+            "wrongAnswer_1": "Primarily, fibroid growth is triggered by low levels of physical activity and a diet high in processed foods.",
+            "wrongAnswer_2": "The primary cause for fibroids is chronic inflammation due to autoimmune disorders.",
+            "wrongAnswer_3": "Increased fibroid growth is usually a direct result of exposure to environmental pollutants and chemicals.",
+            "wrongAnswer_4": "They grow mainly due to genetic predispositions alone, with no influence from hormonal or environmental factors."
+          },
+          {
+            "question": "What models explain the development of fibroids in reproductive health?",
+            "goodAnswer": "Fibroids are considered to develop due to a classic paradigm where they are caused by and are stimulated to grow by hormonal factors like estrogen and progesterone, alongside growth factors such as TGF-s and bFGF.",
+            "wrongAnswer_1": "They develop primarily due to a lack of regular gynecological examinations, late-onset of menarche and early menopause.",
+            "wrongAnswer_2": "The development is based entirely on chronic stress models, which suggest that prolonged exposure to stress hormones like adrenaline causes fibroids.",
+            "wrongAnswer_3": "Fibroids develop through exposure to high-frequency electromagnetic fields, directly affecting cellular structures within the uterus.",
+            "wrongAnswer_4": "The model asserts that fibroids develop from excessive physical exercise, particularly high-impact sports, that disrupt normal pelvic blood flow."
+          },
+          {
+            "question": "Based on the incidence rates provided, who is more likely to develop fibroids?",
+            "goodAnswer": "Fibroids are most common in women of color, particularly African-American women, and incidence increases with factors like higher body mass index and decreases with factors like smoking or childbirth.",
+            "wrongAnswer_1": "They are most prevalent among young, athletic females who regularly participate in high-intensity training.",
+            "wrongAnswer_2": "Women living in high-altitude locations are significantly more prone to developing fibroids than those in sea-level areas.",
+            "wrongAnswer_3": "Fibroids are predominantly seen in women who have a diet high in dairy and meat products, regardless of other health factors.",
+            "wrongAnswer_4": "Middle-aged vegan women are the highest risk group for developing fibroids due to their dietary restrictions."
+          }
+        ]
+      },
+      {
+        "title": "Diagnosis",
+        "quizzes": [
+          {
+            "question": "What is the most common technique used to diagnose fibroids?",
+            "goodAnswer": "Ultrasonography is the most common method for diagnosing fibroids, although it may miss some types of submucous fibroids.",
+            "wrongAnswer_1": "Computed tomography (CT) scans are frequently used as the primary diagnostic tool for detecting fibroids.",
+            "wrongAnswer_2": "The most frequent method is biopsy, taking small tissues samples from the uterus for microscopic examination.",
+            "wrongAnswer_3": "Blood tests looking for specific markers are the standard approach to diagnosing fibroids.",
+            "wrongAnswer_4": "X-ray imaging is the preferred method since it provides clear imagery of the pelvic area and can easily identify abnormal growths."
+          },
+          {
+            "question": "Which advanced imaging technique is noted for distinguishing between different types of lesions similar to fibroids?",
+            "goodAnswer": "Magnetic resonance imaging (MRI) is used to distinguish between leiomyomas, adenomyomas, and leiomyosarcomas based on their electron spin characteristics.",
+            "wrongAnswer_1": "Enhanced ultrasound techniques using contrast agents are the best at differentiating between fibroid types.",
+            "wrongAnswer_2": "Positron emission tomography (PET) scanning is particularly effective because it tracks active cell growth present in different fibroid types.",
+            "wrongAnswer_3": "Thermography is used due to its ability to measure heat patterns which differ in various uterine growths compared to regular tissue.",
+            "wrongAnswer_4": "SPECT imaging is noted for its precision in distinguishing between diverse types of fibroids based on metabolic activity."
+          },
+          {
+            "question": "Describe how fibroids are palpated during a physical examination.",
+            "goodAnswer": "During a bimanual exam, fibroids can cause the uterus to feel enlarged, irregular, and mobile, and are often palpated abdominally above the symphysis.",
+            "wrongAnswer_1": "Fibroids typically make the uterus appear smaller and more compact during palpation, with a smooth texture.",
+            "wrongAnswer_2": "Physicians locate fibroids by identifying an unusual warmth in the lower abdomen, which indicates inflamed fibroid tissue.",
+            "wrongAnswer_3": "Fibroids are diagnosed through palpation by a significant cooling of the uterine region, suggesting the presence of calcified fibroids.",
+            "wrongAnswer_4": "During palpation, fibroids are identified due to a pulsating feeling in the uterus, a consequence of increased blood flow to the fibroids."
+          },
+          {
+            "question": "What challenges might healthcare providers face when diagnosing fibroids via ultrasonography?",
+            "goodAnswer": "Submucous fibroids can often be missed on traditional ultrasonography, presenting a significant diagnostic challenge.",
+            "wrongAnswer_1": "Ultrasonography can mistakenly detect fibroids when there are actually none, leading to misdiagnosis.",
+            "wrongAnswer_2": "The dense bone structure of the pelvic region often interferes with ultrasound waves, creating poor-quality images.",
+            "wrongAnswer_3": "The operator's experience plays a crucial role, as less-skilled practitioners might not correctly identify fibroid layers.",
+            "wrongAnswer_4": "Highly mobile fibroids can evade consistent imaging, making it difficult to obtain accurate and reliable ultrasound data."
+          }
+        ]
+      },
+      {
+        "title": "Therapy",
+        "quizzes": [
+          {
+            "question": "What is the definitive surgical treatment for leiomyomas as underscored?",
+            "goodAnswer": "Hysterectomy is often considered the only true 'cure' for leiomyomas, usually elected when women are no longer interested in future pregnancies, with over 175,000 such procedures yearly in the U.S. alone.",
+            "wrongAnswer_1": "Laparoscopic surgery is a definitive treatment offering fibroid removal with minimal recovery time, widely accepted as a first-line therapy.",
+            "wrongAnswer_2": "Electromyolysis, which involves electrically induced degeneration of fibroids, is highlighted as a standard cure.",
+            "wrongAnswer_3": "Cryoablation, which freezes fibroids, ensuring their complete eradication, is identified as the most effective surgical intervention.",
+            "wrongAnswer_4": "Fibrolipolysis, using targeted lipid breakdown, is often referred to as a cutting-edge cure for fibroids in medical literature."
+          },
+          {
+            "question": "How is menorrhagia associated with fibroids typically managed according to treatment protocols?",
+            "goodAnswer": "Myomectomy, which involves the surgical removal of myomas, diminishes menorrhagia in roughly 80% of cases, although there's a significant risk for recurrence.",
+            "wrongAnswer_1": "Oral contraceptives are the preferred and most effective treatment for menorrhagia caused by fibroids, with a high success rate.",
+            "wrongAnswer_2": "Routine use of iron supplements and anti-inflammatory drugs are the initial approach before considering any surgical options.",
+            "wrongAnswer_3": "Direct injection of coagulation factors is the standard treatment to control severe menorrhagia in fibroid-affected patients.",
+            "wrongAnswer_4": "Laser therapy applied to the endometrial lining is commonly proposed to manage bleeding symptoms efficiently."
+          },
+          {
+            "question": "Describe the use of GnRH agonists in the management of fibroids as highlighted in the course material.",
+            "goodAnswer": "GnRH agonists such as Lupron, Naferelin, and Gosserelin induce a hypoestrogenic menopausal state that causes fibroids to shrink, typically prescribed as a pre-surgical treatment but not viable long-term due to rapid re-growth post-treatment.",
+            "wrongAnswer_1": "GnRH agonists are primarily used post-surgery to prevent recurrence of fibroids by maintaining a stable hormonal environment.",
+            "wrongAnswer_2": "These agonists are administered as a one-time cure, effectively eliminating fibroids without the need for further treatment.",
+            "wrongAnswer_3": "GnRH agonists are often used as an alternative to surgery for elderly patients or those not eligible for anesthesia.",
+            "wrongAnswer_4": "The chronic administration of GnRH agonists is a common practice, viewed as the safest method to manage fibroids conservatively."
+          },
+          {
+            "question": "What role do androgenic agents play in the therapeutic approach to managing fibroids?",
+            "goodAnswer": "Androgenic agents like Danazol and Gestrinone are used in fibroid management to induce endometrial atrophy, though they do not consistently decrease uterine or fibroid volume and are often unsuccessful in controlling significant menorrhagia.",
+            "wrongAnswer_1": "These agents are often the first line of treatment due to their ability to rapidly reduce fibroid size by directly shrinking myometrial cells.",
+            "wrongAnswer_2": "Androgenic agents serve primarily to enhance progesterone receptor sensitivity in the uterus, indirectly aiding in fibroid shrinkage.",
+            "wrongAnswer_3": "Considered experimental, androgenic agents are used exclusively in clinical trials to test new fibroid management strategies.",
+            "wrongAnswer_4": "They are used to completely halt the growth of new fibroids, highly recommended for young women planning pregnancy."
+          }
+        ]
+      }
+    ]
+  }
+}

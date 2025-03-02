@@ -1,0 +1,194 @@
+{
+  "mainTopic": {
+    "title": "Oral Cavity and Salivary Glands",
+    "team_name": "[Toast szeletek]",
+    "content_info": "While the lectures are good for getting an idea of the structure of the course, the slides mostly contain images and diagrams, so to get more detailed information it is best to look through the lecture handouts, which follow the structure of the lecture only with more detailed descriptions, and the student notes which are not only more detailed but cover more topics than the lectures.",
+    "subTopics": [
+      {
+        "title": "Mucosa of the Oral Cavity",
+        "quizzes": [
+          {
+            "question": "What is the primary role of the mucosa in the oral cavity?",
+            "goodAnswer": "To protect underlying tissues and aid in secretion and sensory reception.",
+            "wrongAnswer_1": "To absorb nutrients directly from food intake.",
+            "wrongAnswer_2": "To secrete digestive enzymes like pepsin and trypsin.",
+            "wrongAnswer_3": "Acting solely as a physical barrier with no sensory functions.",
+            "wrongAnswer_4": "Generating saliva through salivary glands spread throughout the tissue."
+          },
+          {
+            "question": "How is the oral mucosa structurally suited to its functions in the mouth?",
+            "goodAnswer": "It has a tough stratified squamous epithelium that withstands abrasion.",
+            "wrongAnswer_1": "Lined with simple columnar epithelium for rapid absorption.",
+            "wrongAnswer_2": "Includes microvilli to increase surface area for enzyme secretion.",
+            "wrongAnswer_3": "Possesses a rigid, keratinized structure to facilitate food digestion.",
+            "wrongAnswer_4": "Contains villi similar to those in the intestines for nutrient absorption."
+          },
+          {
+            "question": "What are the sublayers in mucosa of the oral cavity and their respective functions?",
+            "goodAnswer": "Epithelial layer for protection, lamina propria for support, and muscularis mucosa for mobility.",
+            "wrongAnswer_1": "Mucosal lining to secrete digestive juices and serosal lining for structural support.",
+            "wrongAnswer_2": "Submucosa for fat storage and keratinized layer for vitamin synthesis.",
+            "wrongAnswer_3": "Goblet cells to produce mucus and pseudostratified tissue for gas exchange.",
+            "wrongAnswer_4": "Blood vessel-rich regions to facilitate rapid nutrient absorption and hormone transport."
+          },
+          {
+            "question": "What physiological conditions or practices can adversely affect the mucosa of the oral cavity?",
+            "goodAnswer": "Tobacco smoking, alcohol consumption, and poor oral hygiene can lead to mucosal damage.",
+            "wrongAnswer_1": "Regular consumption of high-fat diets can lead to mucosal layer breakdown.",
+            "wrongAnswer_2": "Continuous exposure to cold temperatures can cause mucosal layer thickening.",
+            "wrongAnswer_3": "High intake of vitamin C and D prevents the regeneration of mucosal tissues.",
+            "wrongAnswer_4": "Avoidance of ultraviolet light significantly decreases mucosal cell turnover."
+          }
+        ]
+      },
+      {
+        "title": "Histology of Teeth",
+        "quizzes": [
+          {
+            "question": "What are the primary tissues that make up the structure of teeth?",
+            "goodAnswer": "Enamel, dentin, cementum, and pulp are the main tissues in teeth.",
+            "wrongAnswer_1": "Teeth are primarily formed from bone-like tissue and keratin.",
+            "wrongAnswer_2": "Primarily cartilage with small amounts of mineralized fibers.",
+            "wrongAnswer_3": "Muscular and nervous tissues are the primary constituents.",
+            "wrongAnswer_4": "Teeth consist entirely of hardened enamel and soft pulp."
+          },
+          {
+            "question": "What is the function of enamel in the anatomy of teeth?",
+            "goodAnswer": "Enamel protects teeth from wear and decay, being the hardest substance in the human body.",
+            "wrongAnswer_1": "It provides flexibility to the teeth under pressure.",
+            "wrongAnswer_2": "Enamel aids in the absorption of calcium and phosphorus.",
+            "wrongAnswer_3": "It primarily functions to regenerate damaged tooth tissue.",
+            "wrongAnswer_4": "The enamel's primary role is to produce red blood cells."
+          },
+          {
+            "question": "How does dentin contribute to the overall function of teeth?",
+            "goodAnswer": "Dentin provides the primary structural support beneath the enamel and surrounds the pulp.",
+            "wrongAnswer_1": "Dentin actively secretes enzymes for food digestion.",
+            "wrongAnswer_2": "It serves as the main sensory tissue in response to thermal stimuli.",
+            "wrongAnswer_3": "Dentin contracts to aid in the mechanical digestion of food.",
+            "wrongAnswer_4": "Mainly stores excess nutrients like calcium for later use."
+          },
+          {
+            "question": "What role does dental pulp play in the health and function of teeth?",
+            "goodAnswer": "The pulp contains nerves and blood vessels, providing nutrients and sensation.",
+            "wrongAnswer_1": "Pulp polishes tooth surfaces to reduce bacterial attachment.",
+            "wrongAnswer_2": "It secretes saliva directly onto the tooth surface for chemical digestion.",
+            "wrongAnswer_3": "Main role is to facilitate the movement of teeth during mastication.",
+            "wrongAnswer_4": "Contains specialized cells that detoxify food contaminants."
+          }
+        ]
+      },
+      {
+        "title": "Histology of Salivary Glands",
+        "quizzes": [
+          {
+            "question": "What are the main types of cells found in salivary glands and their functions?",
+            "goodAnswer": "Serous cells secrete enzymes, mucous cells secrete mucus, and myoepithelial cells facilitate saliva expulsion.",
+            "wrongAnswer_1": "All salivary gland cells predominantly secrete digestive acids.",
+            "wrongAnswer_2": "Fat storage cells are the primary type, providing energy reserves.",
+            "wrongAnswer_3": "Red and white blood cells are formed in salivary glands for immune response.",
+            "wrongAnswer_4": "Primarily composed of adipose cells for thermal insulation."
+          },
+          {
+            "question": "How do the structures of parotid, sub-mandibular, and sub-lingual glands differ?",
+            "goodAnswer": "Parotid glands are serous, sub-mandibular glands are mixed, and sub-lingual glands are primarily mucous.",
+            "wrongAnswer_1": "All salivary glands are structurally and functionally identical.",
+            "wrongAnswer_2": "Parotid and sub-mandibular glands are purely mucous, while sub-lingual glands are serous.",
+            "wrongAnswer_3": "Each gland contains similar proportions of serous and mucous cells.",
+            "wrongAnswer_4": "Sub-lingual glands are primarily for hormone secretion, unlike the others."
+          },
+          {
+            "question": "What is the role of myoepithelial cells in salivary glands?",
+            "goodAnswer": "They contract to expel saliva from the gland into the oral cavity.",
+            "wrongAnswer_1": "Myoepithelial cells absorb nutrients from ingested food.",
+            "wrongAnswer_2": "They generate electrical impulses for neural coordination in the mouth.",
+            "wrongAnswer_3": "Principal function is genetic information storage within the gland.",
+            "wrongAnswer_4": "Myoepithelial cells regulate blood sugar levels through hormone secretion."
+          },
+          {
+            "question": "What are the potential health issues associated with malfunctions in salivary glands?",
+            "goodAnswer": "Disorders can lead to dry mouth, difficulty in swallowing, and increased dental caries.",
+            "wrongAnswer_1": "Primarily lead to enhanced taste sensation and overproduction of enzymes.",
+            "wrongAnswer_2": "Issues cause an increase in temperature sensitivity in the oral cavity.",
+            "wrongAnswer_3": "Malfunctions result in the overproduction of mucus and chronic sinusitis.",
+            "wrongAnswer_4": "Lead to involuntary contractions of jaw muscles and speech difficulties."
+          }
+        ]
+      },
+      {
+        "title": "Mechanism and Regulation of Saliva Secretion",
+        "quizzes": [
+          {
+            "question": "What initiates saliva production at the glandular level?",
+            "goodAnswer": "Stimulation by parasympathetic nervous signals primarily starts the production of saliva.",
+            "wrongAnswer_1": "Saliva production starts only in response to digestive hormones.",
+            "wrongAnswer_2": "Initiated solely by mechanical stimulation from chewing.",
+            "wrongAnswer_3": "Production is a constant, unregulated process.",
+            "wrongAnswer_4": "Triggered exclusively by sympathetic nervous activity."
+          },
+          {
+            "question": "How does the autonomic nervous system control saliva secretion?",
+            "goodAnswer": "Parasympathetic stimulation increases flow; sympathetic stimulation varies flow and composition.",
+            "wrongAnswer_1": "Both parasympathetic and sympathetic systems decrease saliva production.",
+            "wrongAnswer_2": "The autonomic system has no role in controlling saliva; it is hormone regulated.",
+            "wrongAnswer_3": "Sympathetic stimulation increases saliva production, while parasympathetic has no effect.",
+            "wrongAnswer_4": "Controlled by random impulses, with no specific pattern or regulation."
+          },
+          {
+            "question": "What are the roles of acinar and ductal cells in salivary secretion?",
+            "goodAnswer": "Acinar cells produce initial saliva, ductal cells modify its ionic composition as it moves towards the duct.",
+            "wrongAnswer_1": "Both cell types primarily absorb nutrients from saliva before it reaches the oral cavity.",
+            "wrongAnswer_2": "Acinar cells digest proteins, and ductal cells reabsorb digested products.",
+            "wrongAnswer_3": "Both types store excess saliva for release during periods of fasting.",
+            "wrongAnswer_4": "Acinar and ductal cells deactivate enzymes in saliva through pH adjustment."
+          },
+          {
+            "question": "What effect does Aldosterone have on saliva production?",
+            "goodAnswer": "Aldosterone modifies the ionic balance in saliva, primarily reducing sodium while increasing potassium.",
+            "wrongAnswer_1": "Increases saliva flow rate and viscosity.",
+            "wrongAnswer_2": "Triggers immediate halt in saliva production.",
+            "wrongAnswer_3": "Leads to an overproduction of enzyme-rich saliva.",
+            "wrongAnswer_4": "Effects are exclusive to saliva taste and not its production or composition."
+          }
+        ]
+      },
+      {
+        "title": "Components of Saliva",
+        "quizzes": [
+          {
+            "question": "What are the major components of saliva and their primary functions?",
+            "goodAnswer": "Water moistens the mouth, ions like HCO3- neutralize acids, amylase aids in starch digestion, and antibacterial compounds protect against microbes.",
+            "wrongAnswer_1": "Mainly consists of blood cells for oxygen transport and immune defense.",
+            "wrongAnswer_2": "Comprises primarily enzymes that digest proteins and fats.",
+            "wrongAnswer_3": "Saliva contains fibrous proteins for structural support in oral tissues.",
+            "wrongAnswer_4": "Primarily hormones that regulate digestive processes."
+          },
+          {
+            "question": "How does salivary amylase contribute to the digestion process?",
+            "goodAnswer": "It begins the breakdown of starch into smaller carbohydrates before being inactivated by stomach acid.",
+            "wrongAnswer_1": "It breaks down proteins into amino acids for easier absorption.",
+            "wrongAnswer_2": "Salivary amylase increases acidity in the stomach to aid in digestion.",
+            "wrongAnswer_3": "Functions to emulsify fats for better absorption in the intestines.",
+            "wrongAnswer_4": "Plays a role in nucleic acid breakdown into nucleotides."
+          },
+          {
+            "question": "What specific role do antibacterial components like lysozyme play in saliva?",
+            "goodAnswer": "They help to limit bacterial growth and prevent oral infections.",
+            "wrongAnswer_1": "Antibacterial components increase saliva viscosity, aiding in food digestion.",
+            "wrongAnswer_2": "They primarily break down food toxins into less harmful substances.",
+            "wrongAnswer_3": "Serve to enhance taste perception of bitter flavors.",
+            "wrongAnswer_4": "They stimulate taste buds to increase flavor sensitivity."
+          },
+          {
+            "question": "What is the importance of ions like calcium and fluoride in saliva?",
+            "goodAnswer": "They contribute to dental health by strengthening tooth enamel and preventing decay.",
+            "wrongAnswer_1": "Act as buffering agents to maintain constant pH levels in the oral cavity.",
+            "wrongAnswer_2": "These ions increase saliva production during meals for improved digestion.",
+            "wrongAnswer_3": "Serve primarily to regulate the temperature in the mouth.",
+            "wrongAnswer_4": "Calcium and fluoride ions play a minimal role, mainly involved in saliva coloration."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "mainTopic": {
+    "title": "Gross anatomy of urine transport",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The content includes both anatomical and physiological information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+    "subTopics": [
+      {
+        "title": "Ureters",
+        "quizzes": [
+          {
+            "question": "What is the primary function of the ureters in the urinary system?",
+            "goodAnswer": "To transport urine from the kidneys to the bladder",
+            "wrongAnswer_1": "To filter blood and create urine",
+            "wrongAnswer_2": "To store urine before excretion",
+            "wrongAnswer_3": "To excrete urine from the body",
+            "wrongAnswer_4": "To reabsorb nutrients from urine"
+          },
+          {
+            "question": "How are the ureters structurally adapted for their function?",
+            "goodAnswer": "They are muscular tubes that propel urine via peristaltic movements",
+            "wrongAnswer_1": "They have a large storage capacity to hold urine until micturition",
+            "wrongAnswer_2": "They contain valves that regulate urine production",
+            "wrongAnswer_3": "They are lined with villi to increase absorption",
+            "wrongAnswer_4": "They have external sphincters at the junction to the bladder"
+          },
+          {
+            "question": "What is the location of the ureters in relation to the peritoneum?",
+            "goodAnswer": "They are retroperitoneal, positioned behind the peritoneum",
+            "wrongAnswer_1": "They are intraperitoneal, located inside the peritoneal cavity",
+            "wrongAnswer_2": "They lie within the external muscular layer of the peritoneum",
+            "wrongAnswer_3": "They are anteroposterior, running along the anterior abdominal wall",
+            "wrongAnswer_4": "They are subperitoneal, found beneath the peritoneal lining of the abdomen"
+          }
+        ]
+      },
+      {
+        "title": "Bladder",
+        "quizzes": [
+          {
+            "question": "What is the primary function of the bladder in the urinary system?",
+            "goodAnswer": "Stores urine until urination",
+            "wrongAnswer_1": "Filters blood to create urine",
+            "wrongAnswer_2": "Produces hormones like EPO and calcitriol",
+            "wrongAnswer_3": "Reabsorbs water and electrolytes",
+            "wrongAnswer_4": "Secretes excess ions and wastes into the renal tubules"
+          },
+          {
+            "question": "Which muscle plays a critical role in the contraction and expansion of the bladder?",
+            "goodAnswer": "The detrusor muscle",
+            "wrongAnswer_1": "The sphincter muscle",
+            "wrongAnswer_2": "The abdominal oblique muscle",
+            "wrongAnswer_3": "The pelvic floor muscle",
+            "wrongAnswer_4": "The latissimus dorsi muscle"
+          },
+          {
+            "question": "Where is the bladder located?",
+            "goodAnswer": "It is a retroperitoneal organ located in the pelvic bone",
+            "wrongAnswer_1": "It is situated in the lower abdomen above the pelvic bone",
+            "wrongAnswer_2": "It is an intraperitoneal organ located in the upper abdomen",
+            "wrongAnswer_3": "It is located behind the gastrointestinal tract in the abdominal cavity",
+            "wrongAnswer_4": "It is positioned within the thoracic cavity near the kidneys"
+          },
+          {
+            "question": "What is the typical capacity of the bladder?",
+            "goodAnswer": "500 to 1000 mL",
+            "wrongAnswer_1": "100 to 200 mL",
+            "wrongAnswer_2": "2000 to 3000 mL",
+            "wrongAnswer_3": "50 to 100 mL",
+            "wrongAnswer_4": "1500 to 2000 mL"
+          }
+        ]
+      },
+      {
+        "title": "Urethra",
+        "quizzes": [
+          {
+            "question": "What is the primary function of the urethra in the urinary system?",
+            "goodAnswer": "To transport urine from the bladder out of the body",
+            "wrongAnswer_1": "To carry urine from the kidneys to the bladder",
+            "wrongAnswer_2": "To reabsorb water and electrolytes from urine",
+            "wrongAnswer_3": "To filter blood and produce urine",
+            "wrongAnswer_4": "To store urine before excretion"
+          },
+          {
+            "question": "How does the urethra differ anatomically between males and females?",
+            "goodAnswer": "In females, it is shorter and solely for urine transport, while in males, it's longer and serves for both urine and semen transport",
+            "wrongAnswer_1": "In males, it is shorter and used only for urination",
+            "wrongAnswer_2": "In females, it facilitates the transport of both urine and reproductive fluids",
+            "wrongAnswer_3": "Both males and females have urethras that serve equally for urine and semen transport",
+            "wrongAnswer_4": "The female urethra is external and more exposed, making it prone to infections"
+          },
+          {
+            "question": "What mechanism helps to prevent urine leakage?",
+            "goodAnswer": "The urethral sphincters control the flow of urine",
+            "wrongAnswer_1": "Capillary action in the urethral lining prevents leakage",
+            "wrongAnswer_2": "Gravitational forces keep the urine in place",
+            "wrongAnswer_3": "Active transport mechanisms reabsorb leaked urine",
+            "wrongAnswer_4": "Peristaltic movements of the urethra push urine out efficiently"
+          }
+        ]
+      }
+    ]
+  }
+}

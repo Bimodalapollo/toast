@@ -1,0 +1,189 @@
+{
+  "mainTopic": {
+    "title": "Airways",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The content includes both anatomical and physiological information; however, in each subtopic, we only need the anatomical information to be turned into revision questions",
+    "subTopics": [
+      {
+        "title": "The Nose and its Adjacent Structures",
+        "quizzes": [
+          {
+            "question": "What is the main entrance and exit for the respiratory system?",
+            "correctAnswer": "The nose",
+            "wrongAnswer_1": "The oral cavity",
+            "wrongAnswer_2": "The pharynx",
+            "wrongAnswer_3": "The trachea",
+            "wrongAnswer_4": "The larynx"
+          },
+          {
+            "question": "Where is the external nose located between?",
+            "correctAnswer": "The eyebrows and nasal cavity",
+            "wrongAnswer_1": "The mouth and chin",
+            "wrongAnswer_2": "The lips and pharynx",
+            "wrongAnswer_3": "The ear and forehead",
+            "wrongAnswer_4": "The cheeks and eyes"
+          },
+          {
+            "question": "What covers the outer part of the nose?",
+            "correctAnswer": "Cartilage",
+            "wrongAnswer_1": "Bone",
+            "wrongAnswer_2": "Tissue",
+            "wrongAnswer_3": "Muscle",
+            "wrongAnswer_4": "Skin"
+          },
+          {
+            "question": "What is the role of the nasal conchae?",
+            "correctAnswer": "Increase surface area and disrupt airflow",
+            "wrongAnswer_1": "Filter toxins and odors",
+            "wrongAnswer_2": "Regulate temperature",
+            "wrongAnswer_3": "Produce mucus",
+            "wrongAnswer_4": "Generate sound vibrations"
+          },
+          {
+            "question": "Where are the olfactory epithelia located?",
+            "correctAnswer": "In the nasal cavity",
+            "wrongAnswer_1": "In the pharynx",
+            "wrongAnswer_2": "In the sinuses",
+            "wrongAnswer_3": "In the trachea",
+            "wrongAnswer_4": "In the larynx"
+          }
+        ]
+      },
+      {
+        "title": "Pharynx",
+        "quizzes": [
+          {
+            "question": "What are the three major regions of the pharynx?",
+            "correctAnswer": "Nasopharynx, oropharynx, laryngopharynx",
+            "wrongAnswer_1": "Epipharynx, thoracopharynx, esophagopharynx",
+            "wrongAnswer_2": "Oropharynx, laryngotracheopharynx, esophagealpharynx",
+            "wrongAnswer_3": "Mouthpharynx, nasotracheopharynx, laryngealpharynx",
+            "wrongAnswer_4": "Epiglottis, esophagus, glottis"
+          },
+          {
+            "question": "What is the function of the pharyngeal tonsil?",
+            "correctAnswer": "Trap and destroy pathogens",
+            "wrongAnswer_1": "Manufacture red blood cells",
+            "wrongAnswer_2": "Produce hormones",
+            "wrongAnswer_3": "Filter out carbon dioxide",
+            "wrongAnswer_4": "Generate white blood cells"
+          },
+          {
+            "question": "Where can the palatine tonsils be found?",
+            "correctAnswer": "In the oropharynx",
+            "wrongAnswer_1": "Deep in the nasal cavity",
+            "wrongAnswer_2": "Attached to the epiglottis",
+            "wrongAnswer_3": "Behind the vocal cords",
+            "wrongAnswer_4": "Under the tongue"
+          },
+          {
+            "question": "What are the borders of the laryngopharynx?",
+            "correctAnswer": "Anteriorly by the esophagus, posteriorly by the larynx",
+            "wrongAnswer_1": "Inferiorly by the trachea, anteriorly by the oropharynx",
+            "wrongAnswer_2": "Covered by the epiglottis, surrounded by the thyroid cartilage",
+            "wrongAnswer_3": "Divided by the valleculae fore and aft",
+            "wrongAnswer_4": "Marked by the palatine tonsils and uvula"
+          },
+          {
+            "question": "What is the structure that helps prevent food from entering the trachea?",
+            "correctAnswer": "Epiglottis",
+            "wrongAnswer_1": "Vestibular fold",
+            "wrongAnswer_2": "Glottis",
+            "wrongAnswer_3": "Pharyngeal tonsil",
+            "wrongAnswer_4": "Palatine tonsil"
+          }
+        ]
+      },
+      {
+        "title": "Larynx",
+        "quizzes": [
+          {
+            "question": "What are the three main cartilages of the larynx?",
+            "correctAnswer": "Thyroid, cricoid, arytenoids",
+            "wrongAnswer_1": "Epiglottis, alar, corniculate",
+            "wrongAnswer_2": "Nasal, bronchial, septal",
+            "wrongAnswer_3": "Tracheal, esophageal, thyroid",
+            "wrongAnswer_4": "Frontal, sphenoid, ethmoid"
+          },
+          {
+            "question": "Which structure covers the opening of the trachea?",
+            "correctAnswer": "Epiglottis",
+            "wrongAnswer_1": "Vestibular folds",
+            "wrongAnswer_2": "Thyroid cartilage",
+            "wrongAnswer_3": "Arytenoid cartilage",
+            "wrongAnswer_4": "Cuneiform cartilage"
+          },
+          {
+            "question": "What would happen if the epiglottis is damaged?",
+            "correctAnswer": "Food can enter the trachea",
+            "wrongAnswer_1": "Voice production is affected",
+            "wrongAnswer_2": "Breathing becomes easier",
+            "wrongAnswer_3": "Air cannot reach the lungs",
+            "wrongAnswer_4": "The thyroid cartilage expands"
+          },
+          {
+            "question": "Which cartilage forms a ring at the base of the larynx?",
+            "correctAnswer": "Cricoid cartilage",
+            "wrongAnswer_1": "Thyroid cartilage",
+            "wrongAnswer_2": "Arytenoid cartilage",
+            "wrongAnswer_3": "Corniculate cartilage",
+            "wrongAnswer_4": "Cuneiform cartilage"
+          },
+          {
+            "question": "What is the function of the vocal cords?",
+            "correctAnswer": "Producing sound vibrations",
+            "wrongAnswer_1": "Regulating oxygen flow",
+            "wrongAnswer_2": "Trapping airborne particles",
+            "wrongAnswer_3": "Filtering carbon dioxide",
+            "wrongAnswer_4": "Aiding in food digestion"
+          }
+        ]
+      },
+      {
+        "title": "Trachea",
+        "quizzes": [
+          {
+            "question": "How many C-shaped cartilages support the trachea?",
+            "correctAnswer": "16 to 20",
+            "wrongAnswer_1": "8 to 12",
+            "wrongAnswer_2": "5 to 10",
+            "wrongAnswer_3": "20 to 25",
+            "wrongAnswer_4": "12 to 16"
+          },
+          {
+            "question": "What is the function of trachealis muscle?",
+            "correctAnswer": "Assisting in forced exhalation",
+            "wrongAnswer_1": "Aiding in laryngeal movement",
+            "wrongAnswer_2": "Generating vocal tones",
+            "wrongAnswer_3": "Regulating mucus secretion",
+            "wrongAnswer_4": "Promoting air intake"
+          },
+          {
+            "question": "What lines the inner walls of the trachea?",
+            "correctAnswer": "Pseudostratified ciliated epithelium",
+            "wrongAnswer_1": "Simple squamous epithelium",
+            "wrongAnswer_2": "Columnar epithelium",
+            "wrongAnswer_3": "Stratified epithelium",
+            "wrongAnswer_4": "Transitional epithelium"
+          },
+          {
+            "question": "In which cavity does the trachea sit?",
+            "correctAnswer": "Mediastinum",
+            "wrongAnswer_1": "Pericardial",
+            "wrongAnswer_2": "Intercostal",
+            "wrongAnswer_3": "Peritoneal",
+            "wrongAnswer_4": "Dorsal"
+          },
+          {
+            "question": "What protects the trachea from constant pressure changes?",
+            "correctAnswer": "Rings of cartilage",
+            "wrongAnswer_1": "Elastic fibers",
+            "wrongAnswer_2": "Cartilaginous plates",
+            "wrongAnswer_3": "Smooth muscles",
+            "wrongAnswer_4": "Mucosal folds"
+          }
+        ]
+      }
+    ]
+  }
+}

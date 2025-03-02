@@ -1,0 +1,93 @@
+{
+  "mainTopic": {
+    "title": "Mitral Stenosis",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of its dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+    "subTopics": [
+      {
+        "title": "Etiology, Pathophysiology",
+        "quizzes": [
+          {
+            "question": "What is a common cause of mitral stenosis and who is more frequently affected in terms of gender?",
+            "goodAnswer": "Rheumatic fever is a common cause of mitral stenosis and it is more prevalent in females than males by a ratio of 6:1.",
+            "wrongAnswer_1": "Mitral stenosis is primarily caused by genetic factors, and it affects males more frequently than females.",
+            "wrongAnswer_2": "Hypertension is the main etiological factor for mitral stenosis, commonly affecting individuals above fifty years of age.",
+            "wrongAnswer_3": "Lifestyle choices, such as diet and exercise, play the most significant role in the development of mitral stenosis which affects teenagers predominantly.",
+            "wrongAnswer_4": "Bacterial infection directly of the mitral valve is the most common cause, with males and females affected equally."
+          },
+          {
+            "question": "What anatomical changes occur in the mitral valve due to stenosis?",
+            "goodAnswer": "Scarring and fibrosis occur in the leaflets and chordae tendineae, alongside commissural fusion, leading to a funnel-shaped orifice and a pressure gradient across the valve.",
+            "wrongAnswer_1": "Mitral valve stenosis is characterized by the calcification of the aortic valve, leading to reduced blood flow to the heart's chambers.",
+            "wrongAnswer_2": "In mitral stenosis, the pulmonary valve undergoes fibrosis, restricting blood flow from the ventricles.",
+            "wrongAnswer_3": "The primary change in mitral stenosis is a significant increase in the size of the mitral valve’s opening, allowing excessive blood flow.",
+            "wrongAnswer_4": "Mitral stenosis is marked by the complete atrophy of the mitral valve leaflets, effectively eliminating the valve's function."
+          }
+        ]
+      },
+      {
+        "title": "Clinical features",
+        "quizzes": [
+          {
+            "question": "What are common symptoms of mitral stenosis as the valve area decreases?",
+            "goodAnswer": "Symptoms include dyspnea on exertion that progresses to dyspnea at rest, along with orthopnea and paroxysmal nocturnal dyspnea as the condition worsens.",
+            "wrongAnswer_1": "Common symptoms include sudden episodes of bradycardia followed by hypertension as the disease progresses.",
+            "wrongAnswer_2": "The most noticeable early symptom is a persistent cough, which then progresses to severe chest pain.",
+            "wrongAnswer_3": "Initial indication typically involves sporadic palpitations which progress to continuous ventricular tachycardia.",
+            "wrongAnswer_4": "The primary symptom is heightened alertness and reflexes, deteriorating into confusion and fatigue."
+          },
+          {
+            "question": "How can mitral stenosis be recognized during a physical examination?",
+            "goodAnswer": "Findings might include a palpable parasternal lift, an accentuated first heart sound, an opening snap, and a diastolic rumble on auscultation.",
+            "wrongAnswer_1": "Physical examination often reveals elevated body temperature, rash, and outward bowing of the chest wall.",
+            "wrongAnswer_2": "Key examination findings often include cyanosis of fingertips, wheezing on auscultation, and visible pulsation of neck veins.",
+            "wrongAnswer_3": "Typical signs include severe hypotension, jaundice, and a loud continuous murmur heard across the chest.",
+            "wrongAnswer_4": "During examination, you often observe rapid weight gain, diminished knee reflexes, and pronounced muscle wasting around the shoulders."
+          }
+        ]
+      },
+      {
+        "title": "Diagnostic testing, Differential diagnosis",
+        "quizzes": [
+          {
+            "question": "What imaging modality is especially crucial for assessing mitral stenosis?",
+            "goodAnswer": "Echocardiography is vital for assessing mitral stenosis as it helps in visualizing the structure and function of the mitral valve.",
+            "wrongAnswer_1": "Full-body MRI scans are crucial for diagnosing mitral stenosis as they provide comprehensive imaging of all chest structures.",
+            "wrongAnswer_2": "CT scans are primarily used to diagnose mitral stenosis because they offer detailed images of the calcium deposits on the valve.",
+            "wrongAnswer_3": "PET scans are most effective for diagnosing mitral stenosis as they can detect functional problems in heart tissue.",
+            "wrongAnswer_4": "Spirometry is essential for diagnosing mitral stenosis, as it provides a clear measure of lung capacity and valve obstruction."
+          },
+          {
+            "question": "Which conditions should be considered in the differential diagnosis of mitral stenosis?",
+            "goodAnswer": "Conditions include atrial myxoma, cor triatriatum, and congenital mitral stenosis.",
+            "wrongAnswer_1": "Differential diagnoses primarily consist of pulmonary embolism, chronic obstructive pulmonary disease (COPD), and lung cancer.",
+            "wrongAnswer_2": "Typically, conditions like peripheral artery disease, rheumatoid arthritis, and systemic lupus erythematosus are considered.",
+            "wrongAnswer_3": "Considerations should include gastroesophageal reflux disease (GERD), peptic ulcer disease, and irritable bowel syndrome.",
+            "wrongAnswer_4": "Heart conditions such as ventricular septal defect, patent ductus arteriosus, and aortic dissection should be considered."
+          }
+        ]
+      },
+      {
+        "title": "Management",
+        "quizzes": [
+          {
+            "question": "What are the common medical treatments for managing mitral stenosis?",
+            "goodAnswer": "Medical management includes secondary prevention with penicillin, rate control for atrial fibrillation using beta-blockade or digoxin, anticoagulation, and diuretics for congestion.",
+            "wrongAnswer_1": "Management strategies commonly involve the administration of high-dose corticosteroids, chemotherapy, and radiation therapy.",
+            "wrongAnswer_2": "Typically, treatments include lipid-lowering drugs, anti-platelet therapy, and periodic angioplasty procedures.",
+            "wrongAnswer_3": "Common treatments involve lifestyle modifications, dietary adjustments, and regular application of transdermal patches releasing medication.",
+            "wrongAnswer_4": "Management usually includes the injection of Botox for muscle relaxation, regular therapeutic phlebotomy, and psychological counseling."
+          },
+          {
+            "question": "What surgical options are available for severe cases of mitral stenosis?",
+            "goodAnswer": "Options include closed surgical commissurotomy, open surgical commissurotomy, valve replacement, and balloon mitral commissurotomy.",
+            "wrongAnswer_1": "Surgical interventions typically involve laparoscopic fundoplication, total gastrectomy, and jejunostomy tube placement.",
+            "wrongAnswer_2": "Common procedures are coronary artery bypass grafting, ventricular assist devices, and total heart transplantation.",
+            "wrongAnswer_3": "In severe cases, liposuction, gastric bypass surgery, and liver transplantation are considered.",
+            "wrongAnswer_4": "Recommended surgical methods include spleen removal, appendectomy, and surgical repair of hernias."
+          }
+        ]
+      }
+    ]
+  }
+}

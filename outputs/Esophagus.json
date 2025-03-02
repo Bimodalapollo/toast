@@ -1,0 +1,120 @@
+{
+  "mainTopic": {
+    "title": "Esophagus",
+    "team_name": "[Toast szeletek]",
+    "content_info": "While the lectures are good for getting an idea of the structure of the course, the slides mostly contain images and diagrams, so to get more detailed information it is best to look through the lecture handouts, which follow the structure of the lecture only with more detailed descriptions, and the student notes which are not only more detailed but cover more topics than the lectures.",
+    "subTopics": [
+      {
+        "title": "Histology of the Esophagus",
+        "quizzes": [
+          {
+            "question": "What layers constitute the structural organization of the esophagus?",
+            "goodAnswer": "The esophagus is structured into four main layers: mucosa, submucosa, muscularis externa, and either serosa or adventitia, depending on its location being peritoneal or retroperitoneal respectively.",
+            "wrongAnswer_1": "The esophagus mainly consists of the three primary layers: epithelium, muscularis mucosae, and serosa, which are essential for its contraction and relaxation during swallowing.",
+            "wrongAnswer_2": "Structurally, the esophagus includes a central lumen, surrounded by loose connective tissue, a layer of smooth muscle, and a thin covering of serous membrane throughout its length.",
+            "wrongAnswer_3": "The esophagus is composed of two layers, a dense muscular layer for moving food and a protective mucosal layer that secretes mucus to lubricate its contents.",
+            "wrongAnswer_4": "In its makeup, the esophagus comprises a circular muscle layer, an outer longitudinal muscle layer, and a bordering layer of adipose tissue that insulates and protects it."
+          },
+          {
+            "question": "How does the epithelium of the esophagus adjust to its function?",
+            "goodAnswer": "The esophagus is lined with stratified squamous non-keratinized epithelium, which protects against mechanical abrasion from food particles while swallowing.",
+            "wrongAnswer_1": "The esophagus features a ciliated columnar epithelium which aids in moving mucus and food particles downward towards the stomach.",
+            "wrongAnswer_2": "Its epithelium is a simple squamous type that facilitates rapid absorption and minimal friction, streamlining the movement of food particles.",
+            "wrongAnswer_3": "Lined by transitional epithelium, the esophagus adjusts to changes in food volume by expanding and contracting its epithelial cells.",
+            "wrongAnswer_4": "The epithelium consists of dense keratinized cells, which form a tough barrier against chemical and enzymatic damage from ingested materials."
+          },
+          {
+            "question": "What unique histological features are found in the esophagus?",
+            "goodAnswer": "The esophagus has a thick muscularis mucosae and elastic fiber-rich submucosa which facilitate its expansible lumen, accommodating varying sizes of food bolus.",
+            "wrongAnswer_1": "It contains villi in its mucosa for increased surface area for absorption, similar to the structures found in the small intestine.",
+            "wrongAnswer_2": "The presence of specific acid-secreting cells in the esophageal lining helps in preliminary digestion before the food material reaches the stomach.",
+            "wrongAnswer_3": "Highly vascularized mucosal layer in the esophagus helps in the rapid cooling of hot food items before they reach more sensitive parts of the digestive tract.",
+            "wrongAnswer_4": "The esophagus features microvilli on its surface, enhancing enzymatic contact with the food materials, aiding in carbohydrate digestion."
+          },
+          {
+            "question": "Describe the distribution of muscle types along the length of the esophagus?",
+            "goodAnswer": "The upper third of the esophagus contains skeletal muscle, the middle third a mix of skeletal and smooth muscle, and the lower third consists predominantly of smooth muscle to aid in food propulsion to the stomach.",
+            "wrongAnswer_1": "Throughout its length, the esophagus mainly comprises smooth muscle to facilitate the involuntary control of swallowing and peristalsis.",
+            "wrongAnswer_2": "Skeletal muscle constitutes the major muscle type throughout the esophagus, allowing for voluntary control over swallowing.",
+            "wrongAnswer_3": "Circular smooth muscles throughout the esophagus help in grinding down the food particles before they enter the stomach.",
+            "wrongAnswer_4": "The esophagus features bands of cardiac muscle at intervals that help regulate the pace of food movement in synchronization with the heart rate."
+          }
+        ]
+      },
+      {
+        "title": "Chewing and Swallowing",
+        "quizzes": [
+          {
+            "question": "What role does the nervous system play in the process of swallowing?",
+            "goodAnswer": "The nervous system coordinates the muscular actions involved in the swallowing process, utilizing cranial nerves to regulate the sequence of muscular contraction and relaxation for safe and efficient food passage.",
+            "wrongAnswer_1": "Primarily, it triggers digestive enzyme secretion during chewing to start the breakdown of food while it is still in the mouth.",
+            "wrongAnswer_2": "The autonomic nervous system directly controls the speed at which food is chewed, aligning it with the respiratory rate for optimal digestion.",
+            "wrongAnswer_3": "Swallowing is predominantly under involuntary control, with minimal nervous involvement except in the sensation of taste and texture.",
+            "wrongAnswer_4": "Sensory nerves in the teeth dictate the duration of chewing by sending signals to the brain when food is adequately broken down."
+          },
+          {
+            "question": "Describe the muscle activity during the swallowing phase?",
+            "goodAnswer": "During swallowing, a coordinated sequence of muscular contractions helps propel the food bolus from the oral cavity, through the pharynx, and into the esophagus, involving both voluntary and involuntary muscle actions.",
+            "wrongAnswer_1": "Muscles in the oral cavity decrease their activity to allow the jaw to drop passively and food to enter the pharynx without obstruction.",
+            "wrongAnswer_2": "Continuous contraction of circular muscles in the throat creates a consistent pressure that aids in the downward movement of chewed materials.",
+            "wrongAnswer_3": "Involuntary spasms of muscles in the throat randomly push the food down in a non-sequential manner requiring multiple swallowing attempts for a single food bolus.",
+            "wrongAnswer_4": "Voluntary muscles hold the food in the oral cavity until enough saliva is produced, at which point muscular waves steadily push the food towards the stomach."
+          },
+          {
+            "question": "What structural modifications in the oral cavity facilitate chewing?",
+            "goodAnswer": "The oral cavity features strong muscular cheeks, hard and soft palates, and a mobile tongue, all structured to manipulate and grind food effectively to prepare for swallowing.",
+            "wrongAnswer_1": "Soft, sponge-like gums adjust to store and compress food particles, releasing them gradually for thorough chewing.",
+            "wrongAnswer_2": "Taste buds on the oral cavity triple in number during eating, providing more robust signals for salivary activation and subsequent digestion.",
+            "wrongAnswer_3": "The roof of the mouth is equipped with retractable folds that can expand to store larger bites before chewing resumes.",
+            "wrongAnswer_4": "Vertical ridges along the inner cheeks produce a rippling effect that helps in breaking down tough food textures before swallowing."
+          },
+          {
+            "question": "How do salivary glands contribute to the chewing process?",
+            "goodAnswer": "Salivary glands secrete saliva, which contains enzymes like amylase that begin the digestion of starches in the mouth, while also lubricating the food to facilitate easier swallowing.",
+            "wrongAnswer_1": "They produce an acidic secretion to break down food proteins as an initial step in digestion even before the food enters the stomach.",
+            "wrongAnswer_2": "Salivary glands cool down hot foods to a proper temperature that prevents damage to the internal mucosal lining of the digestive tract.",
+            "wrongAnswer_3": "These glands release hormones that trigger thirst, prompting the individual to drink more water which aids in the swallowing of dry foods.",
+            "wrongAnswer_4": "Salivary glands harden the food into smaller, compact pellets making them easier to transport down the esophagus without risk of blockage."
+          }
+        ]
+      },
+      {
+        "title": "Innervation, Regulation",
+        "quizzes": [
+          {
+            "question": "Which nerves are primarily responsible for regulating the function of the esophagus?",
+            "goodAnswer": "The vagus nerve (cranial nerve X) primarily regulates the motor functions of the esophagus, including peristalsis and relaxation of the esophageal sphincters.",
+            "wrongAnswer_1": "Optic and olfactory nerves indirectly sense and stimulate esophageal action based on the type of food ingested, influencing its transit speed.",
+            "wrongAnswer_2": "Spinal accessory nerves play a significant role, activating specific muscle groups along the esophagus during the swallowing process.",
+            "wrongAnswer_3": "The trigeminal nerve, through its sensory and motor branches, controls the initiation of the swallowing reflex in response to food texture.",
+            "wrongAnswer_4": "Hypoglossal and glossopharyngeal nerves are crucial for transmitting signals that adjust the esophageal width in accordance with food volume."
+          },
+          {
+            "question": "How is neuroregulation involved in esophageal peristalsis?",
+            "goodAnswer": "Neuroregulation in esophageal peristalsis involves sequences of coordinated nerve impulses primarily governed by the enteric nervous system, which signal the muscularis externa to contract rhythmically, propelling food toward the stomach.",
+            "wrongAnswer_1": "Direct electrical impulses from the cerebral cortex control every contraction and relaxation cycle during peristalsis, dictated by conscious thought processes related to digestion.",
+            "wrongAnswer_2": "Autonomic nervous inputs cause random spasmodic contractions throughout the esophagus, relying on feedback from the pain receptors triggered by food stress.",
+            "wrongAnswer_3": "Peripheral nerves mechanize a constant contraction of the esophagus, reducing the control and timing needed for efficiently moving food loads.",
+            "wrongAnswer_4": "Manual neural adjustments are needed for each segment of peristalsis, with voluntary inputs reflecting dietary choices and immediate physiological needs."
+          },
+          {
+            "question": "What is the role of myenteric plexus in the esophagus?",
+            "goodAnswer": "The myenteric plexus, embedded between layers of muscularis externa, primarily facilitates peristaltic movements by coordinating the muscular contractions and relaxations crucial for the propulsion of substances through the esophagus.",
+            "wrongAnswer_1": "It serves as the main sensory network, notifying the brain about the esophageal content’s state, which could trigger involuntary nausea reflex.",
+            "wrongAnswer_2": "Primarily balances the external pressures applied on the esophagus during strenuous physical activities to prevent any tearing or excessive expansion.",
+            "wrongAnswer_3": "Myenteric plexus adjusts the thickness of the esophageal wall by activating or suppressing muscle growth in response to dietary habits.",
+            "wrongAnswer_4": "This plexus directly secretes enzymes into the esophagus, aiding in early digestion and providing immediate responses to detected toxins."
+          },
+          {
+            "question": "How does autonomic innervation affect the swallowing process?",
+            "goodAnswer": "Autonomic innervation moderates salivation and the function of the esophageal muscles, automating the swallowing process by ensuring adequate lubrication and smooth muscular contractions.",
+            "wrongAnswer_1": "It boosts the cognitive perception of taste and texture, which psychologically influences the pace and effort of swallowing actions conducted voluntarily.",
+            "wrongAnswer_2": "This type of innervation primarily increases the temperature of ingested substances to match body temperature, minimizing esophageal damage.",
+            "wrongAnswer_3": "Autonomic nerves control the timing of each swallow to coincide with respiratory pauses, enhancing the efficiency of air passage during ingestion.",
+            "wrongAnswer_4": "Through direct synaptic connections to jaw muscles, it sets the rhythm and strength of chewing necessary before swallowing is initiated."
+          }
+        ]
+      }
+    ]
+  }
+}

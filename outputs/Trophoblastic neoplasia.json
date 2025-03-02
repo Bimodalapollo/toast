@@ -1,0 +1,268 @@
+{
+  "mainTopic": {
+    "title": "Trophoblastic neoplasia",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+    "subTopics": [
+      {
+        "title": "Types of trophoblast neoplasia",
+        "quizzes": [
+          {
+            "question": "What are the two main classifications of trophoblastic neoplasia mentioned?",
+            "goodAnswer": "Molar (always gestational) and non-molar (can be non-gestational)",
+            "wrongAnswer_1": "Trophoblastic and non-trophoblastic classifications",
+            "wrongAnswer_2": "Molar and semi-molar types, both associated with gestational developments",
+            "wrongAnswer_3": "Complete gestational and incomplete gestational neoplasias",
+            "wrongAnswer_4": "Carcinoma trophoblastic and benign trophoblastic tumors"
+          },
+          {
+            "question": "What is the distinguishing feature between molar and non-molar trophoblast neoplasias?",
+            "goodAnswer": "Molar neoplasias include villi while non-molar neoplasias do not.",
+            "wrongAnswer_1": "Non-molar types are generally larger than molar types.",
+            "wrongAnswer_2": "Molar neoplasias are always non-gestational whilst non-molar can be gestational.",
+            "wrongAnswer_3": "Histology of non-molar involves larger vascular spaces than molar.",
+            "wrongAnswer_4": "Molar neoplasias are characterized by the absence of any tissue development."
+          },
+          {
+            "question": "In the context of fertilization, what abnormality contributes to the formation of molar gestations?",
+            "goodAnswer": "Errors in fertilization or meiosis and abnormal paternal contribution to the zygote",
+            "wrongAnswer_1": "Normal maternal but abnormal paternal chromosome duplication",
+            "wrongAnswer_2": "Standard mitochondrial inheritance from the father",
+            "wrongAnswer_3": "Egg and sperm fusion without any chromosomal abnormalities",
+            "wrongAnswer_4": "Multiple sperm fertilizing a single oocyte without chromosomal impact"
+          },
+          {
+            "question": "How are molar and non-molar neoplasias further categorized?",
+            "goodAnswer": "Complete hydatidiform mole and partial hydatidiform mole for molar gestations",
+            "wrongAnswer_1": "Early molar and late molar neoplasias",
+            "wrongAnswer_2": "Primary and secondary trophoblast tumors",
+            "wrongAnswer_3": "Full and semi-trophoplastic tumors",
+            "wrongAnswer_4": "Cystic and solid neoplasias"
+          }
+        ]
+      },
+      {
+        "title": "Partial Hydatidiform Mole",
+        "quizzes": [
+          {
+            "question": "What are some characteristic anomalies associated with fetal development in partial hydatidiform mole?",
+            "goodAnswer": "IUGR, 3-4 syndactyly in hands, 2-3 syndactyly in feet, and renal, cardiac, and neural structural anomalies",
+            "wrongAnswer_1": "Only neural and cardiac developments without any limb anomalies",
+            "wrongAnswer_2": "Significant brain development but lack of limb formation",
+            "wrongAnswer_3": "Lung hypoplasia and 5-6 digit syndactyly in both hands and feet",
+            "wrongAnswer_4": "Normal development with occasional minor limb length discrepancies"
+          },
+          {
+            "question": "What is the maximum size that villi in a partial hydatidiform mole typically reach?",
+            "goodAnswer": "Less than 1cm in greatest dimension",
+            "wrongAnswer_1": "Average about 2cm in greatest scope",
+            "wrongAnswer_2": "Usually larger than 3cm",
+            "wrongAnswer_3": "Consistently microscopically small with no significant enlargement",
+            "wrongAnswer_4": "Villi size is highly variable and unmeasurable"
+          },
+          {
+            "question": "Describe the histological features observed in a partial hydatidiform mole.",
+            "goodAnswer": "Two populations of villi - large with cisterns and small, irregular outlines of villi, villous syncytiotrophoblastic inclusions, excess and atypical villous synctyiotrophoblast",
+            "wrongAnswer_1": "Uniformly enlarged villi with smooth borders and typical trophoblastic layering",
+            "wrongAnswer_2": "Reduced villous size with marked calcifications",
+            "wrongAnswer_3": "Completely normal villous structure and histology",
+            "wrongAnswer_4": "Lack of villous formations with diffuse trophoblastic proliferation"
+          },
+          {
+            "question": "What are the DNA characteristics of cells in a partial hydatidiform mole?",
+            "goodAnswer": "Triploid, where extra haploid DNA is paternal",
+            "wrongAnswer_1": "Haploid, solely of maternal origin",
+            "wrongAnswer_2": "Diploid with equal maternal and paternal contributions",
+            "wrongAnswer_3": "Tetraploid contributing equally from both parents",
+            "wrongAnswer_4": "Diploid, entirely derived from paternal DNA"
+          }
+        ]
+      },
+      {
+        "title": "Complete hydatidiform mole",
+        "quizzes": [
+          {
+            "question": "What are the histological characteristics of a complete hydatidiform mole?",
+            "goodAnswer": "Villous hydrops, trophoblast hyperplasia, cistern formation, mounds of mitotic cytotrophoblast, lacy proliferation of syncytiotrophoblast, extravillous trophoblast, cytolobic atypia",
+            "wrongAnswer_1": "Uniform villous formation, absence of trophoblast hyperplasia, no cisterns",
+            "wrongAnswer_2": "Well-formed blood vessels within the villi, regular trophoblastic layering",
+            "wrongAnswer_3": "Low mitotic index and regular nuclear morphology",
+            "wrongAnswer_4": "Presence of extensive fetal tissue and well-differentiated villous tracts"
+          },
+          {
+            "question": "What is a key distinguishing feature of complete versus partial hydatidiform mole in terms of fetal development?",
+            "goodAnswer": "Complete hydatidiform moles show no fetal development",
+            "wrongAnswer_1": "Both show significant fetal anomalies but viable pregnancies",
+            "wrongAnswer_2": "Complete moles often result in full-term pregnancies",
+            "wrongAnswer_3": "Partial moles do not involve any fetal tissue, while complete moles may show some fetal structures",
+            "wrongAnswer_4": "Complete and partial moles are both associated with high rates of normal fetal developments"
+          },
+          {
+            "question": "How do complete hydatidiform moles typically present in terms of villous size?",
+            "goodAnswer": "Villi are often greater than 1cm in greatest dimension",
+            "wrongAnswer_1": "Villi are small and typically microscopically detectable only",
+            "wrongAnswer_2": "Villi size varies widely from microscopic to several centimeters",
+            "wrongAnswer_3": "Complete moles do not develop recognizable villi",
+            "wrongAnswer_4": "Villi are consistently less than 0.5cm"
+          },
+          {
+            "question": "What is the genetic composition of a complete hydatidiform mole?",
+            "goodAnswer": "Diploid DNA is androgenically derived",
+            "wrongAnswer_1": "Triploid composition with majority maternal contribution",
+            "wrongAnswer_2": "Haploid DNA entirely from paternal origin",
+            "wrongAnswer_3": "Diploid with equal maternal and paternal contributions",
+            "wrongAnswer_4": "Genetically diverse with multiple paternal contributions"
+          }
+        ]
+      },
+      {
+        "title": "Molar gestations",
+        "quizzes": [
+          {
+            "question": "What are the outcomes and potential risks associated with complete and partial molar gestations?",
+            "goodAnswer": "Complete moles can progress to choriocarcinoma with recurrence, while partial moles rarely persist",
+            "wrongAnswer_1": "Both types generally resolve without further complications",
+            "wrongAnswer_2": "Complete and partial moles typically progress to grave malignancies",
+            "wrongAnswer_3": "Partial moles often recur and complete moles resolve spontaneously",
+            "wrongAnswer_4": "There are no significant risks or outcomes associated, and both resolve naturally"
+          },
+          {
+            "question": "What underlying genetic issue contributes to molar gestations?",
+            "goodAnswer": "Imprinting errors leading to differences between maternal and paternal DNA, where paternal DNA makes extraembryonic tissues disproportionately",
+            "wrongAnswer_1": "Equal contributions from maternal and paternal DNA without imprinting issues",
+            "wrongAnswer_2": "Mitochondrial DNA mutations from maternal contributions",
+            "wrongAnswer_3": "Chromosomal deletions in either parental genes without preferential paternal contributions",
+            "wrongAnswer_4": "No known genetic contributions to molar gestations"
+          },
+          {
+            "question": "How does paternal DNA influence the development of molar pregnancies?",
+            "goodAnswer": "Paternal DNA preferentially makes extraembryonic tissues resulting in an overabundance in molar pregnancies",
+            "wrongAnswer_1": "Paternal DNA does not play a significant role in molar pregnancy development",
+            "wrongAnswer_2": "Paternal DNA contributes to direct fetal tissue formation exclusively",
+            "wrongAnswer_3": "Paternal DNA is typically inactive in the development of the embryo and placenta",
+            "wrongAnswer_4": "Both paternal and maternal DNA contribute equally to the formation of the placenta only"
+          },
+          {
+            "question": "What structural abnormalities are identified in molar gestations?",
+            "goodAnswer": "Large hydropic villi, trophoblastic proliferation, and the absence of appropriate fetal tissues",
+            "wrongAnswer_1": "Normal villous and embryonic structures",
+            "wrongAnswer_2": "Well-formed fetal organs and tissues",
+            "wrongAnswer_3": "Small, calcified villi with normal fetal development",
+            "wrongAnswer_4": "Trophoblastic degeneration without villous proliferation"
+          }
+        ]
+      },
+      {
+        "title": "Choriocarcinoma",
+        "quizzes": [
+          {
+            "question": "What characterizes choriocarcinoma as a malignancy?",
+            "goodAnswer": "Malignancy of all trophoblast lineages which could be either gestational or non-gestational",
+            "wrongAnswer_1": "Localized non-malignant growth without any significant invasion",
+            "wrongAnswer_2": "Benign tumor formation strictly in the placental region",
+            "wrongAnswer_3": "Chronic inflammation of the fallopian tubes, closely resembling cancers",
+            "wrongAnswer_4": "Harmless growths in trophoblastic tissues that rarely require medical attention"
+          },
+          {
+            "question": "What are the clinical presentations often associated with choriocarcinoma?",
+            "goodAnswer": "Presents with symptoms such as bleeding and toxemia and is widely metastatic",
+            "wrongAnswer_1": "Usually asymptomatic and discovered incidentally",
+            "wrongAnswer_2": "Characterized by extreme fatigue and localized pain without bleeding",
+            "wrongAnswer_3": "Marked by frequent urination and abdominal discomfort",
+            "wrongAnswer_4": "Often found due to abnormal hormone levels and weight gain"
+          },
+          {
+            "question": "In managing choriocarcinoma, which approaches are commonly utilized?",
+            "goodAnswer": "Gestational choriocarcinoma is chemosensitive and monitored with BHCG levels and imaging methods",
+            "wrongAnswer_1": "Surgical intervention is the only treatment option available",
+            "wrongAnswer_2": "Managed solely through dietary adjustments and physical activity",
+            "wrongAnswer_3": "No treatment required due to its typically benign nature",
+            "wrongAnswer_4": "Treated through repeated biopsy procedures to monitor progression"
+          },
+          {
+            "question": "What is a common pathological finding in choriocarcinoma?",
+            "goodAnswer": "Biphasic trophoblast differentiation along with areas of hemorrhage and necrosis",
+            "wrongAnswer_1": "Uniform cell structure with minimal vascular complications",
+            "wrongAnswer_2": "Calcification throughout the mass with fibrotic encapsulation",
+            "wrongAnswer_3": "Absence of trophoblastic cells and predominance of fibrous tissue",
+            "wrongAnswer_4": "Highly organized cellular architecture with rare mitotic figures"
+          }
+        ]
+      },
+      {
+        "title": "Choriocarcinoma in situ",
+        "quizzes": [
+          {
+            "question": "What characterizes choriocarcinoma in situ?",
+            "goodAnswer": "Presentation as mass-like lesions in the placenta, which can sometimes metastasize to the fetus",
+            "wrongAnswer_1": "Occurs as diffuse inflammation spread evenly throughout the placenta",
+            "wrongAnswer_2": "Marked by localized benign cysts which resolve spontaneously",
+            "wrongAnswer_3": "Involves extensive necrosis without any significant trophoblastic proliferation",
+            "wrongAnswer_4": "Characterized primarily by systemic signs without local tumoral presence"
+          },
+          {
+            "question": "How does choriocarcinoma in situ typically present?",
+            "goodAnswer": "It can be silent at placental presentation or appear widely metastatic",
+            "wrongAnswer_1": "Always manifests with high levels of systemic illness",
+            "wrongAnswer_2": "Always accompanied by significant pain and discomfort in the pelvic region",
+            "wrongAnswer_3": "Characterized by hemorrhage in the placenta without further spread",
+            "wrongAnswer_4": "Only detectable through genetic testing; otherwise asymptomatic"
+          },
+          {
+            "question": "What aspect of choriocarcinoma in situ's pathology allows it to sometimes metastasize?",
+            "goodAnswer": "Its ability to cross the placental barrier into fetal tissues",
+            "wrongAnswer_1": "It only spreads within maternal tissues and remains localized within the placenta",
+            "wrongAnswer_2": "Lack of strong adherence to placental tissue leading to floating cell clusters",
+            "wrongAnswer_3": "Frequent calcification and hardening prevent any metastasis",
+            "wrongAnswer_4": "Primarily spreads through blood vessels causing systemic effects much like leukemia"
+          },
+          {
+            "question": "What is notable about the localization of choriocarcinoma in situ in terms of metastatic potential?",
+            "goodAnswer": "Despite being primarily localized, it has the potential to metastasize across placental barriers to the fetus",
+            "wrongAnswer_1": "It is localized and never metastasizes beyond the site of origin",
+            "wrongAnswer_2": "It is initially diffuse and therefore does not metastasize",
+            "wrongAnswer_3": "Localized within the uterine wall thereby preventing any metastatic activity",
+            "wrongAnswer_4": "It metastasizes frequently but only to adjacent organs"
+          }
+        ]
+      },
+      {
+        "title": "Placental site trophoblastic tumor",
+        "quizzes": [
+          {
+            "question": "Which types of cells primarily make up the placental site trophoblastic tumor?",
+            "goodAnswer": "Neoplasm of intermediate trophoblast cells",
+            "wrongAnswer_1": "Primarily composed of mature placental cells",
+            "wrongAnswer_2": "Composed of endometrial stromal cells",
+            "wrongAnswer_3": "Involves predominantly blood vessel endothelial cells",
+            "wrongAnswer_4": "Consists mainly of fibroblastic cells from the uterine lining"
+          },
+          {
+            "question": "What is a prominent characteristic of the borders of placental site trophoblastic tumors?",
+            "goodAnswer": "Has a pushing border rather than invasive growth",
+            "wrongAnswer_1": "Marked by significant invasive growth into surrounding tissues",
+            "wrongAnswer_2": "Borders are ill-defined and diffusely spread",
+            "wrongAnswer_3": "Characterized by rapid spreading margins with high malignancy",
+            "wrongAnswer_4": "Highly encapsulated with a clearly delineated fibrotic border"
+          },
+          {
+            "question": "What are the common clinical symptoms associated with placental site trophoblastic tumor?",
+            "goodAnswer": "Mild symptoms of persistent pregnancy",
+            "wrongAnswer_1": "Intense abdominal pain and significant vaginal bleeding",
+            "wrongAnswer_2": "Systemic symptoms such as weight loss and anorexia",
+            "wrongAnswer_3": "No symptoms, typically found incidentally in postpartum checkups",
+            "wrongAnswer_4": "Symptoms similar to ovarian cancer including bloating and satiety"
+          },
+          {
+            "question": "What is the usual treatment approach for patients diagnosed with placental site trophoblastic tumor?",
+            "goodAnswer": "Hysterectomy is the primary therapy",
+            "wrongAnswer_1": "Chemotherapy and radiation are the first-line treatments",
+            "wrongAnswer_2": "Monitoring and observation without immediate intervention",
+            "wrongAnswer_3": "Immunotherapy to target specific trophoblastic markers",
+            "wrongAnswer_4": "Use of targeted hormone therapy to reduce tumor growth"
+          }
+        ]
+      }
+    ]
+  }
+}

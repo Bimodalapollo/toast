@@ -1,0 +1,156 @@
+{
+  "mainTopic": {
+    "title": "Anti Inflammatory Drugs",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "subTopics": [
+      {
+        "title": "Prostaglandins: physiologic and pathological functions",
+        "quizzes": [
+          {
+            "question": "What are the primary physiologic functions of prostaglandins in the human body?",
+            "goodAnswer": "Prostaglandins play significant roles in temperature regulation, maintaining gastric and renal cytoprotection, regulating intestinal mobility, myometrial and seminal function, and modulating inflammation through renin secretion.",
+            "wrongAnswer_1": "Prostaglandins solely function in digestion, aiding in the breakdown and absorption of nutrients within the gut.",
+            "wrongAnswer_2": "The main function of prostaglandins is to mediate foreign body responses, primarily triggering immune reactions against pathogens.",
+            "wrongAnswer_3": "Prostaglandins are mostly involved in blood clotting, acting as primary mediators for hemostasis and thrombus formation.",
+            "wrongAnswer_4": "These compounds regulate only vascular permeability during tissue damage and inflammation, without other physiological roles."
+          },
+          {
+            "question": "What pathological effects do prostaglandins have during inflammation?",
+            "goodAnswer": "During inflammation, prostaglandins like PGE2 can cause pain, hyperalgesia, heat, and increase vascular permeability leading to edema.",
+            "wrongAnswer_1": "In pathological conditions, they have no major role other than increasing vascular permeability insignificantly.",
+            "wrongAnswer_2": "The pathological function of prostaglandins is confined to decreasing neurotransmitter release in nervous tissue.",
+            "wrongAnswer_3": "Prostaglandins play a role in suppressing immune responses during inflammation, reducing body's ability to fight infections.",
+            "wrongAnswer_4": "Their role in pathology only involves the downregulation of DNA synthesis and cell turnover."
+          }
+        ]
+      },
+      {
+        "title": "Overview of NSAIDs: General pharmacodynamics and pharmacokinetics of NSAIDS",
+        "quizzes": [
+          {
+            "question": "How do NSAIDs typically achieve their therapeutic effects?",
+            "goodAnswer": "NSAIDs inhibit cyclooxygenase enzymes COX-1 and COX-2, thus reducing the production of pro-inflammatory eicosanoids such as prostaglandins.",
+            "wrongAnswer_1": "Their action is primarily through direct inhibition of leukocyte aggregation in inflamed areas.",
+            "wrongAnswer_2": "NSAIDs work by enhancing the production of anti-inflammatory cytokines.",
+            "wrongAnswer_3": "The drugs act by directly neutralizing the effects of inflammatory mediators like bradykinin.",
+            "wrongAnswer_4": "Their mechanism involves blocking pain receptors in the central nervous system."
+          },
+          {
+            "question": "What pharmacokinetic properties affect NSAID function and distribution in the body?",
+            "goodAnswer": "NSAIDs are characterized by efficient GI absorption, variable plasma half-lives, high protein binding, and efficient renal excretion.",
+            "wrongAnswer_1": "These drugs primarily diffuse through the blood-brain barrier to exert their effects centrally.",
+            "wrongAnswer_2": "NSAIDs are primarily distributed via the lymphatic system to get directly to sites of inflammation.",
+            "wrongAnswer_3": "Most NSAIDs are stored in the adipose tissue for prolonged effects, contributing to durable anti-inflammatory action.",
+            "wrongAnswer_4": "They are lipophobic, which makes them easily flushed out of the system without entering inflammatory sites."
+          }
+        ]
+      },
+      {
+        "title": "Toxic side effects of NSAIDs",
+        "quizzes": [
+          {
+            "question": "What are the common gastrointestinal side effects caused by NSAIDs?",
+            "goodAnswer": "NSAIDs can lead to gastritis, gastric bleeding, and ulceration due to inhibited prostaglandin synthesis which provides gastric protection.",
+            "wrongAnswer_1": "The most frequent side effect is the increase in liver enzymes, causing immediate hepatic failure.",
+            "wrongAnswer_2": "Common side effects include severe hyperglycemia and acute renal failure only.",
+            "wrongAnswer_3": "They primarily cause respiratory distress and chronic bronchitis as side effects.",
+            "wrongAnswer_4": "NSAIDs do not generally cause significant side effects due to their selective action on target tissues."
+          },
+          {
+            "question": "What systemic effects can NSAIDs have on platelet function?",
+            "goodAnswer": "NSAIDs can impair platelet aggregation leading to prolonged bleeding time, contributing to increased risk during surgeries.",
+            "wrongAnswer_1": "They enhance platelet aggregation, significantly increasing the risk of thrombotic events.",
+            "wrongAnswer_2": "NSAIDs have no effect on platelet aggregation but increase the risk of leukopenia.",
+            "wrongAnswer_3": "The drugs execute their effects without altering any functions of the platelets or coagulation factors.",
+            "wrongAnswer_4": "Systemic effects are typically limited to mild headaches and do not affect the blood or its properties."
+          }
+        ]
+      },
+      {
+        "title": "COX-2 Selective Inhibitors",
+        "quizzes": [
+          {
+            "question": "What is the primary therapeutic advantage of COX-2 selective inhibitors over non-selective NSAIDs?",
+            "goodAnswer": "COX-2 selective inhibitors specifically target the COX-2 enzyme involved in inflammation without affecting COX-1, thereby reducing gastrointestinal side effects.",
+            "wrongAnswer_1": "Selective inhibitors are less effective but have no risk of adverse effects.",
+            "wrongAnswer_2": "They target COX-1 exclusively, providing a quicker response in pain management.",
+            "wrongAnswer_3": "These inhibitors work by reducing the blood-brain barrier permeability to inflammatory cytokines.",
+            "wrongAnswer_4": "The medications primarily function to enhance the immune response rather than modulating enzyme activity."
+          },
+          {
+            "question": "What are the potential cardiovascular risks associated with COX-2 selective inhibitors?",
+            "goodAnswer": "Some COX-2 selective inhibitors have been associated with an increased risk of myocardial infarction and stroke, possibly due to unopposed action on endothelial prostaglandins.",
+            "wrongAnswer_1": "Cardiovascular risks are generally considered minimal and similar to taking a placebo.",
+            "wrongAnswer_2": "These drugs may cause drastic reductions in heart rate, leading to bradycardia.",
+            "wrongAnswer_3": "They greatly enhance arterial elasticity leading to hypotension and syncopal events.",
+            "wrongAnswer_4": "COX-2 inhibitors are primarily known to resolve existing myocardial infarctions and have minimal risks."
+          }
+        ]
+      },
+      {
+        "title": "Overview, therapeutic effects, and toxic side effects of Glucocorticoids",
+        "quizzes": [
+          {
+            "question": "How do glucocorticoids exhibit their anti-inflammatory and immunosuppressive effects?",
+            "goodAnswer": "Glucocorticoids inhibit phospholipase A2 activity thus limiting arachidonic acid release and subsequent eicosanoid production, effectively reducing inflammation and modulating immune responses.",
+            "wrongAnswer_1": "They act by stimulating the production of pro-inflammatory cytokines such as TNF-alpha and IL-6.",
+            "wrongAnswer_2": "These agents function by directly neutralizing pathogens at sites of inflammation.",
+            "wrongAnswer_3": "Glucocorticoids primarily enhance immune cell proliferation, increasing inflammation transiently before achieving therapeutic effects.",
+            "wrongAnswer_4": "Their mechanism involves blocking the neurological perception of pain only."
+          },
+          {
+            "question": "What are some common adverse effects associated with glucocorticoids?",
+            "goodAnswer": "Glucocorticoids can cause Cushingoid syndrome, glucose intolerance, osteoporosis, adrenal suppression, and an increased susceptibility to infection.",
+            "wrongAnswer_1": "Key side effects include immediate hypersensitivity reactions and acute anaphylaxis.",
+            "wrongAnswer_2": "These compounds mainly cause hepatotoxicity and chronic renal failure.",
+            "wrongAnswer_3": "The drugs are associated with acute gastrointestinal erosions and frequent bleeding.",
+            "wrongAnswer_4": "Adverse effects are limited to skin, causing only mild rashes and occasional pruritus."
+          }
+        ]
+      },
+      {
+        "title": "Steroid withdrawal and glucocorticoid replacement",
+        "quizzes": [
+          {
+            "question": "What are the symptoms associated with glucocorticoid withdrawal syndrome?",
+            "goodAnswer": "Symptoms can include fatigue, muscle and joint pain, fever, and general malaise, influenced by the suppression of the hypothalamic-pituitary-adrenal axis.",
+            "wrongAnswer_1": "Withdrawal primarily causes neurological symptoms like seizures and tremors.",
+            "wrongAnswer_2": "The syndrome is characterized by acute cognitive functions such as memory lapses and confusion.",
+            "wrongAnswer_3": "No specific withdrawal symptoms are noted as glucocorticoids do not cause physiological dependency.",
+            "wrongAnswer_4": "Patients typically experience photophobia and other visual disturbances upon withdrawal."
+          },
+          {
+            "question": "What is the protocol for glucocorticoid replacement in high-stress situations?",
+            "goodAnswer": "Patients often need higher doses of glucocorticoids during high-stress situations, such as surgery or acute illness, to compensate for the increased demand on their suppressed adrenal functionality.",
+            "wrongAnswer_1": "Standard practice involves completely ceasing glucocorticoid therapy in situations of physical or emotional stress.",
+            "wrongAnswer_2": "Replacement therapy involves administering stimulants to temporarily elevate cortisol levels.",
+            "wrongAnswer_3": "It involves reducing glucocorticoid dosages to minimal, relying on natural adrenal recovery.",
+            "wrongAnswer_4": "Therapy primarily focuses on alternate day dosing to minimize dependency and side effects."
+          }
+        ]
+      },
+      {
+        "title": "Anti-cytokine agents",
+        "quizzes": [
+          {
+            "question": "What is the mode of action for anti-cytokine agents used in the treatment of autoimmune diseases?",
+            "goodAnswer": "Anti-cytokine agents act by neutralizing pro-inflammatory cytokines like TNF-alpha or by blocking their receptors, thus reducing inflammatory responses systemically.",
+            "wrongAnswer_1": "These agents encourage the production of interleukins which exacerbate the autoimmune responses.",
+            "wrongAnswer_2": "They work by promoting cytokine release, particularly interferons, to enhance the body's antiviral defenses.",
+            "wrongAnswer_3": "Their function is dedicated to enhancing the breakdown and excretion of cytokines rather than blocking their action.",
+            "wrongAnswer_4": "The primary action involves stimulation of white blood cells to increase the immunological responses against autoantigens."
+          },
+          {
+            "question": "What are the potential toxic side effects associated with the use of anti-cytokine agents?",
+            "goodAnswer": "These include severe immunosuppression leading to increased risk of infections, hypersensitivity reactions, lymphoproliferative disorders, and induction of autoantibodies.",
+            "wrongAnswer_1": "Main toxic effects consist solely of severe gastrointestinal disturbances and peptic ulcerations.",
+            "wrongAnswer_2": "Significant cardiotoxicity including myocardial infarction and arrhythmias are common adverse effects.",
+            "wrongAnswer_3": "These agents commonly cause neurotoxic effects such as peripheral neuropathy and muscle spasms.",
+            "wrongAnswer_4": "Their use is mainly associated with metabolic disturbances such as hypoglycemia and diabetic ketoacidosis."
+          }
+        ]
+      }
+    ]
+  }
+}

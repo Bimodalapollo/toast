@@ -1,0 +1,114 @@
+{
+  "mainTopic": {
+    "title": "Acute coronary syndromes",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+    "subTopics": [
+      {
+        "title": "Pathogenesis of ACS",
+        "quizzes": [
+          {
+            "question": "What is the primary event in the pathogenesis of more than 90% of ACS cases?",
+            "goodAnswer": "Plaque disruption followed by platelet aggregation and intracoronary thrombus formation.",
+            "wrongAnswer_1": "Decrease in blood lipid levels causing weakening of the arterial wall and subsequent rupture.",
+            "wrongAnswer_2": "Sudden increase in arterial blood pressure leading to the physical tearing of the artery lining.",
+            "wrongAnswer_3": "Wide-scale deposition of calcium in the coronary arteries, leading to stiffness and lack of compliance.",
+            "wrongAnswer_4": "Complete occlusion of the coronary artery due to long-term buildup of atherosclerotic plaque."
+          },
+          {
+            "question": "What role does inflammation play in the pathogenesis of ACS?",
+            "goodAnswer": "Inflammatory cytokines contribute to plaque instability and can trigger plaque rupture.",
+            "wrongAnswer_1": "Inflammation primarily functions to repair the damaged cells without causing any further cardiovascular complications.",
+            "wrongAnswer_2": "Inflammatory processes decrease the risk of coronary thrombosis by stabilizing the plaque.",
+            "wrongAnswer_3": "Cytokines reduce platelet aggregation, reducing the potential for thrombus formation.",
+            "wrongAnswer_4": "Inflammatory cells like macrophages work to actively dissolve atherosclerotic plaque."
+          }
+        ]
+      },
+      {
+        "title": "Clinical features of ACS",
+        "quizzes": [
+          {
+            "question": "What distinguishes the clinical presentation of unstable angina from NSTEMI?",
+            "goodAnswer": "The presence of serum biomarkers indicating myocardial injury, which are absent in unstable angina.",
+            "wrongAnswer_1": "Unstable angina shows new peak T waves on ECG, while NSTEMI does not exhibit any ECG changes.",
+            "wrongAnswer_2": "NSTEMI is characterized by the resolution of symptoms without medical intervention, unlike unstable angina.",
+            "wrongAnswer_3": "Unstable angina can be clearly diagnosed by observing elevated cholesterol levels, unlike NSTEMI.",
+            "wrongAnswer_4": "The unique feature of NSTEMI is a sharp, stabbing pain as opposed to a pressing chest pain in unstable angina."
+          },
+          {
+            "question": "Which symptoms are typically associated with ACS?",
+            "goodAnswer": "Chest pain, shortness of breath, nausea, sweating, and palpitations.",
+            "wrongAnswer_1": "Most patients experience lower back pain, headache, and sinus congestion.",
+            "wrongAnswer_2": "Common symptoms include extreme fatigue, leg swelling, and sudden weight gain.",
+            "wrongAnswer_3": "Symptoms are predominantly gastrointestinal, such as severe abdominal pain and vomiting.",
+            "wrongAnswer_4": "ACS typically presents without symptoms; most cases are detected accidentally through routine check-ups."
+          }
+        ]
+      },
+      {
+        "title": "Treatment of ACS",
+        "quizzes": [
+          {
+            "question": "What is the first-line medication provided to patients experiencing ACS?",
+            "goodAnswer": "Aspirin, due to its antiplatelet effects that help prevent further thrombus formation.",
+            "wrongAnswer_1": "Antibiotics are first administered to prevent any potential infection.",
+            "wrongAnswer_2": "Cough syrups are given initially to ease the patient's discomfort before further assessment.",
+            "wrongAnswer_3": "A high dose of painkillers is the first-line treatment to manage the extreme pain.",
+            "wrongAnswer_4": "Patients are first treated with antiviral agents to rule out any contributing infections."
+          },
+          {
+            "question": "What role does reperfusion therapy play in the treatment of ACS?",
+            "goodAnswer": "Restores blood flow to the ischemic myocardial tissue to prevent tissue death and preserve heart function.",
+            "wrongAnswer_1": "Reperfusion therapy is primarily used to enhance oxygenation levels in the bloodstream.",
+            "wrongAnswer_2": "It reduces the workload on the heart by permanently redirecting blood flow around blocked arteries.",
+            "wrongAnswer_3": "This therapy is used to strengthen heart contractions by providing electrical stimulations to the heart.",
+            "wrongAnswer_4": "It focuses on removing excess fluid from the lungs associated with heart failure subsequent to ACS."
+          }
+        ]
+      },
+      {
+        "title": "Complications",
+        "quizzes": [
+          {
+            "question": "What is a common mechanical complication following a myocardial infarction?",
+            "goodAnswer": "Ventricular septal defect due to rupture of the interventricular septum.",
+            "wrongAnswer_1": "Frequent epileptic seizures due to the disruption of electrical pathways in the heart.",
+            "wrongAnswer_2": "Development of type 2 diabetes as a metabolic complication of myocardial infarction.",
+            "wrongAnswer_3": "Acute renal failure triggered by the release of cardiac enzymes into the bloodstream.",
+            "wrongAnswer_4": "Rapid onset of osteoporosis followed by decreased calcium absorption due to medication."
+          },
+          {
+            "question": "How does arrhythmia occur as a complication of ACS?",
+            "goodAnswer": "Ischemia and subsequent scarring of cardiac tissue can disrupt the normal electrical impulses of the heart.",
+            "wrongAnswer_1": "Arrhythmias are caused solely by the emotional stress of experiencing a heart attack.",
+            "wrongAnswer_2": "It is due to the overuse of medications in the treatment of ACS that affects the brain's control of heart rhythms.",
+            "wrongAnswer_3": "The primary cause is the patient's increased physical activity recommended after experiencing ACS.",
+            "wrongAnswer_4": "Nutritional deficiencies post-ACS treatment leads to malfunctioning of the cardiac electrical system."
+          }
+        ]
+      },
+      {
+        "title": "Post ACS risk stratification",
+        "quizzes": [
+          {
+            "question": "What factor most significantly influences the prognosis following ACS?",
+            "goodAnswer": "Left ventricular ejection fraction (LVEF), as it reflects the pumping efficiency of the heart.",
+            "wrongAnswer_1": "The patient's blood type, as certain blood types are associated with higher reinfarction rates.",
+            "wrongAnswer_2": "The level of physical activity prior to the ACS event, which can predict future heart health.",
+            "wrongAnswer_3": "Gender, because males have a higher rate of recovery post-ACS than females.",
+            "wrongAnswer_4": "Dietary habits immediately following ACS, specifically the intake of antioxidants."
+          },
+          {
+            "question": "What role does cardiac rehabilitation play in post-ACS management?",
+            "goodAnswer": "Improves physical fitness, educates on heart-healthy lifestyles, and helps reduce the risk of future cardiac events.",
+            "wrongAnswer_1": "Cardiac rehabilitation is only used to treat emotional and psychological effects post-ACS.",
+            "wrongAnswer_2": "Its main function is to prepare patients for heart transplant surgery as a final treatment option.",
+            "wrongAnswer_3": "Focuses solely on increasing medication compliance without addressing lifestyle changes.",
+            "wrongAnswer_4": "Primarily monitors the patient without providing any active interventions or therapies."
+          }
+        ]
+      }
+    ]
+  }
+}

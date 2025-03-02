@@ -1,0 +1,101 @@
+{
+  "mainTopic": {
+    "title": "Aortic regurgitation",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+    "subTopics": [
+      {
+        "title": "Etiology, Pathophysiology",
+        "quizzes": [
+          {
+            "question": "What pathological conditions can cause abnormalities in the aortic valve leaflets leading to aortic regurgitation?",
+            "goodAnswer": "Rheumatic disease, infective endocarditis, and congenital bicuspid aortic valve.",
+            "wrongAnswer_1": "Mitral valve prolapse, aortic stenosis, and pulmonary hypertension.",
+            "wrongAnswer_2": "Hyperlipidemia, coronary artery disease, and aortic sclerosis.",
+            "wrongAnswer_3": "Diabetes, hypertension, and left ventricular hypertrophy.",
+            "wrongAnswer_4": "Deep vein thrombosis, atrial fibrillation, and myocardial infarction."
+          },
+          {
+            "question": "How does dilatation of the aortic root contribute to aortic regurgitation?",
+            "goodAnswer": "Dilatation of the aortic root can lead to a central defect in valve closure capability, resulting in regurgitation.",
+            "wrongAnswer_1": "It causes thickening of the aortic wall which restricts leaflet movement and induces regurgitation.",
+            "wrongAnswer_2": "The dilatation increases the pressure within the aorta, which directly damages the aortic valve.",
+            "wrongAnswer_3": "It leads to a reduction in aortic blood flow velocity, which destabilizes the valve structure.",
+            "wrongAnswer_4": "Aortic root dilatation decreases the diameter of the aorta, leading to valve inefficiency."
+          },
+          {
+            "question": "What specific impact does rheumatic disease have on the aortic valve that leads to regurgitation?",
+            "goodAnswer": "Rheumatic disease can lead to fibrosis and calcification of the aortic valve, causing cusp area reduction and central defects.",
+            "wrongAnswer_1": "It primarily causes severe dilatation of the aortic root, indirectly affecting the valve.",
+            "wrongAnswer_2": "Rheumatic disease thins the valve leaflets, making them prone to tearing under normal pressure.",
+            "wrongAnswer_3": "It results in increased valve leaflet proliferation, which disrupts normal valve closure.",
+            "wrongAnswer_4": "The disease leads to a complete restructuring of the aortic root geometry, causing valve misalignment."
+          },
+          {
+            "question": "Describe the pathophysiology of aortic valve regurgitation relevant to endocarditis.",
+            "goodAnswer": "Endocarditis can cause destruction of the aortic valve cusps by forming tears and holes, leading to significant regurgitation.",
+            "wrongAnswer_1": "Endocarditis thickens the aortic valve cusps, reducing their ability to close properly and thus causing regurgitation.",
+            "wrongAnswer_2": "The condition usually deposits calcific nodules on the valve that obstruct blood flow and induce regurgitation.",
+            "wrongAnswer_3": "It leads to shortening of the cusp chordae which prevents the valve from fully opening, indirectly causing regurgitation.",
+            "wrongAnswer_4": "Endocarditis primarily affects the mitral valve, thus having no direct impact on aortic regurgitation."
+          }
+        ]
+      },
+      {
+        "title": "Clinical features",
+        "quizzes": [
+          {
+            "question": "What are the typical symptoms of chronic aortic regurgitation?",
+            "goodAnswer": "Some chronic symptoms include palpitations, dyspnea, fatigue, and angina pectoris.",
+            "wrongAnswer_1": "Common symptoms are acute chest pain, sudden shortness of breath, and rapid heartbeat.",
+            "wrongAnswer_2": "The symptoms typically include high fever, coughing up blood, and sharp pains in the limbs.",
+            "wrongAnswer_3": "Frequent headaches, blurred vision, and syncope are usual symptoms of chronic aortic regurgitation.",
+            "wrongAnswer_4": "The presentation often involves extreme abdominal pain, vomiting, and intense dizziness."
+          },
+          {
+            "question": "How does aortic regurgitation affect the arterial pulse and blood pressure?",
+            "goodAnswer": "Aortic regurgitation results in a bisferiens pulse, which is a double-peaked pulse in arterial pressure due to the regurgitant flow.",
+            "wrongAnswer_1": "It usually causes a consistently high systolic blood pressure with minimal changes in diastolic pressure.",
+            "wrongAnswer_2": "The condition leads to dramatically lowered pulse pressure with a very slow, faint pulse.",
+            "wrongAnswer_3": "Aortic regurgitation is characterized by an extremely rapid but weak pulse and normal blood pressure.",
+            "wrongAnswer_4": "Patients typically exhibit a sudden drop in both systolic and diastolic pressures with a very strong pulse."
+          }
+        ]
+      },
+      {
+        "title": "Diagnostic testing, Differential diagnosis",
+        "quizzes": [
+          {
+            "question": "What diagnostics are most useful for confirming aortic regurgitation?",
+            "goodAnswer": "Echocardiography, cardiac catheterization, and chest radiography are key diagnostic tests for aortic regurgitation.",
+            "wrongAnswer_1": "Complete blood counts, urine analysis, and thyroid function tests are typically used to confirm the diagnosis.",
+            "wrongAnswer_2": "Diagnosis often relies solely on physical examination and patient history without further diagnostic testing.",
+            "wrongAnswer_3": "Magnetic resonance imaging (MRI) of the head and computerized tomography (CT) scans are primary diagnostic tools.",
+            "wrongAnswer_4": "Skin biopsy and lymph node excision are common methods for confirming aortic regurgitation."
+          },
+          {
+            "question": "What conditions must be differentiated from aortic regurgitation in the diagnostic process?",
+            "goodAnswer": "Mitral stenosis, pulmonic regurgitation, and patent ductus arteriosus should be considered in the differential diagnosis.",
+            "wrongAnswer_1": "Conditions to differentiate include asthma, pulmonary embolism, and myocardial infarction.",
+            "wrongAnswer_2": "Gastroesophageal reflux disease, peptic ulcer disease, and irritable bowel syndrome are commonly differentiated.",
+            "wrongAnswer_3": "Chronic obstructive pulmonary disease, acute bronchitis, and lung cancer are included in differential diagnosis.",
+            "wrongAnswer_4": "Diabetes mellitus, hyperthyroidism, and renal failure must be ruled out during diagnosis of aortic regurgitation."
+          }
+        ]
+      },
+      {
+        "title": "Management",
+        "quizzes": [
+          {
+            "question": "What are the primary management strategies for severe aortic regurgitation?",
+            "goodAnswer": "For severe cases, management strategies include surgical repair or replacement of the aortic valve and medical therapy to manage symptoms.",
+            "wrongAnswer_1": "Management typically involves physical therapy to strengthen the cardiovascular system and dietary adjustments.",
+            "wrongAnswer_2": "The primary approach consists of lifelong medication to thin the blood and regular monitoring with no surgical options.",
+            "wrongAnswer_3": "Severe cases are usually managed with a series of vaccinations and long-term hospitalization for monitoring.",
+            "wrongAnswer_4": "Management for severe cases includes the use of antiviral medications and bi-weekly liver function tests."
+          }
+        ]
+      }
+    ]
+  }
+}

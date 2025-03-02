@@ -1,0 +1,82 @@
+{
+  "mainTopic": {
+    "title": "Antimicrobials",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "subTopics": [
+      {
+        "title": "Introduction to antimicrobial therapy",
+        "quizzes": [
+          {
+            "question": "What defines a successful antimicrobial therapy?",
+            "goodAnswer": "Successful antimicrobial therapy is defined by delivering an effective concentration of the drug to the site of infection for a sufficient period of time to inhibit or kill the pathogen.",
+            "wrongAnswer_1": "Successful antimicrobial therapy is primarily determined by the rapid elimination of the drug from the body to prevent toxicity.",
+            "wrongAnswer_2": "Successful antimicrobial therapy is defined by the ability of the drug to act on multiple bacterial pathogens simultaneously, regardless of its concentration at the infection site.",
+            "wrongAnswer_3": "A successful antimicrobial therapy is when the drug achieves a bacteriostatic state immediately upon administration without considering the duration of drug concentration.",
+            "wrongAnswer_4": "Successful antimicrobial therapy occurs when a drug is administered in the highest possible doses to quickly eliminate all pathogens."
+          },
+          {
+            "question": "What are the main conditions requiring bactericidal therapy?",
+            "goodAnswer": "Bactericidal therapy is required for bacterial infections in neutropenic hosts, endocarditis, meningitis and brain abscesses, staphylococcal osteomyelitis, and prosthetic device infections.",
+            "wrongAnswer_1": "Conditions requiring bactericidal therapy include common colds, viral infections, and non-pathogenic bacterial colonization.",
+            "wrongAnswer_2": "Bactericidal therapy is typically required for mild bacterial infections such as pharyngitis or dermatitis without considering the immune status of the host.",
+            "wrongAnswer_3": "Only chronic infections like tuberculosis and leprosy require bactericidal therapy, focusing on prolonged treatment durations.",
+            "wrongAnswer_4": "Bactericidal therapy is mandated in the treatment of all types of fungal and protozoal infections."
+          }
+        ]
+      },
+      {
+        "title": "Penicillins, Cephalosporins, and other beta-lactam drugs",
+        "quizzes": [
+          {
+            "question": "What common structural feature do beta-lactam antibiotics share, and why is it significant?",
+            "goodAnswer": "Beta-lactam antibiotics share a beta-lactam ring structure; this is crucial as it binds to penicillin-binding proteins involved in bacterial cell wall synthesis, inhibiting bacterial growth.",
+            "wrongAnswer_1": "All beta-lactam antibiotics have a common molecular weight which is significant for allowing these antibiotics to easily penetrate the cellular membranes of bacteria.",
+            "wrongAnswer_2": "They all have a sulfonamide group which is essential for their action against fungi and viruses besides bacteria.",
+            "wrongAnswer_3": "Beta-lactam antibiotics have a unique sugar ring essential for their taste and solubility in oral suspension forms.",
+            "wrongAnswer_4": "This class of drugs shares an ability to resist degradation in acidic conditions of the stomach, making them effective when taken orally."
+          }
+        ]
+      },
+      {
+        "title": "Aminoglycosides and Tetracycline",
+        "quizzes": [
+          {
+            "question": "What unique characteristic do aminoglycosides exhibit in their mechanism of action?",
+            "goodAnswer": "Aminoglycosides bind to the ribosome and interfere with bacterial protein synthesis, leading to incorrect protein creation and bacterial death.",
+            "wrongAnswer_1": "Aminoglycosides primarily disrupt the mitochondrial function in bacterial cells, leading to an energy production halt.",
+            "wrongAnswer_2": "The distinguishing feature of aminoglycosides is their ability to integrate into bacterial DNA, thus preventing replication.",
+            "wrongAnswer_3": "These antibiotics are unique in their capability to enhance the host's immune response rather than directly killing bacteria.",
+            "wrongAnswer_4": "Aminoglycosides are predominantly anti-viral agents disrupting viral replication mechanisms."
+          }
+        ]
+      },
+      {
+        "title": "Fluoroquinolones",
+        "quizzes": [
+          {
+            "question": "What is the primary mechanism of action for fluoroquinolones?",
+            "goodAnswer": "Fluoroquinolones primarily inhibit DNA gyrase and topoisomerase IV, enzymes critical for bacterial DNA replication and repair.",
+            "wrongAnswer_1": "Their main mechanism of action is to disrupt the cell wall synthesis by inhibiting peptidoglycan cross-linking.",
+            "wrongAnswer_2": "Fluoroquinolones block protein synthesis by directly binding to bacterial ribosomes.",
+            "wrongAnswer_3": "The principal action of fluoroquinolones involves the disruption of membrane integrity in bacterial cells leading to cell lysis.",
+            "wrongAnswer_4": "Fluoroquinolones primarily increase the permeability of the bacterial cell wall to other antibiotics."
+          }
+        ]
+      },
+      {
+        "title": "General principles of antimicrobial use and antimicrobial resistance",
+        "quizzes": [
+          {
+            "question": "What factors should be considered for the initial choice of antimicrobial agents?",
+            "goodAnswer": "Factors include the identity of the infecting organism, expected susceptibility patterns, site of infection, host factors like previous adverse reactions and age, and local antibiotic resistance trends.",
+            "wrongAnswer_1": "Only the cost and availability of antimicrobial agents are considered without regard to organism identity or host factors.",
+            "wrongAnswer_2": "The choice is based solely on the preference and experience of the healthcare provider without any diagnostic backing.",
+            "wrongAnswer_3": "The only factor for consideration is the speed of action of the drug, with faster-acting drugs being preferred regardless of the infection type.",
+            "wrongAnswer_4": "Antimicrobial agents are chosen based on their color and form (pill vs. injection), as these are believed to influence patient compliance."
+          }
+        ]
+      }
+    ]
+  }
+}

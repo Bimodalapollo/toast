@@ -1,0 +1,183 @@
+{
+  "mainTopic": {
+    "title": "Alimentary canal organs",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The content includes both anatomical and physiological information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+    "subTopics": [
+      {
+        "title": "The mouth",
+        "quizzes": [
+          {
+            "question": "Which structures frame the entrance of the mouth?",
+            "goodAnswer": "Cheeks, tongue, and palate",
+            "wrongAnswer_1": "Esophagus, teeth, and tongue",
+            "wrongAnswer_2": "Lips, salivary glands, and cheeks",
+            "wrongAnswer_3": "Pharynx, lips, and esophagus",
+            "wrongAnswer_4": "Tonsils, palate, and teeth"
+          },
+          {
+            "question": "What is the primary role of the teeth within the mouth?",
+            "goodAnswer": "Teeth mechanically break down food.",
+            "wrongAnswer_1": "Teeth primarily aid in the secretion of digestive enzymes.",
+            "wrongAnswer_2": "Teeth protect the esophagus from large food particles.",
+            "wrongAnswer_3": "Teeth are primarily for aesthetic purposes.",
+            "wrongAnswer_4": "Teeth secrete saliva for lubrication."
+          },
+          {
+            "question": "What type of organ is the tongue and what are its functions in the mouth?",
+            "goodAnswer": "The tongue is a muscular organ crucial for taste, manipulation of food, and swallowing.",
+            "wrongAnswer_1": "The tongue is a fibrous organ that secretes digestive enzymes.",
+            "wrongAnswer_2": "The tongue is a passive organ solely used for tasting food.",
+            "wrongAnswer_3": "The tongue is a glandular organ that produces mucus.",
+            "wrongAnswer_4": "The tongue only functions in speech within the mouth."
+          }
+        ]
+      },
+      {
+        "title": "Pharynx",
+        "quizzes": [
+          {
+            "question": "What is the role of the pharynx in the digestive system?",
+            "goodAnswer": "The pharynx is a passageway for both food and air.",
+            "wrongAnswer_1": "The pharynx solely filters air before it enters the lungs.",
+            "wrongAnswer_2": "The pharynx produces enzymes necessary for digestion.",
+            "wrongAnswer_3": "The pharynx is primarily involved in the absorption of nutrients.",
+            "wrongAnswer_4": "The pharynx secretes bile for fat emulsification."
+          },
+          {
+            "question": "How is the pharynx anatomically divided with respect to its functions?",
+            "goodAnswer": "Divided into the nasopharynx, oropharynx, and laryngopharynx, with the oropharynx and laryngopharynx involved in both breathing and digestion.",
+            "wrongAnswer_1": "Divided into upper, middle, and lower sections, all equally used for digestion and respiration.",
+            "wrongAnswer_2": "Consists of a single chamber that handles enzymatic activity for digestion.",
+            "wrongAnswer_3": "Segmented into two main sections: the anterior pharynx for respiratory functions and the posterior pharynx for digestive functions.",
+            "wrongAnswer_4": "Structured into multiple small compartments that filter and clean food and air."
+          },
+          {
+            "question": "What structure helps prevent food from entering the trachea during swallowing?",
+            "goodAnswer": "The epiglottis, a flap of tissue",
+            "wrongAnswer_1": "The uvula, a small fleshy extension at the back of the throat",
+            "wrongAnswer_2": "The palatine tonsils, which are located on either side of the throat",
+            "wrongAnswer_3": "The lingual tonsils, located at the base of the tongue",
+            "wrongAnswer_4": "Vocal cords, which close tightly during swallowing"
+          }
+        ]
+      },
+      {
+        "title": "Esophagus",
+        "quizzes": [
+          {
+            "question": "What is the primary function of the esophagus in the digestive system?",
+            "goodAnswer": "The esophagus transports food from the pharynx to the stomach.",
+            "wrongAnswer_1": "The esophagus secretes digestive enzymes necessary for breaking down food.",
+            "wrongAnswer_2": "The esophagus is mainly involved in the absorption of nutrients.",
+            "wrongAnswer_3": "The esophagus produces bile to help in fat digestion.",
+            "wrongAnswer_4": "The esophagus is primarily a respiratory tract that aids in breathing."
+          },
+          {
+            "question": "What mechanisms are involved in the passage of food through the esophagus?",
+            "goodAnswer": "Peristalsis and relaxation of upper and lower esophageal sphincters.",
+            "wrongAnswer_1": "Active transport and diffusion of food particles.",
+            "wrongAnswer_2": "Mucus secretion alone provides the passage.",
+            "wrongAnswer_3": "Gravitational pull and simple swilling of liquids.",
+            "wrongAnswer_4": "Enzymatic breakdown of food particles before passage."
+          },
+          {
+            "question": "What prevents stomach acid from refluxing back into the esophagus?",
+            "goodAnswer": "The lower esophageal sphincter.",
+            "wrongAnswer_1": "The pyloric sphincter.",
+            "wrongAnswer_2": "The cardiac sphincter.",
+            "wrongAnswer_3": "Rhythmic diaphragm movements.",
+            "wrongAnswer_4": "Esophageal enzymes neutralizing the acid."
+          }
+        ]
+      },
+      {
+        "title": "The stomach",
+        "quizzes": [
+          {
+            "question": "How is the stomach anatomically structured to perform its digestive functions?",
+            "goodAnswer": "The stomach is divided into regions: cardia, fundus, body, and pylorus; it utilizes gastric juices for digestion.",
+            "wrongAnswer_1": "The stomach is a monolithic structure with uniform function through its entirety.",
+            "wrongAnswer_2": "The stomach functions solely through mechanical digestion with no chemical secretion.",
+            "wrongAnswer_3": "It is structured like the intestine with villi and microvilli.",
+            "wrongAnswer_4": "The stomach uses air pressure and enzymes secreted from the spleen for digestion."
+          },
+          {
+            "question": "What substances does the stomach's mucosa absorb?",
+            "goodAnswer": "Primarily substances like alcohol and aspirin.",
+            "wrongAnswer_1": "Primarily nutrients like proteins and carbohydrates.",
+            "wrongAnswer_2": "Mainly vitamins and minerals directly into its lining.",
+            "wrongAnswer_3": "Primarily large quantities of water.",
+            "wrongAnswer_4": "It does not absorb any substances; it only digests."
+          },
+          {
+            "question": "What is the role of hydrochloric acid in the stomach?",
+            "goodAnswer": "Activates pepsinogen into pepsin, starting protein digestion.",
+            "wrongAnswer_1": "It breaks down carbohydrates into simpler sugars.",
+            "wrongAnswer_2": "It emulsifies fats and oils in the food ingested.",
+            "wrongAnswer_3": "Hydrochloric acid aids in the absorption of vitamins.",
+            "wrongAnswer_4": "Decreases the stomach pH to propel food into the intestines."
+          }
+        ]
+      },
+      {
+        "title": "The small intestines",
+        "quizzes": [
+          {
+            "question": "What are the three main regions of the small intestine and their roles?",
+            "goodAnswer": "Duodenum: chemical digestion; Jejunum: nutrient adsorption; Ileum: nutrient absorption and connects to large intestine.",
+            "wrongAnswer_1": "Duodenum: water absorption; Colon: waste handling; Ileum: vitamin synthesis.",
+            "wrongAnswer_2": "Upper, middle, and lower intestines: all primarily function in waste processing and excretion.",
+            "wrongAnswer_3": "Duodenum: air filtration; Jejunum: enzymatic activity; Ileum: food storage.",
+            "wrongAnswer_4": "Esophagus: food intake; Stomach: digestion; Duodenum: excretion."
+          },
+          {
+            "question": "What anatomical adaptations in the small intestine aid in maximizing nutrient absorption?",
+            "goodAnswer": "Presence of lengths, circular folds, villi, and microvilli increasing surface area.",
+            "wrongAnswer_1": "Smooth muscle lining allowing for faster food transport.",
+            "wrongAnswer_2": "Multiple glands secreting digestive juices scattered throughout.",
+            "wrongAnswer_3": "Uniform, tubular structure that simplifies food movement.",
+            "wrongAnswer_4": "Highly acidic environment aiding in rapid breakdown of food."
+          },
+          {
+            "question": "How does the structure of the small intestine assist in the digestion of chyme?",
+            "goodAnswer": "Mixes chyme with digestive juices for chemical breakdown and nutrient absorption.",
+            "wrongAnswer_1": "Uses peristaltic waves to mechanically digest chyme.",
+            "wrongAnswer_2": "Secures chyme for prolonged periods for gradual absorption.",
+            "wrongAnswer_3": "Applies high heat to break down the molecular bonds in chyme.",
+            "wrongAnswer_4": "Filters out undigested particles and passes pure liquid to the large intestine."
+          }
+        ]
+      },
+      {
+        "title": "The large intestines",
+        "quizzes": [
+          {
+            "question": "What are the primary functions of the large intestine?",
+            "goodAnswer": "Water and electrolyte absorption, forming and storing feces.",
+            "wrongAnswer_1": "Enzymatic digestion, nutrient absorption, and waste secretion.",
+            "wrongAnswer_2": "Protein synthesis, lipid storage, and carbohydrate breakdown.",
+            "wrongAnswer_3": "Vitamin creation, glucose regulation, and bile production.",
+            "wrongAnswer_4": "Air filtration, blood detoxification, and hormone regulation."
+          },
+          {
+            "question": "What anatomical features characterize the large intestine?",
+            "goodAnswer": "Includes the cecum, colon, rectum, and anus; distinguished by the presence of haustra and a lack of villi.",
+            "wrongAnswer_1": "Marked by extensive villi and microvilli for absorption.",
+            "wrongAnswer_2": "Characterized by multiple folds and a layer of dense muscular tissue.",
+            "wrongAnswer_3": "Contains multiple glands secreting digestive enzymes.",
+            "wrongAnswer_4": "Similar in structure to the small intestine but with larger dimensions."
+          },
+          {
+            "question": "How does the structure of the large intestine aid in its function?",
+            "goodAnswer": "Features like the teniae coli help in forming haustra which segment the intestine, optimizing water absorption.",
+            "wrongAnswer_1": "The spiral shape of the large intestine enhances the speed of digestion.",
+            "wrongAnswer_2": "Vibrations and sound waves generated by the large intestine break down food residues.",
+            "wrongAnswer_3": "Highly acidic pH levels within the large intestine help dissolve food particles.",
+            "wrongAnswer_4": "The presence of multiple valves regulates enzyme release and absorption rates."
+          }
+        ]
+      }
+    ]
+  }
+}

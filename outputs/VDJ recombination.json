@@ -1,0 +1,56 @@
+{
+  "mainTopic": {
+    "title": "VDJ recombination",
+    "team_name": "[Toast szeletek]",
+    "content_info": "",
+    "subTopics": [
+      {
+        "title": "Genes and cells involved in VDJ recombination",
+        "quizzes": [
+          {
+            "question": "What role do RAG proteins play in VDJ recombination?",
+            "goodAnswer": "RAG proteins initiate VDJ recombination by cleaving DNA at specific recombination signal sequences surrounding V, D, and J segments.",
+            "wrongAnswer_1": "RAG proteins assist in the transcription of V, D, and J gene segments into mRNA prior to their recombination.",
+            "wrongAnswer_2": "RAG proteins are involved in the ligation of V, D, and J segments after the recombination process to form a continuous gene.",
+            "wrongAnswer_3": "RAG proteins translate VDJ recombined sequences into functional protein complexes that form the B-cell receptor.",
+            "wrongAnswer_4": "RAG proteins regulate the expression of VDJ segments by modifying histone structures and enhancing chromatin accessibility."
+          },
+          {
+            "question": "Which cells are initially involved in carrying out VDJ recombination for immunoglobulin formation?",
+            "goodAnswer": "VDJ recombination occurs in progenitor B cells, specifically during the early stages of their development in the bone marrow.",
+            "wrongAnswer_1": "VDJ recombination takes place primarily within T lymphocytes as part of their maturation in the thymus.",
+            "wrongAnswer_2": "The process is conducted by plasma cells in order to generate a diverse array of antibodies.",
+            "wrongAnswer_3": "Macrophages are responsible for the VDJ recombination needed to create diverse antigen receptors.",
+            "wrongAnswer_4": "Stem cells in the bone marrow undergo VDJ recombination to produce all varieties of immune cells."
+          }
+        ]
+      },
+      {
+        "title": "Isotype switching in B cells",
+        "quizzes": [
+          {
+            "question": "What mechanism allows B cells to switch from producing IgM to other antibody isotypes?",
+            "goodAnswer": "Isotype switching involves a process known as class switch recombination (CSR), which changes the heavy chain portion of the antibody gene enabling B cells to produce different classes of antibodies beyond IgM.",
+            "wrongAnswer_1": "Isotype switching is primarily controlled through alternative splicing of pre-mRNA encoded by different immunoglobulin genes.",
+            "wrongAnswer_2": "The switch occurs due to changes in the light chain genes of immunoglobulins, which determine the specific class of antibody produced.",
+            "wrongAnswer_3": "B cells undergo somatic hypermutation, which alters the isotype of antibodies they produce.",
+            "wrongAnswer_4": "Isotype switching is mediated by T lymphocytes that instruct B cells to change the class of antibody they generate."
+          }
+        ]
+      },
+      {
+        "title": "The MHC complex",
+        "quizzes": [
+          {
+            "question": "What is the primary function of the Major Histocompatibility Complex (MHC) in the immune system?",
+            "goodAnswer": "The MHC's primary function is to bind peptide fragments derived from pathogens and display them on the cell surface for recognition by T cells.",
+            "wrongAnswer_1": "MHC molecules directly recognize and neutralize foreign pathogens before they can infect host cells.",
+            "wrongAnswer_2": "The MHC repairs damaged DNA in immune cells to ensure rapid and accurate immune responses.",
+            "wrongAnswer_3": "MHC complexes release cytokines that act to recruit other immune cells to the site of infection.",
+            "wrongAnswer_4": "Major Histocompatibility Complex aids in antibody diversification through VDJ recombination."
+          }
+        ]
+      }
+    ]
+  }
+}

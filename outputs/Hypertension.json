@@ -1,0 +1,72 @@
+{
+  "mainTopic": {
+    "title": "Pregnancy Induced Hypertension",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The content provided includes detailed information about various hypertensive disorders during pregnancy, their classifications, risk factors, clinical predictors, and treatments. Each subtopic explained with detailed parameters and statistics that are crucial for understanding the condition in a medical educational setup.",
+    "subTopics": [
+      {
+        "title": "Classification of Hypertensive Disorders",
+        "quizzes": [
+          {
+            "question": "What percentage range does Gestational Hypertension typically affect pregnant women?",
+            "goodAnswer": "Gestational hypertension affects approximately 6-7% of pregnant women and involves the onset of hypertension without proteinuria after 20 weeks of gestation.",
+            "wrongAnswer_1": "Gestational hypertension is seen in about 10-15% of pregnancies and only occurs in the first trimester.",
+            "wrongAnswer_2": "Chronic hypertension affects 6-7% of all pregnancies and includes high blood pressure present before pregnancy or before 20 weeks of gestation.",
+            "wrongAnswer_3": "Gestational hypertension can affect up to 20% of all pregnant women, usually starting in the first 20 weeks and often continuing postpartum.",
+            "wrongAnswer_4": "Preeclampsia, affecting 6-7% of pregnancies, involves high blood pressure and significant levels of protein in the urine after 20 weeks of gestation."
+          },
+          {
+            "question": "What distinguishes superimposed preeclampsia from chronic hypertension in pregnancy?",
+            "goodAnswer": "Superimposed preeclampsia involves chronic hypertension with new onset proteinuria or other preeclampsia symptoms during pregnancy.",
+            "wrongAnswer_1": "Superimposed preeclampsia is a mild form of chronic hypertension without additional symptoms occurring during pregnancy.",
+            "wrongAnswer_2": "There is no difference; both terms describe high blood pressure before 20 weeks of gestation that improves after delivery.",
+            "wrongAnswer_3": "Chronic hypertension refers to high blood pressure that resolves after pregnancy, while superimposed preeclampsia does not improve postpartum.",
+            "wrongAnswer_4": "Both conditions are identical but superimposed preeclampsia is diagnosed only when blood pressure exceeds 160/110 mmHg."
+          }
+        ]
+      },
+      {
+        "title": "Preeclampsia",
+        "quizzes": [
+          {
+            "question": "What are the primary symptoms used to classify severe preeclampsia?",
+            "goodAnswer": "Severe preeclampsia symptoms include blood pressure of 160/110 mmHg or higher, proteinuria greater than 5gm in 24 hours, oliguria, and visual disturbances.",
+            "wrongAnswer_1": "Mild preeclampsia symptoms, such as a slight increase in blood pressure and minimal proteinuria, are used to classify severe preeclampsia.",
+            "wrongAnswer_2": "Severe preeclampsia is classified by persistent headaches, mild proteinuria, and blood pressure consistently below 140/90 mmHg.",
+            "wrongAnswer_3": "Symptoms such as slight edema, occasional high blood pressure readings, and trace levels of protein in urine define severe preeclampsia.",
+            "wrongAnswer_4": "The classification includes low blood pressure, absence of proteinuria, and no changes in vision or liver function."
+          },
+          {
+            "question": "What differentiates mild from severe preeclampsia?",
+            "goodAnswer": "Mild preeclampsia involves blood pressure at or above 140/90 mmHg with 300mg of proteinuria, whereas severe includes much higher blood pressure and additional systemic symptoms.",
+            "wrongAnswer_1": "Mild and severe preeclampsia are differentiated only by the patient's subjective feeling of wellness.",
+            "wrongAnswer_2": "There is no clinical difference between mild and severe preeclampsia, only the timing of onset varies.",
+            "wrongAnswer_3": "Mild preeclampsia becomes severe only when blood pressure exceeds 180/110 mmHg without other symptoms.",
+            "wrongAnswer_4": "Severe preeclampsia is classified as such when there is no detectable proteinuria and extremely high blood pressure."
+          }
+        ]
+      },
+      {
+        "title": "Blood Pressure Measurement",
+        "quizzes": [
+          {
+            "question": "What is the recommended position and method for measuring blood pressure in pregnant women?",
+            "goodAnswer": "Blood pressure in pregnant women should be measured in a comfortable sitting position using the Korotkoff V sound; alternatively, Korotkoff IV can be noted if V is not audible.",
+            "wrongAnswer_1": "The standing position is recommended to get an accurate measure of diastolic pressure by using the Korotkoff V sound.",
+            "wrongAnswer_2": "It's best measured while the patient is lying down using the highest sound of Korotkoff to determine systolic pressure.",
+            "wrongAnswer_3": "Patients should be measured in a prone position using the Korotkoff I sound for the most precise reading.",
+            "wrongAnswer_4": "Blood pressure is optimally measured in a squatting position using the fourth Korotkoff sound for all readings."
+          },
+          {
+            "question": "What is the significance of using Korotkoff V sound over Korotkoff IV in pregnancy?",
+            "goodAnswer": "The Korotkoff V sound provides a more accurate measurement of diastolic pressure, crucial for diagnosing and managing pregnancy-induced hypertension.",
+            "wrongAnswer_1": "Korotkoff IV is preferred as it offers a faster measurement for high stress scenarios commonly encountered in pregnancy.",
+            "wrongAnswer_2": "There is no difference in measuring Korotkoff IV or V in pregnancy as both provide identical outcomes in hypertension management.",
+            "wrongAnswer_3": "Korotkoff IV is particularly used to measure systolic pressure, not diastolic, and is therefore less useful in pregnancy.",
+            "wrongAnswer_4": "Using Korotkoff V is less accurate and is only used when sound IV cannot be determined by auscultation."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "mainTopic": {
+    "title": "Aortic stenosis",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+    "subTopics": [
+      {
+        "title": "Etiology, Pathophysiology",
+        "quizzes": [
+          {
+            "question": "What are the primary causes of aortic stenosis?",
+            "goodAnswer": "Aortic stenosis can be caused by congenital valve defects, rheumatic heart disease, and degenerative calcification.",
+            "wrongAnswer_1": "Primary causes include hypertension, atherosclerosis, and infectious agents such as bacteria.",
+            "wrongAnswer_2": "It is predominantly caused by lifestyle factors such as high cholesterol, smoking, and diabetes.",
+            "wrongAnswer_3": "Most cases are due to autoimmune disorders that lead to the progressive narrowing of the aortic valve.",
+            "wrongAnswer_4": "It is mainly caused by direct physical trauma to the heart or its major arteries."
+          },
+          {
+            "question": "Describe the pathophysiological mechanism behind left ventricular hypertrophy in aortic stenosis.",
+            "goodAnswer": "Left ventricular hypertrophy in aortic stenosis results from increased pressure overload due to the narrowed valve, requiring the ventricle to exert more force to pump blood through the restricted opening.",
+            "wrongAnswer_1": "The hypertrophy is mainly caused by increased volume load, as the heart compensates for reduced arterial elasticity and perfusion.",
+            "wrongAnswer_2": "It develops as a response to reduced cardiac output and systemic hypotension, leading to compensatory thickening of the ventricular wall.",
+            "wrongAnswer_3": "This condition is a direct result of ischemic heart conditions, unrelated to valvular constriction or pressure gradients.",
+            "wrongAnswer_4": "Hypertrophy is typically a consequence of genetic mutations affecting myocardial fiber growth and alignment."
+          }
+        ]
+      },
+      {
+        "title": "Clinical features",
+        "quizzes": [
+          {
+            "question": "What is the classic triad of clinical symptoms observed in aortic stenosis?",
+            "goodAnswer": "The classic triad includes dyspnea, angina, and syncope.",
+            "wrongAnswer_1": "Symptoms include palpitations, fever, and wheezing.",
+            "wrongAnswer_2": "The triad consists of headache, blurred vision, and chest pain.",
+            "wrongAnswer_3": "Commonly presents with swelling of ankles, confusion, and nocturnal cough.",
+            "wrongAnswer_4": "The primary symptoms are fatigue, dizziness, and intermittent claudication."
+          }
+        ]
+      },
+      {
+        "title": "Diagnostic testing, Differential diagnosis",
+        "quizzes": [
+          {
+            "question": "What diagnostic tests are commonly used to confirm a diagnosis of aortic stenosis?",
+            "goodAnswer": "Common tests include echocardiography, electrocardiography, chest radiography, and sometimes cardiac catheterization.",
+            "wrongAnswer_1": "Generally, MRI, CT scans, and full blood panels are used.",
+            "wrongAnswer_2": "Tests include lung function tests, abdominal ultrasounds, and thyroid function tests.",
+            "wrongAnswer_3": "Diagnosis is primarily through stress testing, tilt table tests, and arterial blood gas analysis.",
+            "wrongAnswer_4": "The condition is confirmed using PET scans, liver function tests, and genetic screening."
+          }
+        ]
+      },
+      {
+        "title": "Managemnet",
+        "quizzes": [
+          {
+            "question": "What are the standard management strategies for aortic stenosis in adults?",
+            "goodAnswer": "Management may involve surgical options such as valve replacement or less invasive procedures like balloon valvuloplasty, depending on severity and patient condition.",
+            "wrongAnswer_1": "Standard methods include lifestyle adjustments, dietary changes, and regular exercise.",
+            "wrongAnswer_2": "Treatment usually involves long-term medication therapy, including diuretics and beta-blockers.",
+            "wrongAnswer_3": "Management primarily depends on psychological counseling and continuous monitoring with no physical interventions.",
+            "wrongAnswer_4": "Typically, patients are treated with antibiotics and anticoagulants to manage symptoms."
+          }
+        ]
+      }
+    ]
+  }
+}

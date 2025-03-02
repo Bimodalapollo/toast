@@ -1,0 +1,111 @@
+{
+  "mainTopic": {
+    "title": "Epithelium",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The uploaded materials in the PDF files are PowerPoint slides. There are several slides with pictures and diagrams on them, but you can find all the necessary information to form the questions from the slides that have text on them.",
+    "subTopics": [
+      {
+        "title": "Overview and definition of epithelium",
+        "quizzes": [
+          {
+            "question": "What is the primary function of the epithelium in the body?",
+            "goodAnswer": "Protecting internal and external surfaces, and engaging in activities such as absorption, secretion, and sensation.",
+            "wrongAnswer_1": "Production of hormones and enzymes essential for digestion and metabolism.",
+            "wrongAnswer_2": "Connecting and supporting various tissues and organs within the body.",
+            "wrongAnswer_3": "Transporting substances such as oxygen and nutrients throughout the body.",
+            "wrongAnswer_4": "Regulating body temperature and maintaining homeostasis."
+          },
+          {
+            "question": "How is epithelium typically structured in relation to adjacent tissues?",
+            "goodAnswer": "Epithelium is structured as layers of cells that are bound to an underlying basal lamina.",
+            "wrongAnswer_1": "It is typically loosely arranged with ample extracellular space for nutrient exchange.",
+            "wrongAnswer_2": "Epithelial tissues are intermixed with muscle fibers to facilitate movement.",
+            "wrongAnswer_3": "It is typically composed of single, unlayered structures that float freely within bodily fluids.",
+            "wrongAnswer_4": "Epithelial cells are dispersed within connective tissues to provide structural support."
+          }
+        ]
+      },
+      {
+        "title": "Classification of epithelium",
+        "quizzes": [
+          {
+            "question": "What are the main criteria used to classify epithelial tissue?",
+            "goodAnswer": "Number of cell layers (simple or stratified) and shape of the cells on the surface layer (squamous, cuboidal, columnar).",
+            "wrongAnswer_1": "The presence of nerve supply and the type of extracellular matrix.",
+            "wrongAnswer_2": "The overall size of the cells and the presence or absence of cilia.",
+            "wrongAnswer_3": "The type of secretion they produce and the presence of desmosomes and hemidesmosomes.",
+            "wrongAnswer_4": "Their regeneration speed and the ability to transport substances across the membrane."
+          },
+          {
+            "question": "What distinguishes simple epithelium from stratified epithelium?",
+            "goodAnswer": "Simple epithelium consists of a single layer of cells, whereas stratified epithelium comprises multiple layers.",
+            "wrongAnswer_1": "Simple epithelium is found only in the digestive tract, while stratified is found in the skin.",
+            "wrongAnswer_2": "Simple epithelium cannot regenerate, while stratified epithelium has high regenerative capabilities.",
+            "wrongAnswer_3": "Simple epithelium is highly vascular, whereas stratified epithelium is avascular.",
+            "wrongAnswer_4": "Stratified epithelium performs absorption, and simple epithelium is primarily for secretion."
+          }
+        ]
+      },
+      {
+        "title": "Apical cell surface specializations and functions",
+        "quizzes": [
+          {
+            "question": "What are microvilli and what is their primary function in epithelial cells?",
+            "goodAnswer": "Microvilli are minute surface projections on the apical surface of epithelial cells, increasing surface area for absorption.",
+            "wrongAnswer_1": "Microvilli are cellular attachments that aid in cell adhesion to the basement membrane.",
+            "wrongAnswer_2": "They are sensors that detect mechanical and chemical signals from the cell's environment.",
+            "wrongAnswer_3": "Microvilli are primarily involved in the secretion of cellular waste material.",
+            "wrongAnswer_4": "They are motile structures that help in moving substances across the cell surface."
+          },
+          {
+            "question": "What role do cilia play on the apical surface of epithelial cells?",
+            "goodAnswer": "Cilia are motile structures that help in the movement of substances over the epithelial surface, such as mucus in the respiratory tract.",
+            "wrongAnswer_1": "Cilia produce enzymes critical for breaking down toxins that contact the epithelial surface.",
+            "wrongAnswer_2": "They serve as structural support to maintain the integrity of the epithelial barrier.",
+            "wrongAnswer_3": "Cilia are involved in capturing nutrients from the extracellular environment.",
+            "wrongAnswer_4": "They function as sensors for cellular damage and initiate the healing process."
+          }
+        ]
+      },
+      {
+        "title": "Specialized and unspecialized epithelial cells",
+        "quizzes": [
+          {
+            "question": "What differentiates specialized from unspecialized epithelial cells?",
+            "goodAnswer": "Specialized epithelial cells perform specific functions like secretion and absorption, while unspecialized cells mainly provide protection.",
+            "wrongAnswer_1": "Unspecialized cells can regenerate, unlike the specialized epithelial cells.",
+            "wrongAnswer_2": "Specialized cells are found only in adults, whereas unspecialized cells are present during embryonic development.",
+            "wrongAnswer_3": "Unspecialized cells are capable of mitosis, while specialized cells are not.",
+            "wrongAnswer_4": "Specialized cells are generally smaller and less complex than unspecialized cells."
+          }
+        ]
+      },
+      {
+        "title": "Types of Intercellular junctions and hemidesmosomes",
+        "quizzes": [
+          {
+            "question": "What is the primary function of desmosomes in epithelial tissues?",
+            "goodAnswer": "Desmosomes function as anchoring junctions, mechanically attaching cells to each other.",
+            "wrongAnswer_1": "They facilitate the passive transport of ions and molecules between cells.",
+            "wrongAnswer_2": "Desmosomes secrete extracellular matrix components to support the epithelium.",
+            "wrongAnswer_3": "They are mainly involved in the synthesis of cellular adhesion proteins.",
+            "wrongAnswer_4": "Desmosomes detect cellular damage and initiate apoptosis in defective cells."
+          }
+        ]
+      },
+      {
+        "title": "Exocrine and endocrine glands of secretory epithelium",
+        "quizzes": [
+          {
+            "question": "What distinguishes exocrine glands from endocrine glands?",
+            "goodAnswer": "Exocrine glands secrete substances through ducts to an external or internal surface, while endocrine glands secrete hormones directly into the bloodstream.",
+            "wrongAnswer_1": "Exocrine glands are only found in the gastrointestinal system, whereas endocrine glands are dispersed throughout the body.",
+            "wrongAnswer_2": "Endocrine glands are primarily involved in digestion, while exocrine glands regulate metabolic processes.",
+            "wrongAnswer_3": "Exocrine glands secrete enzymes, whereas endocrine glands are responsible for producing antibodies.",
+            "wrongAnswer_4": "Endocrine glands have a faster secretion response compared to exocrine glands."
+          }
+        ]
+      }
+    ]
+  }
+}

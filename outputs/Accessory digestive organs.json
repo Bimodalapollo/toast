@@ -1,0 +1,82 @@
+{
+  "mainTopic": {
+    "title": "Accessory digestive organs",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The content includes both anatomical and physiological information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+    "subTopics": [
+      {
+        "title": "The salivary glands",
+        "quizzes": [
+          {
+            "question": "What are the anatomical locations of the major salivary glands in the human body?",
+            "goodAnswer": "The parotid glands are located near the ears, the submandibular glands are situated on the floor of the mouth, and the sublingual glands are found under the tongue.",
+            "wrongAnswer_1": "The parotid glands are below the tongue, submandibular glands are near the ears, and sublingual glands are located in the floor of the mouth.",
+            "wrongAnswer_2": "All major salivary glands, including parotid, submandibular, and sublingual, are located in the neck region.",
+            "wrongAnswer_3": "The sublingual and submandibular glands are located near the ears, whereas the parotid glands are found under the tongue.",
+            "wrongAnswer_4": "The major salivary glands such as the parotid, submandibular, and sublingual are all situated within the oral cavity itself."
+          },
+          {
+            "question": "Which salivary gland is the largest and where is it located?",
+            "goodAnswer": "The parotid gland is the largest salivary gland and it is located near the ears, wrapped around the mandibular ramus.",
+            "wrongAnswer_1": "The largest is the sublingual gland, which is located under the tongue.",
+            "wrongAnswer_2": "The submandibular gland is the largest and is found in the floor of the mouth.",
+            "wrongAnswer_3": "The largest salivary gland is the parotid, located in the lower jaw.",
+            "wrongAnswer_4": "The sublingual gland, positioned directly below the jaw, is the largest among the salivary glands."
+          }
+        ]
+      },
+      {
+        "title": "The liver",
+        "quizzes": [
+          {
+            "question": "Describe the location and the primary anatomical divisions of the liver.",
+            "goodAnswer": "The liver is situated in the right upper quadrant of the abdomen, protected by the ribcage. It is divided into a large right lobe and a smaller left lobe, which are further subdivided into the caudate and quadrate lobes.",
+            "wrongAnswer_1": "Located in the left abdomen, the liver consists of two equal-sized lobes, the anterior and posterior.",
+            "wrongAnswer_2": "The liver is positioned in the lower abdomen and includes several small lobes that function independently.",
+            "wrongAnswer_3": "It is found in the central abdominal region with multiple small lobes making up its structure.",
+            "wrongAnswer_4": "Situated in the upper left quadrant, the liver is divided into the superior and inferior lobes."
+          }
+        ]
+      },
+      {
+        "title": "The pancreas",
+        "quizzes": [
+          {
+            "question": "Where is the pancreas located in relation to the stomach?",
+            "goodAnswer": "The pancreas is located posteriorly to the stomach, extending horizontally across the posterior abdominal wall.",
+            "wrongAnswer_1": "The pancreas sits laterally to the stomach, spanning the width of the abdominal cavity.",
+            "wrongAnswer_2": "It is positioned anterior to the stomach attached to the lower section of the esophagus.",
+            "wrongAnswer_3": "Located below the stomach, the pancreas wraps around the inferior belly.",
+            "wrongAnswer_4": "The pancreas is directly above the stomach, forming the upper curve of the small intestine."
+          }
+        ]
+      },
+      {
+        "title": "The gallbladder",
+        "quizzes": [
+          {
+            "question": "Where is the gallbladder located and what is its primary anatomical feature?",
+            "goodAnswer": "The gallbladder is nestled in a shallow area on the posterior aspect of the right lobe of the liver, and is recognized by its fundus, body, and neck.",
+            "wrongAnswer_1": "Located within the left lobe of the liver, the gallbladder is distinguished by its large neck and small body.",
+            "wrongAnswer_2": "The gallbladder is positioned at the inferior border of the pancreas, mainly noted for its long cylindrical shape.",
+            "wrongAnswer_3": "It is attached to the underside of the spleen, featuring a prominent base and a tapered apex.",
+            "wrongAnswer_4": "Found below the liver, the gallbladder's primary feature is its divided internal chamber which aids in bile storage."
+          }
+        ]
+      },
+      {
+        "title": "The peritoneum",
+        "quizzes": [
+          {
+            "question": "Describe the composition and the primary divisions of the peritoneum.",
+            "goodAnswer": "The peritoneum is a serous membrane consisting of a squamous epithelial layer and connective tissue. It is divided into parietal and visceral layers, enveloping the abdominal organs and lining the abdominal wall.",
+            "wrongAnswer_1": "Composed of muscular and connective tissue, the peritoneum includes anterior and posterior divisions that cover the abdominal organs.",
+            "wrongAnswer_2": "It consists of three layers: mucosal, submucosal, and muscular, covering the internal organs of the abdominal cavity.",
+            "wrongAnswer_3": "The peritoneum is made up of dense fibrous tissue divided into upper and lower sections, providing structural support to abdominal organs.",
+            "wrongAnswer_4": "Featuring an epithelial and muscular layer, the peritoneum encompasses the left and right divisions, protecting abdominal structures."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "mainTopic": {
+    "title": "Autonomic Pharmacology",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "subTopics": [
+      {
+        "title": "Anatomy of the Autonomic System",
+        "quizzes": [
+          {
+            "question": "What are the major differences between the somatic and autonomic nervous systems?",
+            "goodAnswer": "The autonomic nervous system controls involuntary functions like smooth muscle, cardiac muscle, glands, and involuntary actions, while the somatic nervous system controls voluntary striated muscle.",
+            "wrongAnswer_1": "The somatic nervous system is responsible for involuntary functions, while the autonomic nervous system regulates voluntary muscle movements.",
+            "wrongAnswer_2": "The autonomic nervous system only controls glands, while the somatic nervous system controls all muscle types.",
+            "wrongAnswer_3": "The somatic nervous system has motor nerves, while the autonomic nervous system contains only sensory nerves.",
+            "wrongAnswer_4": "Both systems have the same nerve structures but control different functions."
+          },
+          {
+            "question": "Where are the postganglionic cell bodies located in the sympathetic system, and how do they relay signals?",
+            "goodAnswer": "Postganglionic cell bodies are located in ganglia and they transmit signals to target organs after receiving impulses from preganglionic nerves.",
+            "wrongAnswer_1": "Postganglionic cell bodies are present in the spinal cord and synapse directly with the spinal nerves.",
+            "wrongAnswer_2": "Postganglionic neuron bodies are situated in the ventral roots, controlling muscle tone.",
+            "wrongAnswer_3": "Signals travel directly from preganglionic fibers to target organs without involving ganglia.",
+            "wrongAnswer_4": "Postganglionic neurons are exclusively found in the paravertebral ganglia."
+          },
+          {
+            "question": "Where do parasympathetic preganglionic fibers synapse before reaching the end-organ?",
+            "goodAnswer": "Parasympathetic preganglionic fibers synapse near the target organ in ganglia such as the ciliary ganglion or submandibular ganglion.",
+            "wrongAnswer_1": "Parasympathetic preganglionic fibers synapse in the spinal cord before delaying the signal to the ganglia.",
+            "wrongAnswer_2": "All parasympathetic synapses occur in the brainstem before traveling to the end-organ.",
+            "wrongAnswer_3": "Preganglionic fibers completely bypass the ganglia in the parasympathetic system.",
+            "wrongAnswer_4": "Synapses happen in the spinal ganglia before connecting to the postganglionic neuron."
+          }
+        ]
+      },
+      {
+        "title": "Cholinergic neurotransmission and signal transduction",
+        "quizzes": [
+          {
+            "question": "What is the primary difference between nicotinic and muscarinic receptors?",
+            "goodAnswer": "Nicotinic receptors respond to nicotine and are more sensitive to different agonists compared to muscarinic receptors.",
+            "wrongAnswer_1": "Muscarinic receptors are found only in the CNS, while nicotinic receptors are only present in the autonomic ganglia.",
+            "wrongAnswer_2": "Both receptors are equally affected by the same agonists and antagonists but have different structures.",
+            "wrongAnswer_3": "Nicotinic receptors exhibit slower receptor activation compared to muscarinic receptors.",
+            "wrongAnswer_4": "Muscarinic receptors are exclusively located in smooth muscle, not in cardiac tissue."
+          },
+          {
+            "question": "What is the function of muscarinic receptors in the heart?",
+            "goodAnswer": "In the heart, muscarinic receptors cause hyperpolarization by increasing K+ conductance.",
+            "wrongAnswer_1": "Muscarinic receptors in the heart stimulate Na+ influx, leading to depolarization.",
+            "wrongAnswer_2": "Cardiac muscarinic activation results in increased Ca2+ conductivity rather than K+.",
+            "wrongAnswer_3": "ACh action on the heart promotes vasoconstriction rather than hyperpolarization.",
+            "wrongAnswer_4": "Muscarinic receptors solely regulate heart rate, not membrane potential."
+          },
+          {
+            "question": "How does cholinergic signal transduction differ in cardiac vs. GI smooth muscle?",
+            "goodAnswer": "In cardiac tissue, ACh increases K+ conductance, leading to hyperpolarization, while in GI smooth muscle, it enhances Na+ and Ca2+ flow, causing partial depolarization.",
+            "wrongAnswer_1": "Both cardiac and GI smooth muscle depolarize upon ACh exposure due to increased K+ and Ca2+ influx only.",
+            "wrongAnswer_2": "The signal transduction pathways are the same for both cardiac and GI muscles, resulting in identical responses.",
+            "wrongAnswer_3": "ACh has no effect on ionic conductance in cardiac tissue but increases Ca2+ influx significantly in GI muscle tissue.",
+            "wrongAnswer_4": "Muscarinic responses are consistent across all muscle types, leading to either solely hyperpolarization or purely depolarization."
+          }
+        ]
+      }
+    ]
+  }
+}

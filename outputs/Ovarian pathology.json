@@ -1,0 +1,194 @@
+{
+  "mainTopic": {
+    "title": "Ovarian pathology",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+    "subTopics": [
+      {
+        "title": "Types of ovarian tumors",
+        "quizzes": [
+          {
+            "question": "What percentage of ovarian neoplasms are epithelial tumors?",
+            "goodAnswer": "Approximately 70% of all ovarian neoplasms are considered epithelial tumors.",
+            "wrongAnswer_1": "Around 85% of all ovarian neoplasms are classified as epithelial tumors.",
+            "wrongAnswer_2": "About 30% of ovarian tumors are known to be epithelial in nature.",
+            "wrongAnswer_3": "Approximately 50% of ovarian tumors fall into the epithelial category.",
+            "wrongAnswer_4": "Epithelial tumors constitute about 60% of all ovarian tumors."
+          },
+          {
+            "question": "Which types of tumors arise from the ovarian stromal cells?",
+            "goodAnswer": "Tumors like granulosa stromal cell tumor and Sertoli stromal cell tumor arise from ovarian stromal cells.",
+            "wrongAnswer_1": "Ovarian tumors like the serous and mucinous arise from the ovarian stromal cells.",
+            "wrongAnswer_2": "Epithelial tumors such as endometrioid and clear cell tumors are derived from ovarian stromal cells.",
+            "wrongAnswer_3": "Stromal tumors originate from non-stromal cells and include types like dysgerminoma.",
+            "wrongAnswer_4": "Carcinomas such as squamous cell and adenocarcinoma originate from ovarian stromal cells."
+          },
+          {
+            "question": "What are the characteristics of germ cell tumors in ovarian pathology?",
+            "goodAnswer": "Germ cell tumors account for approximately 15% to 20% of all ovarian neoplasms and include types like dysgerminoma and teratoma.",
+            "wrongAnswer_1": "Germ cell tumors make up about 50% of ovarian tumors and primarily include the endometrioid type.",
+            "wrongAnswer_2": "They constitute approximately 5% of ovarian neoplasms and are mainly serous tumors.",
+            "wrongAnswer_3": "Approximately 30% of ovarian neoplasms are germ cell tumors including mucinous and clear cell types",
+            "wrongAnswer_4": "These tumors arise mainly from ovarian epithelial cells and account for about 40% of cases."
+          },
+          {
+            "question": "Which ovarian tumors are typically metastatic and their usual origin?",
+            "goodAnswer": "Metastatic tumors account for about 5% of ovarian malignancies, most commonly originating from the breast or bowel.",
+            "wrongAnswer_1": "Approximately 10% of ovarian tumors are metastatic, frequently emerging from lung or pancreatic origins.",
+            "wrongAnswer_2": "Around 5% of metastatic ovarian tumors originate mainly from the kidney or bladder.",
+            "wrongAnswer_3": "Nearly 20% of ovarian tumors are metastatic, typically stemming from skin cancers like melanoma.",
+            "wrongAnswer_4": "Metastatic ovarian tumors, making up about 15% of cases, often come from the liver or stomach."
+          }
+        ]
+      },
+      {
+        "title": "Fibrothecomas, Hemorrhagic Cyst, Ovarian surface epithelial tumors, Serous cystadenoma, Papillary serous cystadenocarcinoma",
+        "quizzes": [
+          {
+            "question": "What are the main characteristics of fibrothecomas in the context of ovarian tumors?",
+            "goodAnswer": "Fibrothecomas are benign ovarian tumors, typically arising from the ovarian stroma, often presenting with a yellowish hue due to their thecoma component and lipid content.",
+            "wrongAnswer_1": "Fibrothecomas are highly malignant ovarian tumors that frequently metastasize to the liver and lungs.",
+            "wrongAnswer_2": "They are aggressive ovarian cancers that are usually bilateral and associated with high mortality.",
+            "wrongAnswer_3": "Typically, fibrothecomas are small, fast-growing tumors heavily associated with ovarian cysts.",
+            "wrongAnswer_4": "These tumors predominantly arise from the epithelial cells of the ovary and are usually symptomatic."
+          },
+          {
+            "question": "Describe the pathological features of a hemorrhagic cyst in the ovarian setting.",
+            "goodAnswer": "A hemorrhagic cyst, often a corpus luteum, is characterized by a hemorrhage within a normal follicular structure, presenting histologically as a dark red-black region surrounded by a thin yellow rim.",
+            "wrongAnswer_1": "It is a benign cyst filled with clear fluid and is typically linked with high levels of CA-125.",
+            "wrongAnswer_2": "Such cysts are malignant and contain solid tumor masses within the fluid-filled structure, leading to rapid ovarian enlargement.",
+            "wrongAnswer_3": "Hemorrhagic cysts are generally filled with a mucinous content and are multiloculated in nature.",
+            "wrongAnswer_4": "This type of cyst is characterized by its greenish-blue color and thick walls, usually found in postmenopausal women."
+          },
+          {
+            "question": "What distinguishes a papillary serous cystadenocarcinoma from a serous cystadenoma?",
+            "goodAnswer": "Papillary serous cystadenocarcinoma is a malignant ovarian tumor with many solid tissue papillations invading outside of the ovary, unlike serous cystadenoma, which is benign with usually a smooth lining and solitary papillations.",
+            "wrongAnswer_1": "Both are benign and primarily differentiated by size; cystadenocarcinomas are typically larger.",
+            "wrongAnswer_2": "There is no significant difference; both terms refer to the same pathology with minimal clinical significance.",
+            "wrongAnswer_3": "Cystadenocarcinomas are identified by the presence of mucinous fluid whereas cystadenomas contain serous fluid.",
+            "wrongAnswer_4": "Serous cystadenoma involves multiple loculations of tumors, whereas papillary serous cystadenocarcinoma doesn't exhibit loculations."
+          },
+          {
+            "question": "What are the common features of ovarian surface epithelial tumors?",
+            "goodAnswer": "These tumors, which include types such as serous and mucinous, are the most common ovarian neoplasms, often presenting with an epithelium-lined structure filled with either serous fluid or sticky mucin.",
+            "wrongAnswer_1": "Surface epithelial tumors are rare and typically present with solid growths lacking any kind of fluid.",
+            "wrongAnswer_2": "They are predominantly characterized by deep invasive growth into muscular layers of the ovary, without any fluid presence.",
+            "wrongAnswer_3": "These tumors are primarily found on the external surfaces of the ovaries and are associated with minimal symptoms until late stages.",
+            "wrongAnswer_4": "Ovarian surface epithelial tumors are usually highly aggressive and metastasize early to the lymph nodes and abdominal cavity."
+          }
+        ]
+      },
+      {
+        "title": "Key issues, Epidemiology, Associations",
+        "quizzes": [
+          {
+            "question": "What is the annual lifetime risk of ovarian cancer in the US?",
+            "goodAnswer": "The annual lifetime risk for ovarian cancer in the United States is approximately 1.4 per 100 women.",
+            "wrongAnswer_1": "It is about 0.5 per 100 women per annum in the United States.",
+            "wrongAnswer_2": "The risk stands at 2.5 per 100 women every year in the US.",
+            "wrongAnswer_3": "Approximately 3 per 100 women each year are at risk for ovarian cancer in the US.",
+            "wrongAnswer_4": "The yearly risk of ovarian cancer is about 0.1 per 100 women in the United States."
+          },
+          {
+            "question": "What are the genetic tests available for hereditary ovarian cancer syndrome?",
+            "goodAnswer": "Genetic tests for hereditary ovarian cancer syndrome include testing for BRCA1 and BRCA2, which can identify patients more likely to benefit from ovarian cancer screening.",
+            "wrongAnswer_1": "Typical genetic tests include those for p53 and KRAS mutations commonly associated with ovarian cancer.",
+            "wrongAnswer_2": "Genetic screening is generally conducted for mutations in genes such as CEA and AFP in ovarian cancer.",
+            "wrongAnswer_3": "Hereditary ovarian cancer syndrome is primarily tested through complete genetic mapping and sequencing.",
+            "wrongAnswer_4": "Tests are usually aimed at detecting common mutations in the HNPCC genes linked to ovarian cancer."
+          },
+          {
+            "question": "How does the use of oral contraceptives influence the risk for ovarian cancer?",
+            "goodAnswer": "Decreasing a patient's risk for ovarian cancer is possible through the use of oral contraceptives.",
+            "wrongAnswer_1": "Oral contraceptives have been found to significantly increase the risk of developing ovarian cancer.",
+            "wrongAnswer_2": "The use of oral contraceptives has no impact on the risk levels for ovarian cancer.",
+            "wrongAnswer_3": "While oral contraceptives decrease the risk for breast cancer, they increase the risk for ovarian cancer.",
+            "wrongAnswer_4": "Oral contraceptives are primarily used to reduce symptoms of ovarian cancer rather than influencing risk."
+          },
+          {
+            "question": "What association has been noted between infertility and ovarian cancer risk?",
+            "goodAnswer": "Studies suggest a higher risk of ovarian cancer among women with infertility, particularly those with an ovulation-related cause of infertility.",
+            "wrongAnswer_1": "There is a strong inverse relationship; higher fertility rates have been associated with increased ovarian cancer risks.",
+            "wrongAnswer_2": "No association between infertility and ovarian cancer has been scientifically proven so far.",
+            "wrongAnswer_3": "Infertility treatments are believed to lower ovarian cancer risk substantially according to most studies.",
+            "wrongAnswer_4": "Infertility is known to have a protective effect against the development of ovarian cancer."
+          }
+        ]
+      },
+      {
+        "title": "Staging of Ovarian Cancer, Intraoperative findings, Timeline for therapy",
+        "quizzes": [
+          {
+            "question": "What are the criteria for categorizing a tumor as Stage IC in ovarian cancer staging?",
+            "goodAnswer": "Stage IC is categorized by tumors either at stage IA or IB but with tumor on the surface of one or both ovaries, or with the capsule ruptured, or with ascites containing malignant cells, or with positive peritoneal washings.",
+            "wrongAnswer_1": "Stage IC is marked by tumors not constrained to the ovaries but spread significantly within the pelvic region.",
+            "wrongAnswer_2": "Tumors categorized under Stage IC are largely those that show distant metastases beyond the pelvic region.",
+            "wrongAnswer_3": "Stage IC involves tumors that are limited to one ovary, showing superficial growth without any spread.",
+            "wrongAnswer_4": "This stage is identified by the presence of tumors in both ovaries but confined within the pelvic cavity exclusively."
+          },
+          {
+            "question": "What does Stage III signify in the context of ovarian cancer?",
+            "goodAnswer": "Stage III ovarian cancer involves tumors in one or both ovaries with peritoneal implants outside the pelvis or positive retroperitoneal or inguinal nodes; superficial liver metastasis equals Stage III.",
+            "wrongAnswer_1": "Stage III is characterized by tumors limited to the ovaries with no evidence of spread or metastasis.",
+            "wrongAnswer_2": "It represents the initial stage of ovarian cancer, indicating minimal tumor growth with no ovarian involvement.",
+            "wrongAnswer_3": "This stage involves extensive spread to distant organs such as the lungs and brain, far beyond the pelvic area.",
+            "wrongAnswer_4": "Stage III signifies a complete remission of ovarian cancer following successful treatment and therapy."
+          },
+          {
+            "question": "Describe typical intraoperative findings consistent with invasive ovarian malignancy.",
+            "goodAnswer": "Intraoperative findings in invasive ovarian malignancy can include bilateral tumor presence, adherence to adjacent organs, surface excrescences, ruptured capsule, ascites, peritoneal implants, hemorrhage, necrosis, solid areas, and intracystic papillations.",
+            "wrongAnswer_1": "Common findings are small tumors restricted to one ovary without any spread to nearby structures or organs.",
+            "wrongAnswer_2": "Invasive ovarian malignancies typically present with a single, small, contained mass that is easily resected.",
+            "wrongAnswer_3": "Intraoperative findings usually include a complete absence of tumors, suggesting initial misdiagnosis.",
+            "wrongAnswer_4": "Typical findings comprise heavily calcified structures with no involvement of ovaries or adjacent tissues."
+          },
+          {
+            "question": "Outline the typical timeline for therapy after an ovarian cancer diagnosis.",
+            "goodAnswer": "The timeline for therapy typically includes initial staging, followed by cytoreductive surgery, postoperative therapy, radiation therapy, intraperitoneal therapy, systemic chemotherapy, and finally a second-look procedure.",
+            "wrongAnswer_1": "Therapeutic measures usually start with radiation therapy, followed by experimental drug treatments and, rarely, surgery.",
+            "wrongAnswer_2": "Initial steps usually involve immediate full-body radiation followed by gradual introduction of chemotherapy.",
+            "wrongAnswer_3": "Treatment typically begins with lifestyle and dietary changes, followed by gradual pharmacological intervention.",
+            "wrongAnswer_4": "The therapy often starts with palliative care to manage symptoms before considering any aggressive treatment options."
+          }
+        ]
+      },
+      {
+        "title": "Germ Cell Tumors, Classification of Germ Cell Tumors, Teratoma, Complications of Dermoid Cysts, Mixed Germ Cell Tumors, Sex Cord Tumors, Metastatic tumors to ovary",
+        "quizzes": [
+          {
+            "question": "What are the typical features of germ cell tumors in the ovary?",
+            "goodAnswer": "Ovarian germ cell tumors can include types such as dysgerminoma, yolk sac tumor, embryonal carcinoma, and teratoma, often appearing in younger population groups.",
+            "wrongAnswer_1": "Such tumors are primarily characterized by their rapid metastasis to abdominal organs and often involve serous fluid accumulation.",
+            "wrongAnswer_2": "Germ cell tumors in the ovary are marked by early onset of menopause and predominantly endometrioid histology.",
+            "wrongAnswer_3": "These tumors are exclusively benign and usually resolve without any medical intervention.",
+            "wrongAnswer_4": "Typical features include high levels of CA-125 and a direct correlation with breast cancer risk."
+          },
+          {
+            "question": "Describe the classification criteria for germ cell tumors.",
+            "goodAnswer": "Classification includes dysgerminoma, yolk sac tumor, embryonal carcinoma, polyembryoma, choriocarcinoma, teratomas (immature, mature, solid, cystic), and mixed types, specifying the involved germ cell layers.",
+            "wrongAnswer_1": "These tumors are simply classified into benign or malignant categories based on size and spread at diagnosis.",
+            "wrongAnswer_2": "Classification is based primarily on the age of the patient and the tumor's responsiveness to initial chemotherapy.",
+            "wrongAnswer_3": "Tumors are classified according to their content of serous versus mucinous fluid, with further subtypes based on cytological features.",
+            "wrongAnswer_4": "Germ cell tumors are not classified; they are treated uniformly regardless of their histological characteristics."
+          },
+          {
+            "question": "What defines a teratoma in ovarian pathology?",
+            "goodAnswer": "A teratoma is composed of tissues from one or more of the three germ cell layers, with dermoid cysts being a common form found in ovaries, often containing various tissues like squamous epithelium, sebaceous glands, fat, and cartilage.",
+            "wrongAnswer_1": "Teratomas are malignant growths consisting solely of ectodermal tissues, specifically leading to aggressive disease.",
+            "wrongAnswer_2": "This is a type of benign epithelial tumor that contains fibrous tissue without any germ layer derivatives.",
+            "wrongAnswer_3": "A teratoma strictly involves tissues from all three germ layers and always shows malignant potential upon biopsy.",
+            "wrongAnswer_4": "In ovarian pathology, a teratoma is identified as a small, fluid-filled sac with no cellular diversity or complexity."
+          },
+          {
+            "question": "What are the typical complications associated with dermoid cysts?",
+            "goodAnswer": "Complications of dermoid cysts include torsion leading to infarction, perforation, hemoperitoneum, autoamputation, bacterial infection, spontaneous perforation into the peritoneal cavity causing acute abdomen or granulomatous peritonitis, and rare instances of squamous cell carcinoma arising from the cyst.",
+            "wrongAnswer_1": "Main complications are rapid growth leading to sudden weight gain, diabetes mellitus onset, and frequently recurring infections.",
+            "wrongAnswer_2": "Dermoid cysts typically lead to chronic pain syndromes, hypertension, and eventual kidney failure due to their systemic effects.",
+            "wrongAnswer_3": "The primary complication is the transformation into high-grade serous carcinoma within a short timeframe.",
+            "wrongAnswer_4": "Complications primarily involve neurological symptoms like seizures and cognitive decline due to metastasis to the brain."
+          }
+        ]
+      }
+    ]
+  }
+}

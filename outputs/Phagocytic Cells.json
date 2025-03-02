@@ -1,0 +1,77 @@
+{
+  "mainTopic": {
+    "title": "Phagocytic Cells",
+    "team_name": "[Toast szeletek]",
+    "content_info": "",
+    "subTopics": [
+      {
+        "title": "Types and functions of phagocytic cells",
+        "quizzes": [
+          {
+            "question": "What percentage of white blood cells (WBC) are lymphocytes and what is their primary function in the immune system?",
+            "goodAnswer": "Lymphocytes constitute 30% of the WBC population and primarily defend against viral infections, being mostly nucleus and slightly larger than a red blood cell.",
+            "wrongAnswer_1": "Lymphocytes make up about 25% of WBC and mainly target bacterial infections through the release of antibodies.",
+            "wrongAnswer_2": "Approximately 20% of WBC are lymphocytes, and they are mostly involved in the production of antitoxins to neutralize bacterial toxins.",
+            "wrongAnswer_3": "Lymphocytes amount to 35% of the WBC count, primarily involved in the destruction of infected cells and tumor cells.",
+            "wrongAnswer_4": "Lymphocytes represent 45% of WBCs, predominantly functioning in allergic response and parasitic defense."
+          },
+          {
+            "question": "What type of phagocytic cells constitute 70% of WBC and what are their subtypes?",
+            "goodAnswer": "Granulocytes make up 70% of WBC, including neutrophils (60%), eosinophils (3%), and basophils (1%), each specialized to combat different pathogens like bacteria and parasites.",
+            "wrongAnswer_1": "Monocytes comprise 70% of WBC and differentiate into macrophages and dendritic cells which are crucial for tissue homeostasis and initiating immune responses.",
+            "wrongAnswer_2": "Eosinophils account for 70% of WBC, focusing on the response to allergies and parasitic infections.",
+            "wrongAnswer_3": "Basophils, forming 70% of WBC, are primarily involved in inflammatory reactions and in releasing histamine.",
+            "wrongAnswer_4": "Lymphocytes, which are 70% of the WBCs, are divided into T cells, B cells, and natural killer cells, each serving distinct roles in immune defense mechanisms."
+          }
+        ]
+      },
+      {
+        "title": "Neutrophils and Macrophages",
+        "quizzes": [
+          {
+            "question": "What is the primary role of neutrophils in the immune response?",
+            "goodAnswer": "Neutrophils' main functions include ingesting foreign materials, killing bacteria and other microbes, and degrading necrotic tissue, though prolonged presence can cause tissue damage.",
+            "wrongAnswer_1": "Neutrophils mainly produce antibodies to neutralize targeted pathogens and facilitate their removal via the lymphatic system.",
+            "wrongAnswer_2": "The key role of neutrophils is to produce cytokines that help activate other immune cells like microphages.",
+            "wrongAnswer_3": "Neutrophils primarily serve as regulatory cells which modulate the inflammatory response and control autoimmune reactions.",
+            "wrongAnswer_4": "The main function of neutrophils is to produce growth factors that aid in tissue regeneration and repair post-infection."
+          },
+          {
+            "question": "How do macrophages respond once they have ingested bacteria?",
+            "goodAnswer": "After ingesting bacteria, macrophages utilize enzymes like NADPH oxidase to generate reactive oxygen species, such as hydrogen peroxide, to kill the bacteria inside the phagolysosomes.",
+            "wrongAnswer_1": "Macrophages release the ingested bacteria back into the bloodstream, where they are neutralized by antibodies.",
+            "wrongAnswer_2": "Upon ingestion of bacteria, macrophages decrease their metabolic activity to starve the pathogens of resources.",
+            "wrongAnswer_3": "Following bacterial ingestion, macrophages increase their size to physically restrict further bacterial growth.",
+            "wrongAnswer_4": "Macrophages initiate apoptosis and self-destruct to prevent the spread of the ingested bacterial infection."
+          }
+        ]
+      },
+      {
+        "title": "Targets of Neutrophil Products",
+        "quizzes": [
+          {
+            "question": "What are the primary targets of oxidants produced by neutrophils?",
+            "goodAnswer": "Neutrophil-produced oxidants primarily target unsaturated lipids, proteins (particularly sulfhydryls, methionine, and tyrosine), and nucleic acids to destroy pathogens.",
+            "wrongAnswer_1": "Oxidants from neutrophils mainly target carbohydrates and glycoproteins on the surface of host cells to prevent pathogen attachment.",
+            "wrongAnswer_2": "Neutrophil oxidants are specifically targeted towards attacking viral capsids to disrupt their genetic material.",
+            "wrongAnswer_3": "The primary targets of neutrophil oxidants are the bacterial cell walls, focusing specifically on peptidoglycan layers.",
+            "wrongAnswer_4": "Neutrophil oxidants target only the lipopolysaccharides found on the outer membrane of bacteria to induce lysis."
+          }
+        ]
+      },
+      {
+        "title": "Protective mechanisms",
+        "quizzes": [
+          {
+            "question": "How do superoxide dismutases contribute to the protection against oxidative damage?",
+            "goodAnswer": "Superoxide dismutases convert harmful superoxide anions into hydrogen peroxide, which is less damaging and can be further detoxified by catalase and glutathione peroxidase.",
+            "wrongAnswer_1": "Superoxide dismutases enhance the oxidative capacity of cells, creating more reactive species to combat pathogens aggressively.",
+            "wrongAnswer_2": "These enzymes catalyze the synthesis of superoxide anions, directly neutralizing viral particles within the cells.",
+            "wrongAnswer_3": "Superoxide dismutases break down hydrogen peroxide directly into water and oxygen, bypassing the need for catalase.",
+            "wrongAnswer_4": "They convert oxygen directly into radical forms, such as hydroxyl radicals, to increase the overall effectiveness of the immune response."
+          }
+        ]
+      }
+    ]
+  }
+}

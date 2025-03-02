@@ -1,0 +1,110 @@
+{
+  "mainTopic": {
+    "title": "Transplantation",
+    "team_name": "[Toast szeletek]",
+    "content_info": "",
+    "subTopics": [
+      {
+        "title": "ABO Matching",
+        "quizzes": [
+          {
+            "question": "What is the consequence of ABO mismatch in organ transplantation?",
+            "goodAnswer": "ABO mismatching leads to endothelial damage by ABO antibodies, widespread thrombosis, and potential graft loss.",
+            "wrongAnswer_1": "ABO mismatching reduces the immune response and enhances compatibility, leading to a higher success rate in transplants.",
+            "wrongAnswer_2": "Mismatching of ABO types leads primarily to the alteration of blood viscosity, minimally impacting the transplant outcome.",
+            "wrongAnswer_3": "ABO mismatching triggers a minor immune reaction that is generally manageable with standard post-operative care.",
+            "wrongAnswer_4": "ABO incompatibility has no significant effects on the transplant as modern medications effectively neutralize antibody reactions."
+          },
+          {
+            "question": "Which blood group is known as the universal recipient in the context of ABO matching for transplantation?",
+            "goodAnswer": "AB can accept blood group A, B, AB, and O, making it the universal recipient.",
+            "wrongAnswer_1": "Blood group O can accept all other types, including A, B, and AB, due to its lack of antigens.",
+            "wrongAnswer_2": "Blood group A is the universal recipient as it can receive donations from AB and B blood groups as well.",
+            "wrongAnswer_3": "Type B blood is considered the universal recipient because it can accept blood from all other ABO types.",
+            "wrongAnswer_4": "Each blood group can receive donations from all other types due to advanced immunosuppressive therapies."
+          }
+        ]
+      },
+      {
+        "title": "Histocompatibility",
+        "quizzes": [
+          {
+            "question": "What role do HLA molecules play in organ transplantation?",
+            "goodAnswer": "HLA molecules in the MHC are crucial as they need to be matched to prevent T cell-mediated rejection.",
+            "wrongAnswer_1": "HLA molecules ensure the rapid growth of transplanted tissue by promoting cellular division and differentiation.",
+            "wrongAnswer_2": "They play a minor role since their primary function is to help identify and remove aging red blood cells.",
+            "wrongAnswer_3": "HLA molecules are involved in the transport of hormones to the transplanted organ to enhance functionality.",
+            "wrongAnswer_4": "They prevent the physical rejection of the transplant by maintaining the structural integrity of the new organ."
+          },
+          {
+            "question": "Which type of graft is never rejected due to perfect HLA matching?",
+            "goodAnswer": "Syngeneic grafts from an identical twin are never rejected due to perfect HLA match.",
+            "wrongAnswer_1": "Allogenic grafts from a parent, due to the high degree of genetic similarity, are never rejected.",
+            "wrongAnswer_2": "Xenografts from closely related species are not rejected thanks to species-specific immunosuppressive techniques.",
+            "wrongAnswer_3": "Autografts from the patient’s own body are sometimes rejected due to changes in HLA expression during disease.",
+            "wrongAnswer_4": "Allogenic grafts from unrelated donors are never rejected with the use of targeted immunosuppressive therapies."
+          }
+        ]
+      },
+      {
+        "title": "Immunosuppression",
+        "quizzes": [
+          {
+            "question": "What is a common side effect of corticosteroids used in immunosuppression?",
+            "goodAnswer": "Side effects of corticosteroids include fluid retention, weight gain, diabetes, bone mineral loss, and thinning of skin.",
+            "wrongAnswer_1": "Corticosteroids primarily cause an increase in muscle mass, improved bone density, and enhanced skin thickness.",
+            "wrongAnswer_2": "The most common effects are enhanced immune response, decreased inflammation, and rapid wound healing.",
+            "wrongAnswer_3": "They typically lead to a decrease in cholesterol levels, an increase in red blood cell count, and improved vision.",
+            "wrongAnswer_4": "Corticosteroids have minimal side effects when used in immunosuppression, mainly causing mild drowsiness and itching."
+          },
+          {
+            "question": "How do immunosuppressive drugs like cyclosporin A and tacrolimus function?",
+            "goodAnswer": "These drugs prevent signal transduction from T cell or Ig receptors, leading to reduced expression of cytokines.",
+            "wrongAnswer_1": "They function by directly killing T cells and B cells, reducing the body’s overall immune response.",
+            "wrongAnswer_2": "These drugs increase calcium absorption in cells, which boosts the immune system's ability to fight off infections.",
+            "wrongAnswer_3": "Cyclosporin A and tacrolimus decrease blood viscosity which helps in reducing the chance of clot formation post-transplant.",
+            "wrongAnswer_4": "They work by enhancing the production of antibodies that fight against the transplanted organ, thus necessitating lower doses of other drugs."
+          }
+        ]
+      },
+      {
+        "title": "Bone Marrow Transplantation",
+        "quizzes": [
+          {
+            "question": "What is graft-versus-host disease (GVHD)?",
+            "goodAnswer": "GVHD is an inflammatory immune response initiated by donor T cells recognizing recipient's allogenic MHC molecules, causing damage to host tissue.",
+            "wrongAnswer_1": "It is a condition where the host's immune cells attack the transplanted bone marrow, leading to failure of the transplant.",
+            "wrongAnswer_2": "GVHD is a rare allergic reaction to the anesthetic used during the transplantation of bone marrow.",
+            "wrongAnswer_3": "It refers to the process wherein the transplanted bone marrow fails to produce any blood cells, leading to anemia.",
+            "wrongAnswer_4": "GVHD is a general term for infections that patients may acquire during or after bone marrow transplant surgery."
+          },
+          {
+            "question": "Why are conditioning regimens used in bone marrow transplantation?",
+            "goodAnswer": "Conditioning regimens involve chemo/radiation to reduce tumor burden, immunosuppress the recipient, and decrease the chance of graft-versus-host disease.",
+            "wrongAnswer_1": "They are used to enhance the ability of the transplant to produce new blood cells quickly post-surgery.",
+            "wrongAnswer_2": "Conditioning regimens are primarily used to speed up the recovery time by promoting the healing of surgical wounds.",
+            "wrongAnswer_3": "Such regimens are optional treatments aimed at boosting the morale of patients by preparing them mentally for transplant.",
+            "wrongAnswer_4": "They involve physical exercises to strengthen the bone marrow before transplant, ensuring better graft outcomes."
+          }
+        ]
+      },
+      {
+        "title": "Hematopoietic Stem Cell Transplantation",
+        "quizzes": []
+      },
+      {
+        "title": "Transplant Complications",
+        "quizzes": [
+          {
+            "question": "What are common complications associated with transplants?",
+            "goodAnswer": "Complications can include toxicity from conditioning regimens, graft rejection, and graft-versus-host disease.",
+            "wrongAnswer_1": "Common complications include mainly cosmetic issues such as scarring, with few medical concerns.",
+            "wrongAnswer_2": "Transplants often lead to enhanced immune function, potentially causing allergic reactions to common substances.",
+            "wrongAnswer_3": "Most transplant complications involve neurological disorders due to the impact of anesthesia used during the procedure.",
+            "wrongAnswer_4": "Complications are mostly financial, as the medical side effects of transplants are minimal with current technologies."
+          }
+        ]
+      }
+    ]
+  }
+}

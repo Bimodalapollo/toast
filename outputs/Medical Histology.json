@@ -1,0 +1,77 @@
+{
+    "mainTopic": {
+        "title": "Medical Histology",
+        "team_name": "[Toast szeletek]",
+        "content_info": "The uploaded materials in the PDF files are PowerPoint slides. There are several slides with pictures and diagrams on them, but you can find all the necessary information to form the questions from the slides that have text on them.",
+        "subTopics": [
+            {
+                "title": "Light Microscopy",
+                "quizzes": [
+                    {
+                        "question": "What is the basic procedure for preparing tissues for light microscopy?",
+                        "goodAnswer": "Tissues are fixed with chemicals, dehydrated, infiltrated with paraffin or plastic, embedded into blocks, sectioned into thin slices, and then stained with dyes such as Hematoxylin and Eosin.",
+                        "wrongAnswer_1": "Tissues are directly observed under the microscope without any pretreatment to maintain their natural state and structure.",
+                        "wrongAnswer_2": "Tissues are frozen in liquid nitrogen, then examined quickly under low-light conditions to prevent degradation.",
+                        "wrongAnswer_3": "Tissues are immersed in a staining solution, then directly applied to microscope slides without prior fixation or embedding.",
+                        "wrongAnswer_4": "Tissues are initially bleached to remove all pigments and then directly viewed under an electron microscope for detailed imaging."
+                    },
+                    {
+                        "question": "What does Hematoxylin and Eosin (H&E) staining highlight in tissue sections analyzed by light microscopy?",
+                        "goodAnswer": "Hematoxylin stains nucleic acids blue/purple, indicating basophilic structures, while Eosin stains acidophilic structures like proteins and membranes red/pink.",
+                        "wrongAnswer_1": "Hematoxylin and Eosin staining differentiates between various types of muscle fibers by staining them in varying shades of green and yellow.",
+                        "wrongAnswer_2": "This staining technique enhances the visibility of lipids and carbohydrates in cells by staining these structures bright orange and black.",
+                        "wrongAnswer_3": "H&E staining specifically marks cell organelles such as mitochondria and chloroplasts to be prominently visible under UV light.",
+                        "wrongAnswer_4": "The Hematoxylin and Eosin approach is used solely to enhance the contrast of viral particles within infected tissue samples, staining them bright blue."
+                    }
+                ]
+            },
+            {
+                "title": "Electron Microscopy",
+                "quizzes": [
+                    {
+                        "question": "What is the primary purpose of using heavy metal salts in tissue preparation for electron microscopy?",
+                        "goodAnswer": "Heavy metal salts such as lead citrate and uranyl acetate bind to nucleic acids and proteins, creating contrast by blocking electrons in the microscope.",
+                        "wrongAnswer_1": "These salts are used to preserve the tissues in their lifelike state, preventing any distortion during the imaging process.",
+                        "wrongAnswer_2": "Heavy metal salts enhance electron flow to the specimen, thus speeding up the imaging process and producing clearer images.",
+                        "wrongAnswer_3": "The salts provide a fluorescent glow to tissues, which is necessary for them to be visible under the high magnification of electron microscopes.",
+                        "wrongAnswer_4": "They act as a cleaning agent to ensure the electron microscope’s lens remains free from dust and other contaminants during imaging."
+                    },
+                    {
+                        "question": "How do electron microscopes enhance the resolution of images compared to light microscopes?",
+                        "goodAnswer": "Electron microscopes use beams of electrons rather than light, providing much shorter wavelengths which result in higher resolution and magnification capabilities.",
+                        "wrongAnswer_1": "Electron microscopes utilize a series of sophisticated color filters that enhance the natural light entering the microscope, thus improving resolution.",
+                        "wrongAnswer_2": "They increase the temperature of specimens, causing faster movement of molecules which electron microscopes can capture in real time, improving resolution.",
+                        "wrongAnswer_3": "Electron microscopes amplify the specimen's natural electric fields, which interacts with the magnetic field of the microscope to boost image clarity.",
+                        "wrongAnswer_4": "The use of ultraviolet light in electron microscopes allows them to penetrate further into specimens, revealing more detailed structure."
+                    }
+                ]
+            },
+            {
+                "title": "Virtual Microscopy",
+                "quizzes": [
+                    {
+                        "question": "What are the primary advantages of using virtual microscopy over traditional microscopy?",
+                        "goodAnswer": "Virtual microscopy allows for the digital scanning and storage of slides which can be accessed and shared globally, with features such as zoom and image manipulation.",
+                        "wrongAnswer_1": "Virtual microscopes are significantly smaller and more portable than traditional microscopes, making them more suitable for fieldwork.",
+                        "wrongAnswer_2": "They eliminate the need for any physical slides, instead using holographic projections to simulate tissue structures.",
+                        "wrongAnswer_3": "Virtual microscopy uses artificial intelligence to automatically diagnose diseases from the slides, without the need for human oversight.",
+                        "wrongAnswer_4": "Such systems are completely automated, requiring no user input or understanding of microscopy to operate effectively."
+                    }
+                ]
+            },
+            {
+                "title": "Basic Tissues",
+                "quizzes": [
+                    {
+                        "question": "What types of basic tissues are primarily studied in medical histology?",
+                        "goodAnswer": "Epithelial, connective, muscle, and nervous tissues are the basic types studied to understand their structure and function within the human body.",
+                        "wrongAnswer_1": "Histology focuses only on muscular and neural tissues as these are the most complex and functionally significant in most pathological conditions.",
+                        "wrongAnswer_2": "Only connective tissue is studied in detail due to its involvement in supporting, connecting, or separating different types of tissues and organs.",
+                        "wrongAnswer_3": "The primary focus is on plant tissues like parenchyma, collenchyma, and sclerenchyma due to their unique biochemical properties.",
+                        "wrongAnswer_4": "Histological studies are exclusively devoted to the examination of synthetic tissues used in medical implants and prosthetics."
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "mainTopic": {
+        "title": "Cervical Neoplasia and Pap Smear",
+        "team_name": "[Toast szeletek]",
+        "content_info": "The content includes detailed information about cervical neoplasia, Pap smears including their detection capabilities, and related treatments. The quizzes focus on core aspects presented in the material, with an emphasis on understanding the symptoms, diagnosis, and management of cervical health issues.",
+        "subTopics": [
+            {
+                "title": "Cervical Neoplasia",
+                "quizzes": [
+                    {
+                        "question": "What are the cytological features indicative of dysplasia in cervical cells?",
+                        "goodAnswer": "Dysplastic cells typically have an increased nuclear/cytoplasmic ratio, darker and more irregular nuclei, and larger cytoplasm with small pyknotic nuclei.",
+                        "wrongAnswer_1": "Dysplastic cells are often larger than normal with a reduced nuclear/cytoplasmic ratio and very regular, light nuclei.",
+                        "wrongAnswer_2": "Cervical dysplasia is mainly characterized by a decrease in cytoplasmic volume and a very high level of nuclear uniformity.",
+                        "wrongAnswer_3": "Cells affected by dysplasia usually show a decreased nuclear size and increased cytoplasm with no impact on the nucleus' regularity.",
+                        "wrongAnswer_4": "Dysplastic cells in the cervix are identified by a high cytoplasmic ratio, small and dark nuclei, with minimal changes to the epithelial surface texture."
+                    },
+                    {
+                        "question": "What is the significance of a 'koilocytotic change' in the context of cervical health?",
+                        "goodAnswer": "A koilocytotic change indicates a human papillomavirus infection and involves the vacuolization of epithelial cells.",
+                        "wrongAnswer_1": "Koilocytotic changes are benign and reflect normal variances in cervical cell morphology with no link to HPV.",
+                        "wrongAnswer_2": "This change points to bacterial infection rather than viral, and koilocytotic changes are treated with antibiotics.",
+                        "wrongAnswer_3": "Such changes indicate severe inflammation but are not directly linked to any specific kind of viral infection.",
+                        "wrongAnswer_4": "Koilocytotic changes suggest an autoimmune response rather than an infectious disease, affecting the cervical epithelium."
+                    }
+                ]
+            },
+            {
+                "title": "Pap Smear and Infections Detected by Pap Smear",
+                "quizzes": [
+                    {
+                        "question": "What types of infections can a Pap smear detect?",
+                        "goodAnswer": "A Pap smear can detect various infections, including Chlamydia, Gardnerella vaginalis, Trichomonas vaginalis, Neisseria gonorrhea, Group B Streptococcus, Candida albicans, Herpes simplex, Treponema pallidum, and Human papillomavirus.",
+                        "wrongAnswer_1": "Pap smears are primarily used to detect fungal infections like Aspergillus and are not effective against viral or bacterial infections.",
+                        "wrongAnswer_2": "The test is exclusively for detecting types of influenza virus and does not provide information regarding other infections.",
+                        "wrongAnswer_3": "Pap smears detect only parasitic infections such as Giardia lamblia and Cryptosporidium, exclusive to cervical health.",
+                        "wrongAnswer_4": "Pap smear testing is tailored only for the detection of autoimmune disorders within the cervical region and cannot diagnose infections."
+                    },
+                    {
+                        "question": "How does the Pap smear mechanically enhance the exfoliation process for cell collection?",
+                        "goodAnswer": "The exfoliation process in a Pap smear is mechanically enhanced using tools such as spatulas or brushes to collect cells from epithelial surfaces.",
+                        "wrongAnswer_1": "Exfoliation is solely chemical, using acids to retrieve cells without any mechanical instruments involved.",
+                        "wrongAnswer_2": "The process employs high-frequency vibrations to loosen cells, after which they are collected by suction.",
+                        "wrongAnswer_3": "Thermal devices are used to gently heat the surface, causing cells to detach and be collected in a sample.",
+                        "wrongAnswer_4": "The mechanical process involves lasers to pinpoint and extract specific groups of cells without traditional scraping."
+                    }
+                ]
+            },
+            {
+                "title": "Cervical Intraepithelial Neoplasia (CIN) - Risk factors, Role of HPV, HPV Infection Risk Factors",
+                "quizzes": [
+                    {
+                        "question": "What are the primary risk factors for developing Cervical Intraepithelial Neoplasia?",
+                        "goodAnswer": "Primary risk factors include early age at first sexual intercourse, multiple sexual partners, intercourse with high-risk individuals, and a history of HPV infection.",
+                        "wrongAnswer_1": "Main risk factors are limited to genetic predisposition and long-term use of oral contraceptives without HPV playing a significant role.",
+                        "wrongAnswer_2": "The predominant risk factor is irregular menstrual cycles combined with a low-protein diet.",
+                        "wrongAnswer_3": "CIN is mostly caused by prolonged exposure to air pollution and has little to do with sexual behavior or viral infections.",
+                        "wrongAnswer_4": "The risk is exclusively linked to the presence of other STDs, with HPV having no direct influence on the development of CIN."
+                    },
+                    {
+                        "question": "How is HPV implicated in the etiology of cervical cancers and other anogenital cancers?",
+                        "goodAnswer": "HPV types 16 and 18 are strongly implicated in the development of cervical and other anogenital cancers due to their role in the alteration of host cell DNA which can lead to carcinogenesis.",
+                        "wrongAnswer_1": "HPV has a protective role against cervical cancers by enhancing cellular immunity specifically in the anogenital region.",
+                        "wrongAnswer_2": "Although commonly associated with cervical conditions, HPV is not directly linked to cancers but rather to benign genital warts.",
+                        "wrongAnswer_3": "HPV only contributes to cervical dysplasia, with other factors like diet and hygiene playing more critical roles in cancer development.",
+                        "wrongAnswer_4": "The virus has an indirect relationship where it leads to nutritional deficiencies that then pave the way for anogenital cancers."
+                    }
+                ]
+            },
+            {
+                "title": "Cervical Cancer Signs, Staging of Cervical Cancer, Types of Cancers",
+                "quizzes": [
+                    {
+                        "question": "What are the common symptoms associated with early stages of cervical cancer?",
+                        "goodAnswer": "Early stages of cervical cancer often present no symptoms, but as the disease progresses, symptoms like abnormal bleeding, unusual vaginal discharge, and pelvic or back pain may appear.",
+                        "wrongAnswer_1": "Cervical cancer in its early stages is typically indicated by severe pelvic pain, rapid weight gain, and visible skin changes around the pelvis.",
+                        "wrongAnswer_2": "Symptoms are primarily neurological, including headaches and dizziness, with no changes to menstrual patterns or vaginal health.",
+                        "wrongAnswer_3": "Early signs include dramatic changes in menstrual cycle frequency, intense abdominal pain, and extensive skin rashes.",
+                        "wrongAnswer_4": "The initial phase is marked by fever, chills, and a persistent cough without any specific gynecological symptoms manifesting."
+                    },
+                    {
+                        "question": "Describe the staging system used for cervical cancer.",
+                        "goodAnswer": "Cervical cancer staging ranges from Stage IA, indicating microscopic cancer confined to the uterus, to Stage IVB, which includes distant metastases. The stages reflect the cancer's progression and spread beyond the original site.",
+                        "wrongAnswer_1": "Staging is based from Stage I to Stage III only, focusing on tumor size and ignoring metastatic spread.",
+                        "wrongAnswer_2": "The staging system categorizes the cancer based solely on the response to initial treatment attempts without considering physical spread.",
+                        "wrongAnswer_3": "Cancer is staged according to the patient's age and general health, with three broad stages ranging from mild to severe.",
+                        "wrongAnswer_4": "Stages are defined by the levels of specific biomarkers in the blood, with higher levels indicating more advanced cancer."
+                    }
+                ]
+            },
+            {
+                "title": "Treatments, Cervical Cancer Therapy",
+                "quizzes": [
+                    {
+                        "question": "What are the common treatment options available for cervical cancer?",
+                        "goodAnswer": "Treatment options for cervical cancer include surgery (such as radical hysterectomy), radiotherapy (including external beam and brachytherapy), and chemotherapy (using agents like Cisplatin, 5-FU, Hydroxyurea, Ifosfamide, and Paclitaxel).",
+                        "wrongAnswer_1": "Treatments are primarily supportive, focusing on pain management and nutritional support without aggressive interventions.",
+                        "wrongAnswer_2": "The main therapy involves prolonged use of antibiotics combined with physical therapy to strengthen pelvic muscles.",
+                        "wrongAnswer_3": "Treatment commonly involves a single procedure combining both laser surgery and cryosurgery to minimize recovery time.",
+                        "wrongAnswer_4": "Cervical cancer is treated exclusively with high-dose radiation therapy sessions, without involving surgical or chemotherapeutic options."
+                    },
+                    {
+                        "question": "How does loop electrosurgical excision procedure (LEEP) function as a treatment for cervical precancer?",
+                        "goodAnswer": "LEEP uses a wire loop with an electrical current running through it, acting like a surgeon's knife to excise abnormal cervical tissue, effectively removing areas of precancer.",
+                        "wrongAnswer_1": "The LEEP technique involves freezing the precancerous cells using a cold loop, relying on low temperatures rather than electrical current.",
+                        "wrongAnswer_2": "This procedure uses a loop made of lasers to burn away abnormal cells without any physical cutting.",
+                        "wrongAnswer_3": "LEEP involves the injection of chemotherapeutic agents through a looped needle aimed at the abnormal cells.",
+                        "wrongAnswer_4": "The method uses sound waves concentrated through a loop probe to disintegrate precancerous cells non-invasively."
+                    }
+                ]
+            }
+        ]
+    }
+}

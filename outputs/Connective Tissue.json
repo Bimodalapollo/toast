@@ -1,0 +1,95 @@
+{
+  "mainTopic": {
+    "title": "Connective Tissue",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The uploaded materials in the PDF files are PowerPoint slides. There are several slides with pictures and diagrams on them, but you can find all the necessary information to form the questions from the slides that have text on them.",
+    "subTopics": [
+      {
+        "title": "General properties of connective tissues",
+        "quizzes": [
+          {
+            "question": "What are the primary functions of connective tissue in the human body?",
+            "goodAnswer": "Provides architectural framework, binds tissues, offers mechanical support, stores and transports substances, and plays a role in wound repair and inflammatory response.",
+            "wrongAnswer_1": "It mainly provides insulation and reserve energy sources through fat storage and metabolism.",
+            "wrongAnswer_2": "Its sole function is to support the nervous system by forming a protective myelin sheath around neurons.",
+            "wrongAnswer_3": "Connective tissue primarily functions to facilitate muscle contraction and bone movement.",
+            "wrongAnswer_4": "It transports gases like oxygen and carbon dioxide to and from the lungs and cells."
+          },
+          {
+            "question": "What type of cells are predominantly involved in the formation and maintenance of connective tissue?",
+            "goodAnswer": "Fibroblasts, adipocytes, tissue macrophages, and various immune cells.",
+            "wrongAnswer_1": "Neurons and glial cells that provide structural support.",
+            "wrongAnswer_2": "Epithelial cells that line internal cavities and organs.",
+            "wrongAnswer_3": "Red blood cells and platelets involved in transport and clotting.",
+            "wrongAnswer_4": "Muscle cells that contribute to voluntary and involuntary movements."
+          }
+        ]
+      },
+      {
+        "title": "Fibers in Connective Tissue",
+        "quizzes": [
+          {
+            "question": "What are the three main types of fibers found in connective tissue and what are their primary functions?",
+            "goodAnswer": "Collagen fibers provide tensile strength, elastic fibers allow tissues to stretch and recoil, and reticular fibers form a soft internal skeleton (stroma).",
+            "wrongAnswer_1": "Myosin and actin fibers, responsible for movements and cellular support.",
+            "wrongAnswer_2": "Neurofibrillary fibers, which facilitate rapid signal transmission.",
+            "wrongAnswer_3": "Capillary fibers that function primarily to aid in the transport of blood.",
+            "wrongAnswer_4": "Glycoprotein fibers supporting immune cell recognition and pathogen binding."
+          }
+        ]
+      },
+      {
+        "title": "Non Collagen Components of the Extracellular Matrix",
+        "quizzes": [
+          {
+            "question": "What role do glycosaminoglycans play in the extracellular matrix of connective tissue?",
+            "goodAnswer": "They are highly hydrophilic and help manage water content and facilitate nutrient diffusion.",
+            "wrongAnswer_1": "Their main function is to initiate blood coagulation and clotting processes.",
+            "wrongAnswer_2": "Act primarily as catalyzers for speed up chemical reactions between cells.",
+            "wrongAnswer_3": "Are involved in the transmission of nerve impulses across connective tissues.",
+            "wrongAnswer_4": "They store genetic information for cell division and tissue growth."
+          }
+        ]
+      },
+      {
+        "title": "Basement membrane",
+        "quizzes": [
+          {
+            "question": "What is the composition and function of the basement membrane in connective tissue?",
+            "goodAnswer": "Consists of glycosaminoglycans, fibrous proteins like collagen types IV and VII, and structural glycoproteins, providing support and filtration.",
+            "wrongAnswer_1": "It mainly consists of hemoglobin and myoglobin for oxygen transport.",
+            "wrongAnswer_2": "Primarily composed of elastic fibers that allow lungs and arteries to expand and contract.",
+            "wrongAnswer_3": "Constructed solely from adipose cells to store fatty acids and energy.",
+            "wrongAnswer_4": "Made up of neural cells to enable rapid signal transmission across the nervous system."
+          }
+        ]
+      },
+      {
+        "title": "Cells in connective tissue : fixed and free",
+        "quizzes": [
+          {
+            "question": "Identify the fixed and free cells found in connective tissue and describe their functions.",
+            "goodAnswer": "Fixed cells include fibroblasts and adipocytes, involved in fiber production and fat storage, respectively; free cells such as lymphocytes participate in immune response.",
+            "wrongAnswer_1": "Fixed cells, like neurons, transmit signals; free cells, like platelets, aid in clotting.",
+            "wrongAnswer_2": "Only fixed cells known as osteocytes are present which help in bone maintenance.",
+            "wrongAnswer_3": "Free cells are erythrocytes transporting oxygen; no fixed cells are present in connective tissues.",
+            "wrongAnswer_4": "Fixed cells are endothelial that line blood vessels, with no free cells in this tissue."
+          }
+        ]
+      },
+      {
+        "title": "Types of Connective Tissue Proper",
+        "quizzes": [
+          {
+            "question": "What are the different types of connective tissue proper, and where are they typically found?",
+            "goodAnswer": "Loose connective tissue fills spaces between organs; dense, irregular connective tissue is in dermis; dense, regular collagenous tissue is in tendons and ligaments.",
+            "wrongAnswer_1": "Only one type exists, which is homogeneously distributed throughout the body.",
+            "wrongAnswer_2": "Two types: soft connective found in the brain and hard connective in bones, with static functions.",
+            "wrongAnswer_3": "Multiple types, primarily found in the upper epidermis and hair follicles, for protective functions.",
+            "wrongAnswer_4": "Connective tissues are only classified as muscular and neural, based on location and function."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+    "mainTopic": {
+        "title": "Kidney",
+        "team_name": "[Toast szeletek]",
+        "content_info": "The content includes both anatomical and physiological information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+        "subTopics": [
+            {
+                "title": "Gross anatomy of the kidney",
+                "quizzes": [
+                    {
+                        "question": "What is the location and protective anatomical features of the kidneys?",
+                        "goodAnswer": "The kidneys lie on either side of the spine in the retroperitoneal space between the parietal peritoneum and the posterior abdominal wall, well protected by muscle, fat, and ribs.",
+                        "wrongAnswer_1": "The kidneys are positioned in the peritoneal cavity, surrounded by the stomach and intestines, with minimal protective structures.",
+                        "wrongAnswer_2": "Located in the abdominal ventral cavity, kidneys have no direct attachment to the skeletal structure.",
+                        "wrongAnswer_3": "The kidneys are situated below the diaphragm in the pleural cavity, providing structural support to the respiratory system."
+                    },
+                    {
+                        "question": "What is the role of the renal fascia, and how does it contribute to kidney function?",
+                        "goodAnswer": "The renal fascia anchors the kidneys to the posterior abdominal wall and gives structural support.",
+                        "wrongAnswer_1": "Renal fascia is a protective layer of connective tissue that physically filters urine produced by the kidneys.",
+                        "wrongAnswer_2": "The renal fascia is involved in blood filtration and urine production.",
+                        "wrongAnswer_3": "Renal fascia functions to maintain fluid balance in the body rather than provide physical support."
+                    },
+                    {
+                        "question": "Describe the anatomical locations and functions of the adrenal glands in relation to the kidneys.",
+                        "goodAnswer": "The adrenal glands are superior to each kidney and produce aldosterone, a hormone that regulates sodium reabsorption.",
+                        "wrongAnswer_1": "The adrenal glands are found within the kidney, secreting enzymes that contribute directly to urine composition.",
+                        "wrongAnswer_2": "Adrenal glands control blood pressure independently within the renal artery.",
+                        "wrongAnswer_3": "The adrenal cortex does not directly influence renal function but regulates heart rate instead."
+                    },
+                    {
+                        "question": "Explain the structural role of the renal fat pad in relation to kidney function.",
+                        "goodAnswer": "The renal fat pad provides shock absorption and insulation for the kidneys, helping to maintain temperature regulation.",
+                        "wrongAnswer_1": "The renal fat pad is responsible for producing insulin for glucose regulation in the kidneys.",
+                        "wrongAnswer_2": "The renal fat pad stores excess fluid within the kidneys and releases it during dehydration.",
+                        "wrongAnswer_3": "The renal fat pad exclusively aids in urine filtration and waste removal from the kidneys."
+                    }
+                ]
+            },
+            {
+                "title": "Nephrons",
+                "quizzes": [
+                    {
+                        "question": "What is the structural and functional unit of the kidney responsible for urine formation?",
+                        "goodAnswer": "Nephrons are responsible for filtering blood and removing waste products, thereby producing urine.",
+                        "wrongAnswer_1": "The collecting ducts are the primary functional unit of the kidney and are responsible for urine concentration.",
+                        "wrongAnswer_2": "Glomeruli act as the kidneys' primary filtration system but do not form urine by themselves.",
+                        "wrongAnswer_3": "The loop of Henle is solely involved in the reabsorption of water and salts, it doesn't engage in urine formation."
+                    }
+                ]
+            }
+        ]
+    }
+}

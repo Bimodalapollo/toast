@@ -1,0 +1,189 @@
+{
+  "mainTopic": {
+    "title": "The lungs",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every anatomical information but serves as a great foundation to form the questions and provide focus on core anatomical content, however additional background knowledge is needed to create quality revision quizzes.",
+    "subTopics": [
+      {
+        "title": "Gross anatomy of the lungs",
+        "quizzes": [
+          {
+            "question": "How many lobes are in the right lung?",
+            "goodAnswer": "Three (superior, middle, inferior)",
+            "wrongAnswer_1": "Two (superior, inferior)",
+            "wrongAnswer_2": "Four (superior, middle, inferior, medial)",
+            "wrongAnswer_3": "One (whole lung is a single lobe)",
+            "wrongAnswer_4": "Five (superior, middle, inferior, posterior, lateral)"
+          },
+          {
+            "question": "What is the function of the cardiac notch in the left lung?",
+            "goodAnswer": "It accommodates the heart.",
+            "wrongAnswer_1": "It aids in gas exchange.",
+            "wrongAnswer_2": "It connects to the trachea.",
+            "wrongAnswer_3": "It produces mucus in the lung.",
+            "wrongAnswer_4": "It stores excess air during breathing."
+          },
+          {
+            "question": "What is the name of the horizontal fissure in the right lung, and which lobes does it separate?",
+            "goodAnswer": "The right lung has a horizontal fissure that separates the superior and middle lobes.",
+            "wrongAnswer_1": "The fissure divides the superior and inferior lobes.",
+            "wrongAnswer_2": "It separates the middle and inferior lobes.",
+            "wrongAnswer_3": "There is no horizontal fissure in the right lung.",
+            "wrongAnswer_4": "The fissure runs from the base to the apex in the posterior lobe."
+          },
+          {
+            "question": "Which lung features an oblique fissure, and what lobes does it separate?",
+            "goodAnswer": "Both lungs have oblique fissures that separate the superior and inferior lobes.",
+            "wrongAnswer_1": "Only the left lung has an oblique fissure separating all lobes.",
+            "wrongAnswer_2": "The right lung has an oblique fissure dividing the middle and inferior lobes.",
+            "wrongAnswer_3": "The inferior lobe in each lung lacks any fissures.",
+            "wrongAnswer_4": "Only the left lung has a horizontal fissure, not an oblique fissure."
+          },
+          {
+            "question": "How does the position of the heart differ between the right and left lungs?",
+            "goodAnswer": "The heart is located more medially in the left lung due to its cardiac notch.",
+            "wrongAnswer_1": "The heart is higher in the right lung to allow for better blood flow.",
+            "wrongAnswer_2": "Both lungs enclose the heart near their posterior borders.",
+            "wrongAnswer_3": "The left lung does not house the heart directly; the pericardium separates them.",
+            "wrongAnswer_4": "The cardiac notch is a term related to the tracheal position and has no relation to the heart itself."
+          }
+        ]
+      },
+      {
+        "title": "Blood supply",
+        "quizzes": [
+          {
+            "question": "Where does the pulmonary trunk arise from and what does it supply?",
+            "goodAnswer": "The pulmonary trunk arises from the right ventricle and carries deoxygenated blood toward the lungs.",
+            "wrongAnswer_1": "It originates from the pulmonary vein and carries oxygenated blood to the right atrium.",
+            "wrongAnswer_2": "The aortic arch gives rise to the pulmonary trunk, supplying blood to the heart's coronary arteries.",
+            "wrongAnswer_3": "Pulmonary veins directly branch off the pulmonary trunk, distributing blood to the bronchial arteries.",
+            "wrongAnswer_4": "The trunk is separate from the heart and acts as a conduit for nutrients to the bronchus."
+          },
+          {
+            "question": "What structures bring oxygenated blood back to the left atrium?",
+            "goodAnswer": "Four pulmonary veins, two from each lung, return oxygen-rich blood to the heart.",
+            "wrongAnswer_1": "The left atrium receives blood from the inferior vena cava and coronary sinus, not from the pulmonary veins.",
+            "wrongAnswer_2": "Only one pulmonary vein connects to each lung and supplies oxygen to the left ventricle.",
+            "wrongAnswer_3": "Branches of the bronchial arteries join together and carry blood to the right atrium.",
+            "wrongAnswer_4": "The superior vena cava transports oxygen-rich blood directly from the lungs to the right atrium, bypassing the left side of the heart."
+          },
+          {
+            "question": "What is a primary function of bronchial vessels in lung blood supply?",
+            "goodAnswer": "They supply oxygenated blood to the tissues of the lungs for their metabolic needs.",
+            "wrongAnswer_1": "Bronchial vessels act as lymphatic channels and transport excess fluid from the lungs.",
+            "wrongAnswer_2": "Their primary role is to regulate airflow by constricting and dilating bronchi.",
+            "wrongAnswer_3": "Bronchial arteries merge with pulmonary capillaries to aid in gas exchange directly.",
+            "wrongAnswer_4": "These vessels help drain deoxygenated blood into the azygos vein before returning to the heart."
+          },
+          {
+            "question": "How does the blood oxygen content differ between the pulmonary and bronchial circulations?",
+            "goodAnswer": "Pulmonary arteries carry deoxygenated blood from the heart to the lungs, while bronchial vessels supply oxygenated blood to lung structures.",
+            "wrongAnswer_1": "Bronchial arteries are responsible for deoxygenating blood for metabolic processes, while the function of the pulmonary arteries is solely for volume regulation.",
+            "wrongAnswer_2": "Pulmonary veins carry nutrients from inspired air to the heart, which merges oxygenated and deoxygenated blood.",
+            "wrongAnswer_3": "Lung tissue primarily relies on atmospheric oxygen diffusion and does not require a dedicated blood supply.",
+            "wrongAnswer_4": "Bronchial circulation bypasses the lungs entirely, connecting the trachea directly to the bronchial arteries for temperature regulation."
+          },
+          {
+            "question": "How does the pathway of the right and left main bronchi relate to their vascular supply?",
+            "goodAnswer": "Even though the right bronchus is wider and shorter, both are surrounded by similarly sized bronchial arteries that branch off the aorta.",
+            "wrongAnswer_1": "The left main bronchus receives more blood from the superior vena cava, helping to warm inhaled air before reaching the bronchi.",
+            "wrongAnswer_2": "There is no direct relationship between bronchial vascularity and airway branching patterns.",
+            "wrongAnswer_3": "The pulmonary trunk runs directly behind the trachea, providing warm blood to support airflow through the right bronchus.",
+            "wrongAnswer_4": "Bronchial vessels never penetrate the submucosal layer and instead provide sole support to cartilaginous rings in the lower trachea."
+          }
+        ]
+      },
+      {
+        "title": "Nervous innervation",
+        "quizzes": [
+          {
+            "question": "How do sympathetic and parasympathetic nerves contribute to airway control?",
+            "goodAnswer": "The sympathetic system dilates bronchi smooth muscle through norepinephrine release, while parasympathetic activity causes constriction by releasing acetylcholine.",
+            "wrongAnswer_1": "Both systems work together to maintain constant bronchial constriction in response to changes in altitude and surface pressure.",
+            "wrongAnswer_2": "Sympathetic nerves provide sensation to the epithelium, while parasympathetic nerves regulate mucin secretion within mucous glands.",
+            "wrongAnswer_3": "Parasympathetic control directs ventilation rate, while sympathetic nerves maintain lung compliance by reducing alveolar surface tension.",
+            "wrongAnswer_4": "The autonomic nervous system plays a minor role in pulmonary function compared to local responses to allergens."
+          },
+          {
+            "question": "What role does the vagus nerve play in respiratory homeostasis?",
+            "goodAnswer": "The vagus nerve (parasympathetic) carries signals that regulate respiratory rate, bronchoconstriction, and bronchodilation.",
+            "wrongAnswer_1": "The vagus nerve only controls esophageal sphincter tone and has no effect on airway smooth muscle tone.",
+            "wrongAnswer_2": "Its sole function relates to maintaining proper blood flow in the trachea and esophagus after eating.",
+            "wrongAnswer_3": "This cranial nerve entirely bypasses the lungs, controlling abdominal organ function instead.",
+            "wrongAnswer_4": "The vagus nerve is primarily sensory, receiving information from the lungs but not affecting their function directly."
+          },
+          {
+            "question": "What is the primary neurotransmitter released by postganglionic parasympathetic nerve fibers in the bronchial plexus?",
+            "goodAnswer": "Acetylcholine is the primary neurotransmitter in the bronchial plexus, leading to bronchoconstriction when released by parasympathetic fibers.",
+            "wrongAnswer_1": "Norepinephrine stimulates bronchial smooth muscles to relax when released by the parasympathetic nervous system.",
+            "wrongAnswer_2": "Dopamine plays a key role in mediating airflow by acting on both sympathetic and parasympathetic pathways simultaneously.",
+            "wrongAnswer_3": "Parasympathetic nerves release histamine, which leads to swelling and mucus overproduction rather than bronchoconstriction.",
+            "wrongAnswer_4": "While acetylcholine regulates heart rate, it has no direct effect on airway resistance and is instead responsible for maintaining mucus levels in bronchiolar glands."
+          },
+          {
+            "question": "How does the innervation of the smooth muscle in bronchioles differ from that of the diaphragm?",
+            "goodAnswer": "Bronchioles receive dual innervation from both sympathetic and parasympathetic fibers, while the diaphragm relies solely on motor fibers from the phrenic nerve.",
+            "wrongAnswer_1": "Both structures exhibit voluntary control and receive commands from the brainstem rather than the autonomic nervous system.",
+            "wrongAnswer_2": "Sympathetic and parasympathetic nerve fibers target the outer walls of bronchioles, while the diaphragm follows a neurovascular bundle to receive motor commands.",
+            "wrongAnswer_3": "Diaphragmatic action is entirely involuntary, while bronchial constriction is under voluntary control, regulated by the frontal lobe.",
+            "wrongAnswer_4": "The phrenic nerve has minimal connections to spinal sacral nerves, leading to involuntary muscle spasms in the diaphragm while bronchial fibers remain unaffected."
+          },
+          {
+            "question": "What are the primary mechanisms by which central respiratory centers modulate breathing rate?",
+            "goodAnswer": "Chemoreceptors sensitive to CO2 and H+ levels in the bloodstream relay sensory information to centers in the medulla, influencing respiratory rhythm.",
+            "wrongAnswer_1": "Cooling and warming receptors in the lung lining directly activate neurons in the pons to adjust ventilation in response to external climate changes.",
+            "wrongAnswer_2": "The cerebellum overrides ventilation control regularly, ensuring the relationship between tidal volume and minute ventilation remains stable regardless of physical activity.",
+            "wrongAnswer_3": "Peripheral receptors in the trachea inform the hypothalamus of oxygen saturation levels, which then dictate the appropriate breathing rate.",
+            "wrongAnswer_4": "Following inhalation, the frontal cortex assesses the amount of inhaled air and signals the medulla to adjust muscle tone and gas exchange rates accordingly."
+          }
+        ]
+      },
+      {
+        "title": "Pleura of the lungs",
+        "quizzes": [
+          {
+            "question": "What is the function of the pleural space in the lungs?",
+            "goodAnswer": "It ensures frictionless movement of the lungs during respiration.",
+            "wrongAnswer_1": "The pleural space contains air to inflate the lungs fully during inhalation.",
+            "wrongAnswer_2": "Its primary role is to assist in gas exchange between the alveoli and surrounding capillaries.",
+            "wrongAnswer_3": "Lymphatic vessels within the pleural space return excess fluid to the bloodstream, aiding in immune function rather than movement.",
+            "wrongAnswer_4": "This region cushions the heart and trachea from unwanted pressure changes, stabilizing the structures within the thoracic cavity."
+          },
+          {
+            "question": "What is the difference between the visceral and parietal pleura in terms of their innervation and function?",
+            "goodAnswer": "The visceral pleura is highly sensitive to pain, while the parietal pleura insensate but secretes serous fluid to reduce friction during breathing.",
+            "wrongAnswer_1": "Only the parietal pleura has sensory nerves and serves to expand the thoracic cavity during each breath.",
+            "wrongAnswer_2": "The visceral pleura is thick and provides structural support to lung lobes, whereas the parietal pleura remains a thin, transparent membrane for gas exchange.",
+            "wrongAnswer_3": "Both layers absorb oxygen from the environment, but the parietal pleura releases carbon dioxide directly into the bloodstream.",
+            "wrongAnswer_4": "Visceral pleura thickness varies among individuals, while the parietal pleura remains a uniform thickness and plays a role in hormonal regulation in some cases."
+          },
+          {
+            "question": "What is the primary function of the pleural fluid that fills the pleural cavity?",
+            "goodAnswer": "Pleural fluid lubricates the pleural membranes, preventing friction during breathing movements.",
+            "wrongAnswer_1": "This fluid acts as an additional barrier to gas exchange and minimizes airflow through the trachea and bronchioles.",
+            "wrongAnswer_2": "It primarily neutralizes excess mucus secreted by the bronchial glands rather than serving as a lubricant.",
+            "wrongAnswer_3": "Pleural fluid provides mechanical stability to lung lobes, ensuring that each lobe remains fixed in place despite pressure changes.",
+            "wrongAnswer_4": "Phagocytes in the pleural space actively break down foreign particles that enter the respiratory tract, clearing the airways and preventing infections."
+          },
+          {
+            "question": "How does pneumothorax occur, and what role does the pleura play in its development?",
+            "goodAnswer": "Pneumothorax results from an accumulation of air in the pleural space, creating a positive pressure gradient and causing lung collapse.",
+            "wrongAnswer_1": "Changes in atmospheric pressure lead to spontaneous lung deflation, and the pleura insulates the collapsed lung from surrounding structures.",
+            "wrongAnswer_2": "Lack of pleural fluid accelerates the formation of a collapsed lung, allowing air to seep into the subpleural cavity.",
+            "wrongAnswer_3": "Pulmonary embolisms disrupt the continuity of the visceral pleura, leading to a release of gases during each breath and impeding normal oxygen uptake.",
+            "wrongAnswer_4": "Sudden shifts in thoracic muscle tone compress the lungs, forcing air to escape the alveoli and accumulate within the pleural sinuses, which subsequently leads to lung deflation."
+          },
+          {
+            "question": "Why is pleuritis often accompanied by breathing difficulty?",
+            "goodAnswer": "Inflamed pleural membranes may produce excess fluid or fibrous adhesions, restricting lung expansion and preventing normal diaphragmatic contraction.",
+            "wrongAnswer_1": "Pleuritis directly affects the bronchi, leading to chronic bronchospasms and changes in airflow resistance, but it does not impact lung volume directly.",
+            "wrongAnswer_2": "The primary symptom of pleuritis is severe chest pain, suggesting neurological, rather than respiratory, involvement in the condition.",
+            "wrongAnswer_3": "This condition results from overpressure of the alveoli, forcing bronchial secretions into the pleural cavity and disrupting gas exchange.",
+            "wrongAnswer_4": "Fever, not respiratory impairment, is the most common presentation of pleuritis, implying its infectious rather than mechanical nature."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "mainTopic": {
+    "title": "Lipid Lowering Drugs",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "subTopics": [
+      {
+        "title": "Overview of atherosclerosis",
+        "quizzes": [
+          {
+            "question": "What are the primary components destructed by the enzymatic process in atherosclerosis?",
+            "goodAnswer": "The primary components include elastin, collagen, and smooth muscle.",
+            "wrongAnswer_1": "The main components targeted are primarily the endothelial cells alongside the arterial plaque.",
+            "wrongAnswer_2": "Key destructed components are cholesterol, triglycerides, and fatty acids primarily in veins.",
+            "wrongAnswer_3": "The destruction mainly occurs in the lymph nodes and arterial valves instead of the arterial skeleton.",
+            "wrongAnswer_4": "In atherosclerosis, the principal components affected are pancreatic cells and insulin receptors."
+          },
+          {
+            "question": "What risk factors are associated with the development of atherosclerosis?",
+            "goodAnswer": "Risk factors include longevity, hypertension, diabetes, dyslipoproteinemia, cigarette smoking, and homocysteinemia.",
+            "wrongAnswer_1": "Key risk factors include obesity, excessive exercise, low blood sugar, lack of sleep, and excessive water intake.",
+            "wrongAnswer_2": "Primarily, risk factors involve protein deficiency, hypotension, rapid heart rate, and high calcium intake.",
+            "wrongAnswer_3": "Atherosclerosis is mostly impacted by external factors including pollution, stress levels, alcohol intake, and sunlight exposure.",
+            "wrongAnswer_4": "Main risk factors are linked with dietary deficiencies in essential oils, low carbohydrate diets, and minimal physical activity."
+          },
+          {
+            "question": "How does homocysteinemia contribute to atherosclerosis according to the text?",
+            "goodAnswer": "Homocysteine levels, controlled by genes related to methionine metabolism, are toxic to the endothelium and contribute to atherosclerosis.",
+            "wrongAnswer_1": "Homocysteinemia reduces blood pressure, which indirectly reduces blood vessel elasticity and promotes atherosclerosis.",
+            "wrongAnswer_2": "Increased homocysteine levels improve cholesterol synthesis, indirectly leading to decreased incidence of atherosclerosis.",
+            "wrongAnswer_3": "Homocysteine acts as an antioxidant, which by decreasing oxidative stress, leads to enhanced arterial health and lower atherosclerosis risk.",
+            "wrongAnswer_4": "Homocysteinemia majorly enhances the liver's ability to process fats, thereby reducing blood vessel blockages and the risk of atherosclerosis."
+          }
+        ]
+      },
+      {
+        "title": "Transmembrane receptors on mammalian cells, Apolipoproteins, sterols and lipoprotein cycles",
+        "quizzes": [
+          {
+            "question": "What is the general function of transmembrane receptors in mammalian cells as described in the text?",
+            "goodAnswer": "These receptors mediate transmembrane signaling, regulate intracellular substrate concentrations, and facilitate normal catabolism.",
+            "wrongAnswer_1": "Transmembrane receptors primarily enhance cellular adhesion mechanisms and reduce intracellular enzyme activities.",
+            "wrongAnswer_2": "The core role of these receptors is to speed up the endocytosis process and reduce cellular metabolism.",
+            "wrongAnswer_3": "Transmembrane receptors are involved mainly in the translation of nuclear DNA into proteins and protection against cell apoptosis.",
+            "wrongAnswer_4": "They function to increase cellular permeability to ions and promote rapid electrical signaling across the cells."
+          },
+          {
+            "question": "Explain the role of apolipoproteins in lipid transport.",
+            "goodAnswer": "Apolipoproteins, particularly Al, B, and E, are involved in solubilizing fats for transport and play a crucial role in cholesterol transport.",
+            "wrongAnswer_1": "Apolipoproteins, like B-100 and A-II, combat pathogens by recognizing and binding to microbial lipids present in the bloodstream.",
+            "wrongAnswer_2": "They are mainly involved in the transport of amino acids across the cell membrane and contribute to protein synthesis.",
+            "wrongAnswer_3": "Apolipoproteins serve as cellular signals that trigger the immune response to cellular injury or invasion by pathogens.",
+            "wrongAnswer_4": "Their primary function is to provide strength and structural integrity to the cell membrane by interacting with membrane sterols."
+          },
+          {
+            "question": "Describe the function of sterols in animal systems as it relates to the text.",
+            "goodAnswer": "In animal systems, cholesterol serves as the major sterol, vital for cell membrane integrity, hormone production, and other cellular processes.",
+            "wrongAnswer_1": "Animal sterols primarily serve to enhance the absorption of nutrients, particularly vitamins and minerals from the gut.",
+            "wrongAnswer_2": "In animal systems, sterols primarily function to facilitate the excretion of undigested food matter and toxins from the body.",
+            "wrongAnswer_3": "Sterols in animals are mainly responsible for the regulation of blood glucose levels and the synthesis of digestive enzymes.",
+            "wrongAnswer_4": "Their primary function in animals is to act as signaling molecules that regulate metabolism and the immune response."
+          },
+          {
+            "question": "What is the key role of lipid-lowering drugs in managing hyperlipidemia?",
+            "goodAnswer": "Lipid-lowering drugs, such as statins, help reduce cholesterol levels in the blood, managing hyperlipidemia and reducing the risk of cardiovascular diseases.",
+            "wrongAnswer_1": "These drugs primarily increase lipid absorption in the gut, which helps in rapidly clearing lipids from the bloodstream.",
+            "wrongAnswer_2": "The main role is to inhibit carbohydrate absorption, indirectly influencing lipid metabolism and storage within the body.",
+            "wrongAnswer_3": "Lipid-lowering drugs primarily act to enhance the oxidative breakdown of fatty acids, clearing excess lipids from muscle tissues.",
+            "wrongAnswer_4": "Their central function is to increase the synthesis of triglycerides and cholesterol, to normalize metabolic rates in the body."
+          }
+        ]
+      },
+      {
+        "title": "Lipid lowering drugs",
+        "quizzes": [
+          {
+            "question": "How do HMG-CoA Reductase Inhibitors lower cholesterol?",
+            "goodAnswer": "They competitively inhibit HMG-CoA reductase, reducing cholesterol synthesis in the liver, resulting in an increase in LDL receptors and lowered plasma LDL levels.",
+            "wrongAnswer_1": "These inhibitors enhance the synthesis of HMG-CoA, which in turn promotes the breakdown of cholesterol into simpler substances.",
+            "wrongAnswer_2": "They work by directly binding to cholesterol molecules, making them more soluble and easy for the body to excrete.",
+            "wrongAnswer_3": "HMG-CoA Reductase Inhibitors decrease the synthesis of bile acids, thus indirectly reducing the cholesterol levels in the body.",
+            "wrongAnswer_4": "These drugs increase the sensitivity of insulin receptors in the liver, which leads to a decrease in overall cholesterol production."
+          },
+          {
+            "question": "What is the role of bile acid-binding resins in lowering cholesterol?",
+            "goodAnswer": "These resins bind to bile acids in the intestine, preventing their reabsorption and leading to increased cholesterol catabolism to replenish bile acids.",
+            "wrongAnswer_1": "Bile acid-binding resins decrease the pH in the intestine which enhances cholesterol solubility and its excretion through feces.",
+            "wrongAnswer_2": "The resins stimulate the release of a hormone that directly breaks down LDL cholesterol into smaller, absorbable components.",
+            "wrongAnswer_3": "These drugs inhibit the synthesis of cholesterol in the pancreas, thus controlling its levels in the blood.",
+            "wrongAnswer_4": "Bile acid-binding resins neutralize cholesterol in the gut, preventing it from entering the bloodstream."
+          },
+          {
+            "question": "How do cholesterol absorption inhibitors work?",
+            "goodAnswer": "These inhibitors block the intestinal absorption of cholesterol, decreasing its entry into the bloodstream and consequently the plasma cholesterol levels.",
+            "wrongAnswer_1": "Cholesterol absorption inhibitors increase the rate of cholesterol synthesis in peripheral tissues, diverting it away from the bloodstream.",
+            "wrongAnswer_2": "They enhance the enzymatic break down of dietary cholesterol in the stomach, reducing its absorption rate.",
+            "wrongAnswer_3": "Such inhibitors stimulate the immune system to remove cholesterol particles actively from the blood, thus reducing levels.",
+            "wrongAnswer_4": "These drugs bind to dietary cholesterol, creating large complexes that cannot be absorbed through the intestinal wall."
+          },
+          {
+            "question": "What effects do fibrates have on lipid profiles?",
+            "goodAnswer": "Fibrates primarily reduce triglycerides levels, may decrease LDL levels slightly, and can increase HDL levels by stimulating peroxisome proliferator-activated receptor alpha.",
+            "wrongAnswer_1": "Fibrates significantly enhance the storage of cholesterol in adipose tissues, reducing its presence in the bloodstream.",
+            "wrongAnswer_2": "These drugs inhibit the absorption of essential fatty acids, leading to a decrease in overall lipid levels in the body.",
+            "wrongAnswer_3": "Fibrates act principally to elevate LDL levels while reducing HDL levels, altering the lipid profile adversely.",
+            "wrongAnswer_4": "The main effect of fibrates is to inhibit lipolysis, leading to increased levels of triglycerides in the blood."
+          }
+        ]
+      },
+      {
+        "title": "Investigational treatments of atherosclerosis and non-drug treatment: LDL apheresis",
+        "quizzes": [
+          {
+            "question": "Describe the process and effectiveness of LDL apheresis in the treatment of atherosclerosis.",
+            "goodAnswer": "LDL apheresis is a method where LDL particles are selectively removed from blood via apheresis, effectively lowering LDL levels even in cases with homozygous LDL receptor deficiency, and can regress atherosclerosis.",
+            "wrongAnswer_1": "LDL apheresis involves the introduction of synthetic LDL absorbers into the bloodstream, which dissolve LDL particles gradually.",
+            "wrongAnswer_2": "This non-drug treatment reduces atherosclerosis by increasing the arterial elasticity, making it less prone to LDL buildup.",
+            "wrongAnswer_3": "LDL apheresis is a dietary method where patients consume foods that naturally bind to LDL, facilitating its removal via the digestive tract.",
+            "wrongAnswer_4": "The treatment involves the use of lasers to break down LDL deposits in arteries, thus clearing blockages and reducing atherosclerosis severity."
+          },
+          {
+            "question": "What is the primary mechanismM drags in the liberd diesease?",
+            "goodAnswer": "VLDL inhibitors reduce cholesterol by preventing the liver from secreting VLDL and LDL, thus lowering cholesterol levels.",
+            "wrongAnswer_1": "They increase the reactive oxygen species that degrade VLDL particles, using a non-enzymatic pathway to reduce their levels.",
+            "wrongAnswer_2": "VLDL inhibitors stimulate an increase in the hepatic uptake of chylomicrons, which indirectly reduces VLDL production.",
+            "wrongAnswer_3": "The main mechanism involves amplifying the synthesis of adiponectin which increases the natural breakdown of VLDL in the bloodstream.",
+            "wrongAnswer_4": "These inhibitors function by blocking the receptor sites on liver cells, preventing VLDL from binding and being metabolized."
+          },
+          {
+            "question": "What are projected advantages of cholesterol ester transfer protein (CETP) inhibitors in managing atherosclerosis?",
+            "goodAnswer": "CETP inhibitors reduce the transfer of cholesterol from HDL to other lipoproteins, which can increase HDL levels while decreasing LDL, potentially reversing atherosclerosis.",
+            "wrongAnswer_1": "CETP inhibitors specifically enhance the excretion of cholesterol through the kidneys, aggressively removing it from circulation.",
+            "wrongAnswer_2": "These inhibitors create high-density lipids that actively cleanse arterial walls, reducing plaque and inflammation directly.",
+            "wrongAnswer_3": "CETP inhibitors lower blood cholesterol by directly inhibiting the synthesis of cholesterol in peripheral tissues.",
+            "wrongAnswer_4": "The inhibitors work by boosting enzymatic activity in the liver that converts cholesterol to bile, thereby reducing its blood levels."
+          }
+        ]
+      }
+    ]
+  }
+}

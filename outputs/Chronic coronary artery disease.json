@@ -1,0 +1,90 @@
+{
+  "mainTopic": {
+    "title": "Chronic coronary artery disease",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+    "subTopics": [
+      {
+        "title": "Development of CAD",
+        "quizzes": [
+          {
+            "question": "What are the primary stages in the development of coronary artery disease (CAD) as described by the American Heart Association (AHA)?",
+            "goodAnswer": "Initial lesion (intimal thickening), fatty streak, intermediate lesion, atheroma, fibroatheroma, and complicated plaque with thrombus formation.",
+            "wrongAnswer_1": "The CAD development stages include the build-up of endothelial dysfunction, the formation of a lipid core, calcification of the vessel walls, and the final stage of vessel occlusion.",
+            "wrongAnswer_2": "The traditional path includes initial endothelial damage, accumulation of macrophages, smooth muscle proliferation, and finally the rupture of the fibrous cap.",
+            "wrongAnswer_3": "Stages are defined by inflammation initiation, immune cell invasion, plaque calcification, and eventual plaque disruption leading to a myocardial infarction.",
+            "wrongAnswer_4": "CAD begins with hyperlipidemia, followed by arterial stiffening, calcific deposition, and finally ending in mechanical obstruction of the coronary arteries."
+          },
+          {
+            "question": "How does chronic coronary artery disease typically initiate according to the AHA?",
+            "goodAnswer": "The initial lesion in CAD is characterized by intimal thickening that begins from the first decade of life and is usually clinically silent.",
+            "wrongAnswer_1": "Chronic coronary artery disease begins with the deposition of cholesterol into the vascular wall, quickly leading to calcifications and clinical symptoms of ischemia.",
+            "wrongAnswer_2": "CAD starts with the sudden onset of endothelial dysfunction due to external factors like smoking or high cholesterol, often manifesting in adulthood.",
+            "wrongAnswer_3": "The disease starts predominantly due to genetic factors resulting in spontaneous mutation of smooth muscle cells in the coronary arteries.",
+            "wrongAnswer_4": "CAD is triggered by periods of intense physical exertion that cause microtears in the coronary artery walls, fostering plaque accumulation."
+          }
+        ]
+      },
+      {
+        "title": "Clinical presentations/definitions",
+        "quizzes": [
+          {
+            "question": "What distinguishes 'classic angina' from 'atypical angina' in terms of clinical presentation?",
+            "goodAnswer": "Classic angina is transient discomfort typically provoked by stress and relieved by rest or nitroglycerin, while atypical angina lacks one or more characteristics of classic angina.",
+            "wrongAnswer_1": "Classic angina is a constant pain not affected by physical activity, differing from atypical angina which occurs randomly without specific triggers.",
+            "wrongAnswer_2": "Atypical angina is associated with severe pain that lasts longer than the mild discomfort experienced during classic angina.",
+            "wrongAnswer_3": "Classic angina results directly from physical exertion, whereas atypical angina is mostly caused by emotional stress or cold weather.",
+            "wrongAnswer_4": "Atypical angina cannot be relieved by medications such as nitroglycerin, which is effective in alleviating pain in classic angina cases."
+          },
+          {
+            "question": "How is ‘angina equivalent’ defined, and what symptoms are commonly associated with it?",
+            "goodAnswer": "Angina equivalent is characterized by symptoms like dyspnea, fatigue, or weakness that manifest due to cardiac ischemia, not necessarily accompanied by chest pain.",
+            "wrongAnswer_1": "Angina equivalent includes non-cardiac symptoms such as gastrointestinal discomfort and sweating, mistaken for heart problems.",
+            "wrongAnswer_2": "It's defined as angina that occurs without any apparent physical or emotional triggers, typically presenting as nocturnal discomfort.",
+            "wrongAnswer_3": "Angina equivalent is a form of angina where the pain radiates to areas like the back or shoulders instead of the common location in the chest.",
+            "wrongAnswer_4": "This condition is described as silent ischemia where patients experience typical angina pain but lack the diagnostic ECG changes of ischemia."
+          }
+        ]
+      },
+      {
+        "title": "Concept of myocardial oxygen supply and demand",
+        "quizzes": [
+          {
+            "question": "What are the main determinants of myocardial oxygen demand?",
+            "goodAnswer": "Myocardial oxygen demand is primarily determined by heart rate, contractility, wall tension (preload and afterload), and the duration of diastole.",
+            "wrongAnswer_1": "Oxygen demand is solely determined by the rate of coronary blood flow and the intrinsic ability of the myocardium to utilize oxygen.",
+            "wrongAnswer_2": "Primary factors include the viscosity of the blood, the external temperature which affects blood vessel dilation, and the patient's level of physical activity.",
+            "wrongAnswer_3": "It is influenced mainly by arterial oxygen content, the presence of certain respiratory conditions, and systemic blood pressure.",
+            "wrongAnswer_4": "Determinants involve enzymatic activity within the myocardial cells, the level of electrolytes in body fluids, and the overall metabolic rate of the individual."
+          }
+        ]
+      },
+      {
+        "title": "Pathophysiology of chronic ischemia syndromes",
+        "quizzes": [
+          {
+            "question": "What role does endothelial dysfunction play in the pathophysiology of chronic ischemia syndromes?",
+            "goodAnswer": "Endothelial dysfunction in chronic ischemia leads to a reduced capacity for vasodilation in response to stress, contributing to inadequate blood flow and ischemia.",
+            "wrongAnswer_1": "It primarily causes a significant increase in plaque stability, reducing the likelihood of rupture and subsequent ischemic events.",
+            "wrongAnswer_2": "Endothelial dysfunction is a secondary concern in chronic ischemia, with the main pathophysiological feature being the hypertrophy of the myocardial wall.",
+            "wrongAnswer_3": "This dysfunction affects the synthesis of myocardial enzymes, which directly impairs the contraction capacity of cardiac muscle fibers.",
+            "wrongAnswer_4": "The main consequence is the enhancement of lipid transport into the arterial wall, which does not directly contribute to ischemia but exacerbates atherosclerotic plaque formation."
+          }
+        ]
+      },
+      {
+        "title": "Diagnosis, Treatment strategies, Prognosis",
+        "quizzes": [
+          {
+            "question": "What is the most accurate method to diagnose chronic coronary artery disease?",
+            "goodAnswer": "Coronary angiography is the most reliable method to obtain anatomical details and diagnose chronic coronary artery disease.",
+            "wrongAnswer_1": "24-hour Holter monitoring is considered the gold standard as it allows for the continuous recording of heart activity.",
+            "wrongAnswer_2": "A complete blood count (CBC) is typically the first and most accurate test performed to diagnose chronic coronary artery disease.",
+            "wrongAnswer_3": "Transthoracic echocardiography is the most accurate, providing detailed images of heart chambers, valves, and the presence of any atherosclerotic plaque.",
+            "wrongAnswer_4": "MRI of the chest is the preferred diagnostic tool, offering clear images of both coronary arteries and heart muscle structure."
+          }
+        ]
+      }
+    ]
+  }
+}

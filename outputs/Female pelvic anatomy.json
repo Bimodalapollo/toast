@@ -1,0 +1,80 @@
+{
+  "mainTopic": {
+    "title": "Female pelvic anatomy",
+    "team_name": "[Toast szeletek]",
+    "content_info": "The uploaded materials in the PDF files sometimes outline format, which helps in formulating focused revision quizzes.",
+    "subTopics": [
+      {
+        "title": "Uterus",
+        "quizzes": [
+          {
+            "question": "What types of tissues compose the main structure of the uterus?",
+            "goodAnswer": "The uterus is composed of smooth muscle, collagen connective tissue, vessels, nerves, and lymphatics.",
+            "wrongAnswer_1": "The uterus mainly consists of epithelial cells, adipose tissue, and small amounts of connective tissue.",
+            "wrongAnswer_2": "Primarily, the uterus is formed from cartilage, skeletal muscle, and neural tissue to facilitate childbirth.",
+            "wrongAnswer_3": "The uterus is predominantly made of endothelial cells lining the interior, with minimal muscular structure.",
+            "wrongAnswer_4": "It comprises primarily fatty tissue interspersed with nerves to detect hormonal changes."
+          },
+          {
+            "question": "Where are the ovaries located in relation to the uterus?",
+            "goodAnswer": "The ovaries are behind the uterus and usually lie in the cul-de-sac.",
+            "wrongAnswer_1": "Ovaries are positioned in front of the uterus, forming the primary structure of the pelvic cavity.",
+            "wrongAnswer_2": "Located directly above the uterus, the ovaries are attached to the fallopian tubes.",
+            "wrongAnswer_3": "The ovaries are located at the lower end of the uterus, making direct contact with the cervical opening.",
+            "wrongAnswer_4": "They are found within the broad ligament, closely integrated into the uterine structure."
+          },
+          {
+            "question": "What are the supportive ligaments of the uterus and their roles?",
+            "goodAnswer": "The uterus is supported by utero-sacral and cardinal ligaments; round ligaments have no supportive value.",
+            "wrongAnswer_1": "Utero-sacral ligaments primarily provide nutrient support, while the cardinal ligament assists in the alignment of the fetal head during labor.",
+            "wrongAnswer_2": "The main supporting ligament is the broad ligament, which is a true ligament providing structural stability to the uterus.",
+            "wrongAnswer_3": "All ligaments attached to the uterus, including the round, broad, and cardinal ligaments, provide equal support and stabilization.",
+            "wrongAnswer_4": "The uterus is exclusively supported by a muscular structure called the utero-pectineal ligament, which holds it in the pelvic cavity."
+          }
+        ]
+      },
+      {
+        "title": "Histology",
+        "quizzes": [
+          {
+            "question": "What are the characteristics of the cervical canal's epithelium?",
+            "goodAnswer": "The cervical canal is lined with ciliated columnar epithelium, containing crypts that extend into the collagenous lamina propria.",
+            "wrongAnswer_1": "It consists of stratified squamous epithelium throughout with several layers of keratin for protection against physical damage.",
+            "wrongAnswer_2": "Primarily made of loose connective tissue with embedded glandular structures producing protective mucus.",
+            "wrongAnswer_3": "The canal is lined with transitional epithelium, which changes shape in response to tension during menstrual cycles.",
+            "wrongAnswer_4": "It features a simple cuboidal epithelium designed to facilitate the direct absorption of nutrients from the vaginal tract."
+          },
+          {
+            "question": "What hormonal changes occur in the endometrium throughout the menstrual cycle?",
+            "goodAnswer": "The endometrium consists of columnar epithelium that undergoes hormonal changes each month, ultimately shedding known as 'decidua'.",
+            "wrongAnswer_1": "It goes through phases of thickening and vascularization, but remains structurally unchanged throughout the cycle.",
+            "wrongAnswer_2": "The endometrium gradually transforms into squamous epithelium to prepare the uterus for potential implantation.",
+            "wrongAnswer_3": "Hormonal fluctuations lead to the gradual calcification of endometrial tissues as a protective measure against over-exertion.",
+            "wrongAnswer_4": "Mainly, it thickens and narrows the cervical canal to prevent any infections during the menstrual cycle."
+          }
+        ]
+      },
+      {
+        "title": "Abnormal bleeding",
+        "quizzes": [
+          {
+            "question": "What defines Menorrhagia in terms of menstrual bleeding patterns?",
+            "goodAnswer": "Menorrhagia is characterized by excessive menstrual bleeding at regular intervals.",
+            "wrongAnswer_1": "It's defined by very short intervals of menstrual cycles, typically less than 21 days.",
+            "wrongAnswer_2": "Menorrhagia involves minimal but regular menstrual bleeding, often leading to anemia.",
+            "wrongAnswer_3": "Refers to intermittent menstrual bleeding occurrences without a regular cycle pattern.",
+            "wrongAnswer_4": "It describes significant delays between menstrual periods, usually greater than 35 days."
+          },
+          {
+            "question": "What might cause postmenopausal bleeding and why is it significant?",
+            "goodAnswer": "Postmenopausal bleeding is unanticipated after one year of amenorrhea and might indicate pregnancy, infection, neoplasm, hormonal issues, iatrogenic or systemic factors.",
+            "wrongAnswer_1": "This type of bleeding only indicates mild hormonal fluctuations and usually does not require medical attention unless persistent.",
+            "wrongAnswer_2": "It typically results from prolonged exposure to environmental stress and is rarely a sign of underlying pathology.",
+            "wrongAnswer_3": "Usually caused by undiagnosed diabetes and easily treated with dietary adjustments and oral medications.",
+            "wrongAnswer_4": "It is mainly due to poor lifestyle choices like smoking or excessive alcohol intake and is corrected through lifestyle modification."
+          }
+        ]
+      }
+    ]
+  }
+}
